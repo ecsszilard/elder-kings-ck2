@@ -1,0 +1,15 @@
+# County Title
+title = c_torthumberland
+
+# Settlements
+max_settlements = 5
+
+b_alcaniz = castle
+b_calamocha = temple
+b_nuevalos = city
+
+# Misc
+culture = strigany
+religion = vahzen
+
+# History

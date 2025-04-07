@@ -1,0 +1,13 @@
+# County Title
+title = c_ard_kestrel
+
+# Settlements
+max_settlements = 4
+
+b_ard_kestrel = tribal
+
+# Misc
+culture = orc
+religion = daedra_malacath
+
+# History

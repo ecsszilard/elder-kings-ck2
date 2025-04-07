@@ -1,0 +1,15 @@
+# County Title
+title = c_banohn
+
+# Settlements
+max_settlements = 5
+
+b_banohn = castle
+b_rukith = temple
+b_agnadon = city
+
+# Misc
+culture = tevari
+religion = daedra_azura
+
+# History

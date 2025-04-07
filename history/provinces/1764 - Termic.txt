@@ -1,0 +1,15 @@
+# County Title
+title = c_termic
+
+# Settlements
+max_settlements = 5
+
+b_qunohn = castle
+b_termic = temple
+b_teufeph = city
+
+# Misc
+culture = tilean
+religion = daedra_azura
+
+# History

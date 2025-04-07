@@ -1,0 +1,13 @@
+# County Title
+title = c_bukina
+
+# Settlements
+max_settlements = 3
+
+b_bukina = tribal
+
+# Misc
+culture = orc
+religion = daedra_malacath
+
+# History

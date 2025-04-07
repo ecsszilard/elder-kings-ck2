@@ -1,0 +1,13 @@
+# County Title
+title = c_worfolk
+
+# Settlements
+max_settlements = 4
+
+b_algaida = tribal
+
+# Misc
+culture = strigany
+religion = vahzen
+
+# History

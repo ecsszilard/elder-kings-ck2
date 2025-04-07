@@ -1,0 +1,16 @@
+# County Title
+title = c_huipa
+
+# Settlements
+max_settlements = 4
+
+b_huipa = temple
+b_qalile = city
+b_dekothan = castle
+
+# Misc
+culture = woodelf
+religion = ideal_masters
+terrain = forest
+
+# History

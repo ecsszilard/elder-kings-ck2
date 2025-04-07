@@ -1,0 +1,5 @@
+	title = c_rerian
+	max_settlements = 4
+	culture = zesterling
+	religion = night_court
+	b_kalulam = tribal

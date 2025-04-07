@@ -1,0 +1,15 @@
+# County Title
+title = c_belola
+
+# Settlements
+max_settlements = 4
+
+b_liucelg = tribal
+b_agayamme = castle
+
+# Misc
+culture = urukhai
+religion = daedra_malacath
+
+# History
+

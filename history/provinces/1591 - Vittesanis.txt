@@ -1,0 +1,15 @@
+# County Title
+title = c_vittesanis
+
+# Settlements
+max_settlements = 4
+
+b_krofendau = castle
+b_ozden = temple
+b_tecwidi = city
+
+# Misc
+culture = cathayan
+religion = daedra_sanguine
+
+# History

@@ -1,0 +1,15 @@
+# County Title
+title = c_sivelitz
+
+# Settlements
+max_settlements = 4
+
+b_sivelitz = castle
+b_amydn = temple
+b_raethpar = city
+
+# Misc
+culture = balrog
+religion = anuic_skaal
+
+# History

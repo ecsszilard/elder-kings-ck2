@@ -1,0 +1,14 @@
+# County Title
+title = c_wirika
+
+# Settlements
+max_settlements = 3
+
+b_akosarim = tribal
+
+# Misc
+culture = mummy
+religion = anuic_skaal
+terrain = desert
+
+# History

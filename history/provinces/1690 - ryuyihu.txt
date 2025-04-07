@@ -1,0 +1,5 @@
+	title = c_ryuyihu
+	max_settlements = 3
+	culture = culture_lossoth
+	religion = vahzen
+	b_damiyahu = tribal

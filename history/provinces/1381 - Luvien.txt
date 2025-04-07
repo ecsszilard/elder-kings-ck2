@@ -1,0 +1,17 @@
+# County Title
+title = c_luvien
+
+# Settlements
+max_settlements = 6
+
+b_luvien = temple
+b_ramox = city
+b_moonchurch = temple
+b_sandhold = castle
+
+# Misc
+culture = kislev
+religion = old_gods
+
+
+# History

@@ -1,0 +1,10 @@
+title = c_tibana
+
+max_settlements = 3
+
+b_simhi = tribal
+
+culture = zesterling
+religion = night_court
+terrain = mountain
+

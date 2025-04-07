@@ -1,0 +1,15 @@
+# County Title
+title = c_breifne
+
+# Settlements
+max_settlements = 4
+
+b_tavian = castle
+b_amposta = city
+b_sancugat = temple
+
+# Misc
+culture = cathayan
+religion = daedra_sanguine
+
+# History

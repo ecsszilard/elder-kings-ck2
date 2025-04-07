@@ -1,0 +1,15 @@
+# County Title
+title = c_eram
+
+# Settlements
+max_settlements = 4
+
+b_sateid = castle
+b_datush = temple
+b_gmecey = city
+
+# Misc
+culture = falmer
+religion = daedra_meridia
+
+# History

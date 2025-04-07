@@ -1,0 +1,5 @@
+	title = c_seroo
+	max_settlements = 6
+	culture = culture_lossoth
+	religion = vahzen
+	b_seroo = tribal

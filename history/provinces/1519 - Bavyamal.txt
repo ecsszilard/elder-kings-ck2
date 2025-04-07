@@ -1,0 +1,15 @@
+# County Title
+title = c_bavyamal
+
+# Settlements
+max_settlements = 4
+
+b_nevar = castle
+b_turedros = castle
+b_wisama = city
+
+# Misc
+culture = culture_numenorean
+religion = forsworn_heresy
+
+# History

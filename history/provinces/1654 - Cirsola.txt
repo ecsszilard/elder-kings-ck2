@@ -1,0 +1,15 @@
+# County Title
+title = c_cirsola
+
+# Settlements
+max_settlements = 5
+
+b_cirsola = castle
+b_offobut = temple
+b_stribo = city
+
+# Misc
+culture = culture_firebeard
+religion = night_court
+
+# History

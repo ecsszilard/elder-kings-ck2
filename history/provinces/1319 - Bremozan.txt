@@ -1,0 +1,16 @@
+# County Title
+title = c_bremozan
+
+# Settlements
+max_settlements = 4
+
+b_bremozan = castle
+b_yamur = temple
+b_zog = castle
+
+# Misc
+culture = woodelf
+religion = ideal_masters
+terrain = forest
+
+# History

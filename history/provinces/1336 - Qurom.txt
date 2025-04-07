@@ -1,0 +1,15 @@
+# County Title
+title = c_qurom
+
+# Settlements
+max_settlements = 4
+
+b_qurom = temple
+b_qizobl = city
+b_cacur = castle
+
+# Misc
+culture = culture_silvan
+religion = old_gods
+
+# History

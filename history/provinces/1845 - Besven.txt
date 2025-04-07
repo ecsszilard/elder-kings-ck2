@@ -1,0 +1,14 @@
+# County Title
+title = c_besven
+
+# Settlements
+max_settlements = 5
+
+b_edirje = tribal
+b_besven = temple
+
+# Misc
+culture = ogre
+religion = daedra_malacath
+
+# History

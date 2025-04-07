@@ -1,0 +1,14 @@
+# County Title
+title = c_mornouaille
+
+# Settlements
+max_settlements = 4
+
+b_norena = castle
+b_cacabelos = city
+
+# Misc
+culture = strigany
+religion = vahzen
+
+# History

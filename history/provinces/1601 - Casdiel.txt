@@ -1,0 +1,15 @@
+# County Title
+title = c_casdiel
+
+# Settlements
+max_settlements = 3
+
+b_portel = castle
+b_xintelda = city
+b_mourazi = temple
+
+# Misc
+culture = culture_firebeard
+religion = vahzen
+
+# History

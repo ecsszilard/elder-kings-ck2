@@ -1,0 +1,15 @@
+# County Title
+title = c_lunbar
+
+# Settlements
+max_settlements = 3
+
+b_tovian = castle
+b_dozard = temple
+b_derim = city
+
+# Misc
+culture = strigany
+religion = vahzen
+
+# History

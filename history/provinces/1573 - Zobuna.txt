@@ -1,0 +1,15 @@
+# County Title
+title = c_zobuna
+
+# Settlements
+max_settlements = 4
+
+b_kodush = castle
+b_tyileuta = temple
+b_arivena = temple
+
+# Misc
+culture = cathayan
+religion = daedra_sanguine
+
+# History

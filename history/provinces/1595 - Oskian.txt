@@ -1,0 +1,13 @@
+# County Title
+title = c_oskian
+
+# Settlements
+max_settlements = 4
+
+b_berim = tribal
+
+# Misc
+culture = culture_hobbit
+religion = daedra_sanguine
+
+# History

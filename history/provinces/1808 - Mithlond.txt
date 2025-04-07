@@ -1,0 +1,16 @@
+# County Title
+title = c_mithlond
+
+# Settlements
+max_settlements = 5
+
+b_mithlond = castle
+b_esgaroth = city
+b_duskveil = city
+b_bralor = temple
+
+# Misc
+culture = demon_main
+religion = daedra_molag
+
+# History

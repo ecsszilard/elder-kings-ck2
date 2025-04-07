@@ -1,0 +1,15 @@
+# County Title
+title = c_rupdala
+
+# Settlements
+max_settlements = 4
+
+b_rupdala = castle
+b_sandica = city
+b_stonablon = temple
+
+# Misc
+culture = kislev
+religion = old_gods
+
+# History

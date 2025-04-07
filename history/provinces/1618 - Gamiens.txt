@@ -1,0 +1,15 @@
+# County Title
+title = c_gamiens
+
+# Settlements
+max_settlements = 4
+
+b_olite = castle
+b_carcastillo = temple
+b_kijory = city
+
+# Misc
+culture = strigany
+religion = vahzen
+
+# History

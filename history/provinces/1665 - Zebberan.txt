@@ -1,0 +1,13 @@
+# County Title
+title = c_zebberan
+
+# Settlements
+max_settlements = 4
+
+b_zebberan = tribal
+
+# Misc
+culture = culture_haradrim
+religion = night_court
+
+# History

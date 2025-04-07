@@ -1,0 +1,15 @@
+# County Title
+title = c_buddefor
+
+# Settlements
+max_settlements = 5
+
+b_dofa = city
+b_noabell = temple
+b_myutto = castle
+
+# Misc
+culture = cathayan
+religion = daedra_sanguine
+
+# History

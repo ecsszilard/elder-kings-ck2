@@ -1,0 +1,13 @@
+# County Title
+title = c_arvamas
+
+# Settlements
+max_settlements = 3
+
+b_arvamas = tribal
+
+# Misc
+culture = orc
+religion = daedra_malacath
+
+# History

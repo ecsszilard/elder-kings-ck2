@@ -1,0 +1,15 @@
+# County Title
+title = c_semaud
+
+# Settlements
+max_settlements = 4
+
+b_kalaud = castle
+b_ashadir = temple
+b_rolot = temple
+
+# Misc
+culture = nocker
+religion = old_gods
+
+# History

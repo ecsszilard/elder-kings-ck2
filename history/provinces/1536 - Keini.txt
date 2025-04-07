@@ -1,0 +1,15 @@
+# County Title
+title = c_keini
+
+# Settlements
+max_settlements = 4
+
+b_aronot = castle
+b_koner = castle
+b_seppis = city
+
+# Misc
+culture = nocker
+religion = old_gods
+
+# History

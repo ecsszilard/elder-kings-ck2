@@ -1,0 +1,13 @@
+# County Title
+title = c_munor
+
+# Settlements
+max_settlements = 4
+
+b_munor = tribal
+
+# Misc
+culture = orc
+religion = daedra_malacath
+
+# History

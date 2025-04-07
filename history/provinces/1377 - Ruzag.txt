@@ -1,0 +1,16 @@
+# County Title
+title = c_ruzag
+
+# Settlements
+max_settlements = 5
+
+b_suray = city
+b_rockyridge = castle
+b_clogen = temple
+
+# Misc
+culture = archein
+religion = hist
+terrain = argonia
+
+# History

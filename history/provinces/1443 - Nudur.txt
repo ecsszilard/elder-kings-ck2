@@ -1,0 +1,15 @@
+# County Title
+title = c_nudur
+
+# Settlements
+max_settlements = 4
+
+b_wanidon = castle
+b_tanian = city
+b_denita = temple
+
+# Misc
+culture = druchii
+religion = forsworn_heresy
+
+# History

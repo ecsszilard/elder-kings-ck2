@@ -1,0 +1,15 @@
+# County Title
+title = c_civael
+
+# Settlements
+max_settlements = 4
+
+b_tavank = castle
+b_isveib = temple
+b_razidon = city
+
+# Misc
+culture = reiklander
+religion = vahzen
+
+# History

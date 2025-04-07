@@ -1,0 +1,14 @@
+# County Title
+title = c_kaltun
+
+# Settlements
+max_settlements = 4
+
+b_kaltun = tribal
+b_derbne = temple
+
+# Misc
+culture = culture_haradrim
+religion = night_court
+
+# History

@@ -1,0 +1,13 @@
+# County Title
+title = c_vengerberg
+
+# Settlements
+max_settlements = 5
+
+b_vengerberg = tribal
+
+# Misc
+culture = ogre
+religion = anuic_skaal
+
+# History

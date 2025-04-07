@@ -1,0 +1,14 @@
+# County Title
+title = c_nolobedta
+
+# Settlements
+max_settlements = 5
+
+b_nolobedta = tribal
+b_nosopluk = temple
+
+# Misc
+culture = vedouin
+religion = night_court
+
+# History

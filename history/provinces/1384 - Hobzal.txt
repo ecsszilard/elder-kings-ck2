@@ -1,0 +1,15 @@
+# County Title
+title = c_hobzal
+
+# Settlements
+max_settlements = 4
+
+b_hobzal = castle
+b_brasshall = temple
+b_offero = city
+
+# Misc
+culture = kislev
+religion = old_gods
+
+# History

@@ -1,0 +1,16 @@
+# County Title
+title = c_rasoko
+
+# Settlements
+max_settlements = 4
+
+b_kaarim = castle
+b_durian = temple
+b_kamapa = city
+
+# Misc
+culture = demon_main
+religion = daedra_molag
+terrain = marsh
+
+# History

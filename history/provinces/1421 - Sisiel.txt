@@ -1,0 +1,15 @@
+# County Title
+title = c_sisiel
+
+# Settlements
+max_settlements = 4
+
+b_qeinaud = castle
+b_ruprne = city
+b_nonile = temple
+
+# Misc
+culture = druchii
+religion = ideal_masters
+
+# History

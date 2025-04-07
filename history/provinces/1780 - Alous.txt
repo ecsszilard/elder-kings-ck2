@@ -1,0 +1,15 @@
+# County Title
+title = c_alous
+
+# Settlements
+max_settlements = 4
+
+b_gielen = castle
+b_azabius = temple
+b_alous = city
+
+# Misc
+culture = tevari
+religion = daedra_azura
+
+# History

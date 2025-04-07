@@ -1,0 +1,17 @@
+# County Title
+title = c_gheintoras
+
+# Settlements
+max_settlements = 7
+
+b_gheintoras = castle
+b_bolomyr = city
+b_cegoda = city
+b_ezyum = temple
+
+# Misc
+culture = culture_silvan
+religion = old_gods
+terrain = hills
+
+# History

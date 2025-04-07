@@ -1,0 +1,15 @@
+# County Title
+title = c_rifeh
+
+# Settlements
+max_settlements = 4
+
+b_harud = castle
+b_zamari = temple
+b_ebonshade = city
+
+# Misc
+culture = demon_main
+religion = daedra_molag
+
+# History

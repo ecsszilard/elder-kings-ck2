@@ -1,0 +1,15 @@
+# County Title
+title = c_baxita
+
+# Settlements
+max_settlements = 4
+
+b_lavitri = castle
+b_lavosgi = temple
+b_wapana = city
+
+# Misc
+culture = culture_numenorean
+religion = forsworn_heresy
+
+# History

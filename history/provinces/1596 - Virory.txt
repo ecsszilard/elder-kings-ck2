@@ -1,0 +1,13 @@
+# County Title
+title = c_virory
+
+# Settlements
+max_settlements = 3
+
+b_qanali = tribal
+
+# Misc
+culture = culture_hobbit
+religion = daedra_sanguine
+
+# History

@@ -1,0 +1,15 @@
+# County Title
+title = c_keta
+
+# Settlements
+max_settlements = 4
+
+b_kositri = castle
+b_welana = city
+b_sazcatri = temple
+
+# Misc
+culture = culture_rohirrim
+religion = daedra_azura
+
+# History

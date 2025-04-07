@@ -1,0 +1,16 @@
+# County Title
+title = c_helim
+
+# Settlements
+max_settlements = 4
+
+b_dubran = castle
+b_ekhieti = city
+b_bureik = temple
+
+# Misc
+culture = demon_main
+religion = daedra_molag
+terrain = marsh
+
+# History

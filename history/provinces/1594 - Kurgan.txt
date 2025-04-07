@@ -1,0 +1,15 @@
+# County Title
+title = c_kurgan
+
+# Settlements
+max_settlements = 5
+
+b_kurgan = castle
+b_lirory = temple
+b_nurama = city
+
+# Misc
+culture = cathayan
+religion = daedra_sanguine
+
+# History

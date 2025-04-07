@@ -1,0 +1,9 @@
+title = c_wudal
+
+max_settlements = 3
+
+b_akasipan = tribal
+
+culture = zesterling
+religion = night_court
+terrain = mountain

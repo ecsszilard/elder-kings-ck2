@@ -1,0 +1,15 @@
+# County Title
+title = c_biberveldt
+
+# Settlements
+max_settlements = 4
+
+b_chappelle = castle
+b_pizmak = temple
+b_hazelquist = city
+
+# Misc
+culture = valar
+religion = anuic_skaal
+
+# History

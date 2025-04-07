@@ -1,0 +1,16 @@
+# County Title
+title = c_usvice
+
+# Settlements
+max_settlements = 4
+
+b_kateid = castle
+b_ejajalla = temple
+b_kinaton = city
+
+# Misc
+culture = culture_rohirrim
+religion = daedra_azura
+terrain = hills
+
+# History

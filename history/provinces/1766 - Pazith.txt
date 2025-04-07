@@ -1,0 +1,15 @@
+# County Title
+title = c_pazith
+
+# Settlements
+max_settlements = 4
+
+b_pazith = castle
+b_semioma = temple
+b_woferic = city
+
+# Misc
+culture = tilean
+religion = daedra_azura
+
+# History

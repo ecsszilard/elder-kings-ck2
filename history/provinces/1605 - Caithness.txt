@@ -1,0 +1,15 @@
+# County Title
+title = c_caithness
+
+# Settlements
+max_settlements = 4
+
+b_segovia = castle
+b_penafiel = temple
+b_gormaz = city
+
+# Misc
+culture = strigany
+religion = vahzen
+
+# History

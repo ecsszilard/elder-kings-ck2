@@ -1,0 +1,14 @@
+# County Title
+title = c_botirv
+
+# Settlements
+max_settlements = 4
+
+b_rivin = tribal
+b_agren = temple
+
+# Misc
+culture = troll
+religion = anuic_skaal
+
+# History

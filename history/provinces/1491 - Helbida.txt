@@ -1,0 +1,15 @@
+# County Title
+title = c_helbida
+
+# Settlements
+max_settlements = 4
+
+b_jalwaroz = castle
+b_voapes = temple
+b_etroyi = city
+
+# Misc
+culture = culture_rohirrim
+religion = daedra_azura
+
+# History

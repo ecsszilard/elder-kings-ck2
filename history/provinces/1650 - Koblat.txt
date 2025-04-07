@@ -1,0 +1,16 @@
+# County Title
+title = c_koblat
+
+# Settlements
+max_settlements = 5
+
+b_vedden = castle
+b_evorost = temple
+b_sraha = city
+
+# Misc
+culture = culture_firebeard
+religion = night_court
+terrain = hills
+
+# History

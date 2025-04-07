@@ -1,0 +1,15 @@
+# County Title
+title = c_ashenfield
+
+# Settlements
+max_settlements = 4
+
+b_ashenfield = city
+b_duskford = castle
+b_vempal = temple
+
+# Misc
+culture = demon_main
+religion = daedra_molag
+
+# History

@@ -1,0 +1,13 @@
+# County Title
+title = c_rajud
+
+# Settlements
+max_settlements = 3
+
+b_tivarsac = tribal
+
+# Misc
+culture = jodpa
+religion = daedra_azura
+
+# History

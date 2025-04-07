@@ -1,0 +1,15 @@
+# County Title
+title = c_surrey
+
+# Settlements
+max_settlements = 4
+
+b_nufles = castle
+b_vinaros = city
+
+# Misc
+culture = culture_firebeard
+religion = vahzen
+terrain = hills
+
+# History

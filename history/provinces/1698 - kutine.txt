@@ -1,0 +1,5 @@
+	title = c_kutine
+	max_settlements = 3
+	culture = culture_lossoth
+	religion = night_court
+	b_nucurla = tribal

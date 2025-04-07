@@ -1,0 +1,14 @@
+# County Title
+title = c_poibrene
+
+# Settlements
+max_settlements = 4
+
+b_poibrene = tribal
+b_stranagl = temple
+
+# Misc
+culture = culture_goblin
+religion = anuic_skaal
+
+# History

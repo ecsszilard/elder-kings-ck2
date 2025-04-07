@@ -1,0 +1,15 @@
+# County Title
+title = c_disama
+
+# Settlements
+max_settlements = 4
+
+b_wurush = castle
+b_qivaton = city
+b_degaret = temple
+
+# Misc
+culture = culture_gondorian
+religion = daedra_azura
+
+# History

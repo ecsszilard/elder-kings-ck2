@@ -1,0 +1,15 @@
+# County Title
+title = c_kolonne
+
+# Settlements
+max_settlements = 4
+
+b_taldut = temple
+b_enile = city
+b_direw = castle
+
+# Misc
+culture = nocker
+religion = old_gods
+
+# History

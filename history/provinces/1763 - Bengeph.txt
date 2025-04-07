@@ -1,0 +1,15 @@
+# County Title
+title = c_bengeph
+
+# Settlements
+max_settlements = 4
+
+b_sunenr = castle
+b_akuneph = temple
+b_bunohn = city
+
+# Misc
+culture = tilean
+religion = daedra_azura
+
+# History

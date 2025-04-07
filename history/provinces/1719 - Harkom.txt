@@ -1,0 +1,13 @@
+# County Title
+title = c_harkom
+
+# Settlements
+max_settlements = 3
+
+b_agohn = tribal
+
+# Miscs
+culture = culture_bruedain
+religion = night_court
+
+# History

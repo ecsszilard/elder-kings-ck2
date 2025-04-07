@@ -1,0 +1,15 @@
+# County Title
+title = c_nortain
+
+# Settlements
+max_settlements = 4
+
+b_alard = castle
+b_doharb = temple
+b_ematian = city
+
+# Misc
+culture = strigany
+religion = vahzen
+
+# History

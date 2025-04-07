@@ -1,0 +1,5 @@
+	title = c_keuneem
+	max_settlements = 3
+	culture = zesterling
+	religion = night_court
+	b_athamzeh = tribal

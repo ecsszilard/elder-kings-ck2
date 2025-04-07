@@ -1,0 +1,15 @@
+# County Title
+title = c_perby
+
+# Settlements
+max_settlements = 5
+
+b_cerdana = castle
+b_besalu = temple
+b_banyoles = city
+
+# Misc
+culture = strigany
+religion = vahzen
+
+# History

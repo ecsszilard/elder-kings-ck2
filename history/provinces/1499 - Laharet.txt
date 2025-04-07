@@ -1,0 +1,15 @@
+# County Title
+title = c_laharet
+
+# Settlements
+max_settlements = 6
+
+b_ninama = castle
+b_lisoti = city
+b_bureuta = temple
+
+# Misc
+culture = culture_rohirrim
+religion = daedra_azura
+
+# History

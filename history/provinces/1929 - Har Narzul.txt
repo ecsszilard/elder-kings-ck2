@@ -1,0 +1,15 @@
+# County Title
+title = c_har_narzul
+
+# Settlements
+max_settlements = 4
+
+b_har_narzul = castle
+b_yeth = temple
+b_graefur = city
+
+# Misc
+culture = wight
+religion = anuic_skaal
+
+# History

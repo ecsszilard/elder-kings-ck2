@@ -1,0 +1,15 @@
+# County Title
+title = c_elu_anath
+
+# Settlements
+max_settlements = 4
+
+b_elu_anath = castle
+b_ulkar = temple
+b_kyrast = city
+
+# Misc
+culture = wight
+religion = anuic_skaal
+
+# History

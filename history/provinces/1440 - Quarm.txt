@@ -1,0 +1,15 @@
+# County Title
+title = c_quarm
+
+# Settlements
+max_settlements = 4
+
+b_nyaotar = castle
+b_kuat = castle
+b_tosidon = city
+
+# Misc
+culture = druchii
+religion = forsworn_heresy
+
+# History

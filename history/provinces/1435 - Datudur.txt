@@ -1,0 +1,17 @@
+# County Title
+title = c_datudur
+
+# Settlements
+max_settlements = 7
+
+b_bavew = castle
+b_kirule = city
+b_lozard = temple
+b_satew = castle
+
+# Misc
+culture = culture_numenorean
+religion = forsworn_heresy
+terrain = farmlands
+
+# History

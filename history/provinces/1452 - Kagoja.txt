@@ -1,0 +1,15 @@
+# County Title
+title = c_kagoja
+
+# Settlements
+max_settlements = 5
+
+b_wagidon = castle
+b_ageta = city
+b_tahita = temple
+
+# Misc
+culture = druchii
+religion = forsworn_heresy
+
+# History

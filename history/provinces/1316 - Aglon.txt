@@ -1,0 +1,17 @@
+# County Title
+title = c_aglon
+
+# Settlements
+max_settlements = 5
+
+b_aglon = castle
+b_negtevi = city
+b_raslagar = city
+
+# Misc
+culture = ashlander
+religion = ideal_masters
+
+#
+
+# History

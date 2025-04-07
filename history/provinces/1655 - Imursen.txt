@@ -1,0 +1,16 @@
+# County Title
+title = c_imursen
+
+# Settlements
+max_settlements = 5
+
+b_imursen = castle
+b_chrudim = temple
+b_teplice = city
+
+# Misc
+culture = culture_firebeard
+religion = night_court
+terrain = woods
+
+# History

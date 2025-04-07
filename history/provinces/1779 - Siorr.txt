@@ -1,0 +1,15 @@
+# County Title
+title = c_siorr
+
+# Settlements
+max_settlements = 4
+
+b_kamius = castle
+b_siorr = temple
+b_nousara = city
+
+# Misc
+culture = tevari
+religion = daedra_azura
+
+# History

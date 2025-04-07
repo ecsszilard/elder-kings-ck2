@@ -1,0 +1,14 @@
+# County Title
+title = c_blatnista
+
+# Settlements
+max_settlements = 4
+
+b_blatnista = tribal
+b_hekoms = temple
+
+# Misc
+culture = culture_goblin
+religion = anuic_skaal
+
+# History

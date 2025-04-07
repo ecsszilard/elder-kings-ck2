@@ -1,0 +1,16 @@
+# County Title
+title = c_syublen
+
+# Settlements
+max_settlements = 4
+
+b_syublen = city
+b_formindos = castle
+b_zapiped = temple
+
+# Misc
+culture = culture_hobbit
+religion = daedra_sanguine
+terrain = plains
+
+# History

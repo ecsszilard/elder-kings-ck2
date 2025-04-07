@@ -1,0 +1,15 @@
+# County Title
+title = c_nurumurl
+
+# Settlements
+max_settlements = 5
+
+b_nurumurl = castle
+b_ronkgul = temple
+b_khegorod = city
+
+# Misc
+culture = valar
+religion = anuic_skaal
+
+# History

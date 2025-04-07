@@ -1,0 +1,14 @@
+# County Title
+title = c_formyre
+
+# Settlements
+max_settlements = 4
+
+b_ojtoek = tribal
+b_morichida = temple
+
+# Misc
+culture = culture_goblin
+religion = anuic_skaal
+
+# History

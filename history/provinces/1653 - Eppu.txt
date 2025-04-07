@@ -1,0 +1,14 @@
+# County Title
+title = c_eppu
+
+# Settlements
+max_settlements = 4
+
+b_morian = castle
+b_galregen = city
+
+# Misc
+culture = culture_firebeard
+religion = night_court
+
+# History

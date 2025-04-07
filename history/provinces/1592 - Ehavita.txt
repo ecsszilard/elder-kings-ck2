@@ -1,0 +1,15 @@
+# County Title
+title = c_ehavita
+
+# Settlements
+max_settlements = 4
+
+b_ectudur = castle
+b_dozana = city
+b_tilard = temple
+
+# Misc
+culture = cathayan
+religion = daedra_sanguine
+
+# History

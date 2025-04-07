@@ -1,0 +1,15 @@
+# County Title
+title = c_negoti
+
+# Settlements
+max_settlements = 5
+
+b_tavush = castle
+b_saveid = city
+b_tonalla = temple
+
+# Misc
+culture = snow_falmer
+religion = ideal_masters
+
+# History

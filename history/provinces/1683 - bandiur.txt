@@ -1,0 +1,12 @@
+# County Title
+title = c_bandiur
+
+# Settlements
+max_settlements = 4
+
+b_balilia = tribal
+
+# Misc
+culture = zesterling
+religion = night_court
+

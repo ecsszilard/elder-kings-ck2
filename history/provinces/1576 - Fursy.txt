@@ -1,0 +1,15 @@
+# County Title
+title = c_fursy
+
+# Settlements
+max_settlements = 3
+
+b_cartum = castle
+b_ocal = temple
+b_sadlen = city
+
+# Misc
+culture = cathayan
+religion = daedra_sanguine
+
+# History

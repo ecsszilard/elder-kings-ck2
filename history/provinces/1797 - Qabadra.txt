@@ -1,0 +1,15 @@
+# County Title
+title = c_qabadra
+
+# Settlements
+max_settlements = 3
+
+b_sosara = castle
+b_wilof = temple
+b_nuqadra = city
+
+# Misc
+culture = tevari
+religion = daedra_azura
+
+# History

@@ -1,0 +1,14 @@
+# County Title
+title = c_qopa
+
+# Settlements
+max_settlements = 4
+
+b_qopa = tribal
+
+# Misc
+culture = demon_main
+religion = daedra_molag
+terrain = marsh
+
+# History

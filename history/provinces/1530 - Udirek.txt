@@ -1,0 +1,15 @@
+# County Title
+title = c_udirek
+
+# Settlements
+max_settlements = 4
+
+b_abahoti = temple
+b_wodar = castle
+b_surama = city
+
+# Misc
+culture = culture_gondorian
+religion = daedra_azura
+
+# History

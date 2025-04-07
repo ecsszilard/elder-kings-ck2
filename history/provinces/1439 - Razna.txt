@@ -1,0 +1,15 @@
+# County Title
+title = c_razna
+
+# Settlements
+max_settlements = 4
+
+b_eniruard = castle
+b_rinew = temple
+b_nory = city
+
+# Misc
+culture = druchii
+religion = forsworn_heresy
+
+# History

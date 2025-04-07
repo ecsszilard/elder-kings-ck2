@@ -1,0 +1,15 @@
+# County Title
+title = c_abetouz
+
+# Settlements
+max_settlements = 5
+
+b_abetouz = castle
+b_greltuden = temple
+b_beuferic = city
+
+# Misc
+culture = tilean
+religion = daedra_azura
+
+# History

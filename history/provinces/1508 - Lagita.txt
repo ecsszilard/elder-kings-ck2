@@ -1,0 +1,16 @@
+# County Title
+title = c_lagita
+
+# Settlements
+max_settlements = 4
+
+b_lagita = castle
+b_timzen = temple
+b_feccezoja = city
+
+# Misc
+culture = culture_gondorian
+religion = daedra_azura
+terrain = hills
+
+# History

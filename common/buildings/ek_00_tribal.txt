@@ -2090,8 +2090,8 @@ tribal = {
 		
 		ai_creation_factor = 86
 		
-		convert_to_castle = ca_longhouse_0
-		convert_to_city = ct_longhouse_0
+		convert_to_castle = ca_nordlonghouse_0
+		convert_to_city = ct_nordlonghouse_0
 
 		extra_tech_building_start = 1.5
 	}

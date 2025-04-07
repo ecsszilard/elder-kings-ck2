@@ -1,0 +1,15 @@
+# County Title
+title = c_arriach
+
+# Settlements
+max_settlements = 4
+
+b_arriach = castle
+b_indarl = city
+b_phakos = temple
+
+# Misc
+culture = balrog
+religion = anuic_skaal
+
+# History

@@ -1,0 +1,5 @@
+	title = c_tamana
+	max_settlements = 4
+	culture = zesterling
+	religion = night_court
+	b_ekamacja = tribal

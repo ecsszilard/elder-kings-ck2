@@ -1,0 +1,15 @@
+# County Title
+title = c_pantu
+
+# Settlements
+max_settlements = 6
+
+b_pantu = castle
+b_bevama = city
+b_laveny = temple
+
+# Misc
+culture = cathayan
+religion = daedra_sanguine
+
+# History

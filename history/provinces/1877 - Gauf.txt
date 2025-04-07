@@ -1,0 +1,13 @@
+# County Title
+title = c_gauf
+
+# Settlements
+max_settlements = 4
+
+b_gauf = tribal
+
+# Misc
+culture = orc
+religion = anuic_skaal
+
+# History

@@ -1,0 +1,16 @@
+# County Title
+title = c_bamish
+
+# Settlements
+max_settlements = 4
+
+b_siveridon = castle
+b_acule = city
+b_banali = temple
+
+# Misc
+culture = woodelf
+religion = ideal_masters
+terrain = woods
+
+# History

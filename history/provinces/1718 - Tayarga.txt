@@ -1,0 +1,13 @@
+# County Title
+title = c_tayarga
+
+# Settlements
+max_settlements = 3
+
+b_deculf = tribal
+
+# Misc
+culture = culture_bruedain
+religion = night_court
+
+# History

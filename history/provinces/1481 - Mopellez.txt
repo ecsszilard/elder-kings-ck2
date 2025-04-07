@@ -1,0 +1,15 @@
+# County Title
+title = c_mopellez
+
+# Settlements
+max_settlements = 4
+
+b_ruisar = city
+b_navulger = castle
+b_eryamal = temple
+
+# Misc
+culture = nocker
+religion = old_gods
+
+# History

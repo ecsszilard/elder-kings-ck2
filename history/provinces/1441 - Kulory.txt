@@ -1,0 +1,15 @@
+# County Title
+title = c_kulory
+
+# Settlements
+max_settlements = 4
+
+b_azbaetho = castle
+b_ezbita = city
+b_tyirta = temple
+
+# Misc
+culture = valar
+religion = anuic_skaal
+
+# History

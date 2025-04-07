@@ -1,0 +1,15 @@
+# County Title
+title = c_japis
+
+# Settlements
+max_settlements = 4
+
+b_quat = castle
+b_kahael = temple
+b_kavakti = city
+
+# Misc
+culture = falmer
+religion = daedra_meridia
+
+# History

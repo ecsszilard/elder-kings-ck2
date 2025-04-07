@@ -1,0 +1,15 @@
+# County Title
+title = c_bromile
+
+# Settlements
+max_settlements = 3
+
+b_torile = castle
+b_wemonne = city
+
+# Misc
+culture = redcap
+religion = forsworn_heresy
+terrain = mountain
+
+# History

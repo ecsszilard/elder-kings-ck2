@@ -1,0 +1,15 @@
+# County Title
+title = c_ratoti
+
+# Settlements
+max_settlements = 4
+
+b_kazush = castle
+b_sisama = city
+b_sazush = temple
+
+# Misc
+culture = culture_gondorian
+religion = daedra_azura
+
+# History

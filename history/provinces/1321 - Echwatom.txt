@@ -1,0 +1,16 @@
+# County Title
+title = c_echwatom
+
+# Settlements
+max_settlements = 4
+
+b_echwatom = city
+b_dedeath = temple
+b_vaussa = castle
+
+# Misc
+culture = asrai
+religion = old_gods
+terrain = forest
+
+# History

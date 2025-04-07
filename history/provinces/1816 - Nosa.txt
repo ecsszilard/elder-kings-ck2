@@ -1,0 +1,16 @@
+# County Title
+title = c_nosa
+
+# Settlements
+max_settlements = 4
+
+b_brightcliff = castle
+b_ramampo = temple
+b_wabatsi = city
+
+# Misc
+culture = demon_main
+religion = daedra_molag
+terrain = marsh
+
+# History

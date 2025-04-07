@@ -1,0 +1,15 @@
+# County Title
+title = c_kagarim
+
+# Settlements
+max_settlements = 4
+
+b_kagank = temple
+b_tagedros = castle
+b_savar = city
+
+# Misc
+culture = mojanz
+religion = daedra_sanguine
+
+# History

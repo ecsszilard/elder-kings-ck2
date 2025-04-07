@@ -1,0 +1,13 @@
+# County Title
+title = c_wenard
+
+# Settlements
+max_settlements = 3
+
+b_tariam = tribal
+
+# Misc
+culture = culture_haradrim
+religion = night_court
+
+# History

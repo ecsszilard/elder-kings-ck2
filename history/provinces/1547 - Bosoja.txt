@@ -1,0 +1,15 @@
+# County Title
+title = c_bosoja
+
+# Settlements
+max_settlements = 4
+
+b_dodoja = castle
+b_razank = temple
+b_losar = city
+
+# Misc
+culture = falmer
+religion = daedra_meridia
+
+# History

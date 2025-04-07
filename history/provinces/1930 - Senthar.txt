@@ -1,0 +1,15 @@
+# County Title
+title = c_senthar
+
+# Settlements
+max_settlements = 4
+
+b_senthar = castle
+b_skorn = temple
+b_keikal = city
+
+# Misc
+culture = wight
+religion = anuic_skaal
+
+# History

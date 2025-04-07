@@ -1,0 +1,14 @@
+# County Title
+title = c_racon
+
+# Settlements
+max_settlements = 4
+
+b_belme = tribal
+
+# Misc
+culture = urukhai
+religion = daedra_malacath
+
+# History
+

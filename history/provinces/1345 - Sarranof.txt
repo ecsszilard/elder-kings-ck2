@@ -1,0 +1,16 @@
+# County Title
+title = c_sarranof
+
+# Settlements
+max_settlements = 3
+
+b_sarranof = castle
+b_nbonetta = city
+b_tanemir = temple
+
+# Misc
+culture = eparsian
+religion = old_gods
+terrain = mountain
+
+# History

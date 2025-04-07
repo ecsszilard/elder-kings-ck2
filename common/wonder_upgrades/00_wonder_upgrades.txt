@@ -2044,7 +2044,9 @@ upgrade_horse_graveyard = { # Put your beloved horses to rest
 	gold_cost_flat = 450
 	gold_cost_ticking = 1
 	owner_modifier = {
-		horse_opinion = 5
+		command_modifier = {
+			cavalry = 0.1
+		}
 	}
 }
 

@@ -1,0 +1,15 @@
+# County Title
+title = c_leukaster
+
+# Settlements
+max_settlements = 5
+
+b_leukaster = castle
+b_jukaten = city
+b_opuwo = temple
+
+# Misc
+culture = chimer
+religion = ideal_masters
+
+# History

@@ -1,0 +1,14 @@
+# County Title
+title = c_climont
+
+# Settlements
+max_settlements = 4
+
+b_climont = tribal
+
+# Misc
+culture = ogre
+religion = anuic_skaal
+terrain = marsh
+
+# History

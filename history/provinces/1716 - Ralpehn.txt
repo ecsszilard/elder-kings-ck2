@@ -1,0 +1,14 @@
+# County Title
+title = c_ralpehn
+
+# Settlements
+max_settlements = 4
+
+b_ralpehn = tribal
+b_poltera = temple
+
+# Misc
+culture = vedouin
+religion = night_court
+
+# History

@@ -1,0 +1,15 @@
+# County Title
+title = c_emevush
+
+# Settlements
+max_settlements = 5
+
+b_navoti = castle
+b_kivoti = castle
+b_wonama = city
+
+# Misc
+culture = culture_silvan
+religion = old_gods
+
+# History

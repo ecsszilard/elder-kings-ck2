@@ -1,0 +1,15 @@
+# County Title
+title = c_lavaton
+
+# Settlements
+max_settlements = 5
+
+b_regar = castle
+b_kiveuta = temple
+b_tegeid = city
+
+# Misc
+culture = nocker
+religion = old_gods
+
+# History

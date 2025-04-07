@@ -1,0 +1,14 @@
+# County Title
+title = c_qodaton
+
+# Settlements
+max_settlements = 4
+
+b_zsamur = tribal
+
+# Misc
+culture = jodpa
+religion = daedra_azura
+terrain = mountain
+
+# History

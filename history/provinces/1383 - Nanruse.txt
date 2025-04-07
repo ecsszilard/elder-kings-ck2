@@ -1,0 +1,15 @@
+# County Title
+title = c_nanruse
+
+# Settlements
+max_settlements = 5
+
+b_nanruse = castle
+b_emidion = city
+b_hawkville = temple
+
+# Misc
+culture = kislev
+religion = old_gods
+
+# History

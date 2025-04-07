@@ -1,0 +1,15 @@
+# County Title
+title = c_darrick
+
+# Settlements
+max_settlements = 5
+
+b_famargo = castle
+b_teruel = temple
+b_hijarudur = city
+
+# Misc
+culture = strigany
+religion = vahzen
+
+# History

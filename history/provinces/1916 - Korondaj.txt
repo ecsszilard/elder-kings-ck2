@@ -1,0 +1,15 @@
+# County Title
+title = c_korondaj
+
+# Settlements
+max_settlements = 3
+
+b_korondaj = tribal
+b_amon_moth = temple
+
+# Misc
+culture = mummy
+religion = anuic_skaal
+terrain = desert
+
+# History

@@ -1,0 +1,14 @@
+# County Title
+title = c_ulster
+
+# Settlements
+max_settlements = 4
+
+b_pavis = tribal
+
+# Misc
+culture = culture_firebeard
+religion = vahzen
+terrain = hills
+
+# History

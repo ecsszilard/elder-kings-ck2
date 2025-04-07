@@ -1,0 +1,13 @@
+# County Title
+title = c_usitta
+
+# Settlements
+max_settlements = 3
+
+b_usitta = tribal
+
+# Misc
+culture = urukhai
+religion = anuic_skaal
+
+# History

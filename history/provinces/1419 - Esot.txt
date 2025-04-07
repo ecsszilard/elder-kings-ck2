@@ -1,0 +1,15 @@
+# County Title
+title = c_esot
+
+# Settlements
+max_settlements = 4
+
+b_yldeca = castle
+b_tuprati = city
+b_tolemir = temple
+
+# Misc
+culture = dwemer
+religion = ideal_masters
+
+# History

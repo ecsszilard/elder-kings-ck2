@@ -1,0 +1,14 @@
+# County Title
+title = c_hazdul
+
+# Settlements
+max_settlements = 3
+
+b_laglot = castle
+b_daliel = city
+
+# Misc
+culture = falmer
+religion = daedra_meridia
+
+# History

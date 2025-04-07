@@ -1,0 +1,13 @@
+# County Title
+title = c_terssac
+
+# Settlements
+max_settlements = 4
+
+b_terssac = tribal
+
+# Misc
+culture = orc
+religion = daedra_malacath
+
+# History

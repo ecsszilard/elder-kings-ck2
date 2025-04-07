@@ -1,0 +1,16 @@
+# County Title
+title = c_tyaotana
+
+# Settlements
+max_settlements = 4
+
+b_tagana = city
+b_kazcaret = castle
+b_kazeta = temple
+
+# Misc
+culture = jodpa
+religion = daedra_azura
+terrain = mountain
+
+# History

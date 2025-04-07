@@ -1,0 +1,15 @@
+# County Title
+title = c_kanuj
+
+# Settlements
+max_settlements = 4
+
+b_kanuj = castle
+b_rilart = temple
+b_sedarbon = city
+
+# Misc
+culture = asrai
+religion = old_gods
+
+# History

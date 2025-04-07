@@ -1,0 +1,14 @@
+# County Title
+title = c_toeweddir
+
+# Settlements
+max_settlements = 4
+
+b_toeweddir = tribal
+b_galdos = temple
+
+# Misc
+culture = culture_haradrim
+religion = night_court
+
+# History

@@ -1,0 +1,15 @@
+# County Title
+title = c_axeland
+
+# Settlements
+max_settlements = 5
+
+b_axeland = city
+b_gosire = temple
+b_rubyhan = castle
+
+# Misc
+culture = kislev
+religion = old_gods
+
+# History

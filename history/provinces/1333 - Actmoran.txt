@@ -1,0 +1,17 @@
+# County Title
+title = c_actmoran
+
+# Settlements
+max_settlements = 6
+
+b_actmoran = castle
+b_bunael = city
+b_fedosberg = castle
+b_lorot = temple
+
+# Misc
+culture = asrai
+religion = old_gods
+terrain = forest
+
+# History

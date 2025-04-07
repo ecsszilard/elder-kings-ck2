@@ -1,0 +1,16 @@
+# County Title
+title = c_zeoben
+
+# Settlements
+max_settlements = 6
+
+b_zeoben = castle
+b_tharn = castle
+b_teserban = temple
+b_vuthad_graef = city
+
+# Misc
+culture = balrog
+religion = anuic_skaal
+
+# History

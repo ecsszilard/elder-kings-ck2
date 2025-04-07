@@ -1,0 +1,5 @@
+	title = c_karen
+	max_settlements = 4
+	culture = zesterling
+	religion = night_court
+	b_sekomas = tribal

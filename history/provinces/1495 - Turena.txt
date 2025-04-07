@@ -1,0 +1,16 @@
+# County Title
+title = c_turena
+
+# Settlements
+max_settlements = 4
+
+b_eloti = castle
+b_qazama = city
+b_tavaton = temple
+
+
+# Misc
+culture = culture_numenorean
+religion = forsworn_heresy
+
+# History

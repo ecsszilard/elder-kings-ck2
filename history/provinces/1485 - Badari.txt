@@ -1,0 +1,15 @@
+# County Title
+title = c_badari
+
+# Settlements
+max_settlements = 4
+
+b_ejajar = castle
+b_wegama = temple
+b_byiloti = city
+
+# Misc
+culture = nocker
+religion = old_gods
+
+# History

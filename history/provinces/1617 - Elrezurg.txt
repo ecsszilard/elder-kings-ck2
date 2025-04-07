@@ -1,0 +1,15 @@
+# County Title
+title = c_elrezurg
+
+# Settlements
+max_settlements = 4
+
+b_lavudur = castle
+b_bory = temple
+b_pamplona = city
+
+# Misc
+culture = strigany
+religion = vahzen
+
+# History

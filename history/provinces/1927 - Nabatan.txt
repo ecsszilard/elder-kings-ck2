@@ -1,0 +1,15 @@
+# County Title
+title = c_nabatan
+
+# Settlements
+max_settlements = 4
+
+b_ghrond = castle
+b_nabatan = temple
+b_jeva = city
+
+# Misc
+culture = wight
+religion = anuic_skaal
+
+# History

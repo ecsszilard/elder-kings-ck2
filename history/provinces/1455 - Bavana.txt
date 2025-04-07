@@ -1,0 +1,15 @@
+# County Title
+title = c_bavana
+
+# Settlements
+max_settlements = 4
+
+b_dodeta = castle
+b_tazcasgi = city
+b_kaxoja = temple
+
+# Misc
+culture = druchii
+religion = ideal_masters
+
+# History

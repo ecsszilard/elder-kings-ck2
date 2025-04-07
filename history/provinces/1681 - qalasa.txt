@@ -1,0 +1,5 @@
+	title = c_qalasa
+	max_settlements = 5
+	culture = zesterling
+	religion = night_court
+	b_qausasa = tribal

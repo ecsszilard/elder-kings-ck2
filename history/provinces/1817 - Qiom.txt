@@ -1,0 +1,16 @@
+# County Title
+title = c_qiom
+
+# Settlements
+max_settlements = 5
+
+b_qiom = castle
+b_ivoryglade = temple
+b_reledra = city
+
+# Misc
+culture = demon_main
+religion = daedra_molag
+terrain = marsh
+
+# History

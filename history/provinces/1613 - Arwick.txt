@@ -1,0 +1,15 @@
+# County Title
+title = c_arwick
+
+# Settlements
+max_settlements = 4
+
+b_nilerim = castle
+b_tyirard = temple
+b_tovew = city
+
+# Misc
+culture = strigany
+religion = vahzen
+
+# History

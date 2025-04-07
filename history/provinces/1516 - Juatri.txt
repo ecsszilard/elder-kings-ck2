@@ -1,0 +1,15 @@
+# County Title
+title = c_juatri
+
+# Settlements
+max_settlements = 5
+
+b_juatri = castle
+b_nagaret = city
+b_bagitri = temple
+
+# Misc
+culture = culture_gondorian
+religion = daedra_azura
+
+# History

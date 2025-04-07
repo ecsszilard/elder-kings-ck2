@@ -1,0 +1,15 @@
+# County Title
+title = c_sibuantes
+
+# Settlements
+max_settlements = 5
+
+b_sibuantes = city
+b_tiseran = castle
+b_ojav = castle
+
+# Misc
+culture = eparsian
+religion = old_gods
+
+# History

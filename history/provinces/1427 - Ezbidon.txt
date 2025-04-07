@@ -1,0 +1,15 @@
+# County Title
+title = c_ezbidon
+
+# Settlements
+max_settlements = 5
+
+b_ezbidon = castle
+b_danita = city
+b_kirian = temple
+
+# Misc
+culture = woodelf
+religion = ideal_masters
+
+# History

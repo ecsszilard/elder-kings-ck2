@@ -1,0 +1,14 @@
+# County Title
+title = c_xib
+
+# Settlements
+max_settlements = 4
+
+b_adimar = tribal
+b_tonfuabe = temple
+
+# Misc
+culture = jodpa
+religion = daedra_azura
+
+# History

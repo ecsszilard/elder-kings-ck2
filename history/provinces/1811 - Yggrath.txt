@@ -1,0 +1,16 @@
+# County Title
+title = c_yggrath
+
+# Settlements
+max_settlements = 4
+
+b_yggrath = castle
+b_cinderfall = city
+b_denaju = temple
+
+# Misc
+culture = demon_main
+religion = daedra_molag
+terrain = marsh
+
+# History

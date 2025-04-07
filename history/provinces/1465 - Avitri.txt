@@ -1,0 +1,15 @@
+# County Title
+title = c_avitri
+
+# Settlements
+max_settlements = 5
+
+b_lodakti = castle
+b_wyaoteta = city
+b_syavaret = temple
+
+# Misc
+culture = snow_falmer
+religion = daedra_meridia
+
+# History

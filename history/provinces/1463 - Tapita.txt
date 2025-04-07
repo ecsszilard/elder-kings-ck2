@@ -1,0 +1,15 @@
+# County Title
+title = c_tapita
+
+# Settlements
+max_settlements = 5
+
+b_tyavarim = castle
+b_tuarm = temple
+b_waheta = city
+
+# Misc
+culture = snow_falmer
+religion = ideal_masters
+
+# History

@@ -1,0 +1,15 @@
+# County Title
+title = c_kanoti
+
+# Settlements
+max_settlements = 5
+
+b_avyamal = castle
+b_qisalla = city
+b_rimeuta = temple
+
+# Misc
+culture = nocker
+religion = old_gods
+
+# History

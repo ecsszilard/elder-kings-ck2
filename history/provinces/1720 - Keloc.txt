@@ -1,0 +1,13 @@
+# County Title
+title = c_keloc
+
+# Settlements
+max_settlements = 3
+
+b_wemid = tribal
+
+# Miscs
+culture = culture_bruedain
+religion = night_court
+
+# History

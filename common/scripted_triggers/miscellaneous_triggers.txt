@@ -117,6 +117,34 @@ trade_route_post_trigger = {
 				province_id = 636 #Ravan
 				province_id = 633 #Samara
 				province_id = 527 #Herne
+				province_id = 1307 #Jabiem
+				province_id = 1393 #Boladir
+				province_id = 1407 #Qunabhan
+				province_id = 1467 #Ciseid
+				province_id = 1557 #Amazidon
+				province_id = 1568 #Pantu
+				province_id = 1594 #Kurgan
+				province_id = 1691 #Seroo
+				province_id = 887 #Mahala
+				province_id = 1414 #Remada
+				province_id = 976 #Lohur
+				province_id = 969 #Muk
+				province_id = 1600 #Ormond
+				province_id = 1507 #Zaveid
+				province_id = 1625 #Camiens
+				province_id = 1588 #Athinor
+				province_id = 1333 #Actmoran
+				province_id = 1340 #Gheintoras
+				province_id = 1499 #Laharet
+				province_id = 802 #Gorling
+				province_id = 786 #Sarcal
+				province_id = 1580 #Paggute
+				province_id = 1455 #Bavana
+				province_id = 1435 #Datudur
+				province_id = 1764 #Termic
+				province_id = 1611 #Perby
+				province_id = 1863 #Caed Myrkvid
+				province_id = 1517 #Tevama
 			}
 		}
 	}

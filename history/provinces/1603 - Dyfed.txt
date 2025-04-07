@@ -1,0 +1,15 @@
+# County Title
+title = c_dyfed
+
+# Settlements
+max_settlements = 4
+
+b_tanerim = castle
+b_sanian = temple
+b_wavidon = city
+
+# Misc
+culture = culture_firebeard
+religion = vahzen
+
+# History

@@ -50,6 +50,7 @@ kamal;Kamal;;;;;;;;;;;;;
 ### Tang Mo
 tangmo_group;Tang Mo;;;;;;;;;;;;;x
 tangmo;Tang Mo;Tang Mo;Tang Mo;;Tang Mo;;;;;;;;;x
+mojanz;Mojanz;;;;;;;;;;;;;x
 ### Po Tun
 potun_group;Po Tun;;;;;;;;;;;;;x
 potun;Po Tun;Po Tun;Po Tun;;Po Tun;;;;;;;;;
@@ -76,3 +77,61 @@ nord_FEATURES;§YSpecial features§!:\n§Y*§! Has access to the Nordic Moot success
 atmoran_FEATURES;§YSpecial features§!:\n§Y*§! Has access to the Nordic Moot succession law;;;;;;;;;x
 skaal_FEATURES;§YSpecial features§!:\n§Y*§! Has access to the Nordic Moot succession law;;;;;;;;;x
 cyronord_FEATURES;§YSpecial features§!:\n§Y*§! Has access to the Nordic Moot succession law;;;;;;;;;x
+dohemian;Dohemian;Dohémienne;;;;;;;;;;;;x
+zarantanian;Zarantanian;Zarantanian;;;;;;;;;;;;x
+iserohan;Iserohan;Iserohanne;;;;;;;;;;;;x
+vampire_group;Vampire;;;;;;;;;;;;;x
+carstein;Carstein;;;;;;;;;;;;;x
+nosferatu;Nosferatu;;;;;;;;;;;;;x
+orc_group;Orc;;;;;;;;;;;;;x
+urukhai;urukhai;;;;;;;;;;;;;x
+orc;Orc;;;;;;;;;;;;;x
+haltaic;Haltaic;;;;;;;;;;;;;x
+jodpa;Jodpa;;;;;;;;;;;;;x
+vedouin;Vedouin;Védouinne;;;;;;;;;;;;x
+werewolf_group;Werewolf;;;;;;;;;;;;;x
+glabro;Glabro;;;;;;;;;;;;;x
+changeling_group;Chageling;;;;;;;;;;;;;x
+monster_group;Monster;;;;;;;;;;;;;x
+troll_group;Troll;;;;;;;;;;;;;x
+troll;Troll;;;;;;;;;;;;;x
+nocker;Nocker;;;;;;;;;;;;;x
+redcap;Redcap;;;;;;;;;;;;;x
+kislev;Kislev;;;;;;;;;;;;;x
+snow_falmer;Snow Falmer;;;;;;;;;;;;;x
+jadern;Jadern;;;;;;;;;;;;;x
+culture_silvan;Silvan;Silvan;;;Silvan;;x
+culture_rhovanion;Rhovanion;;;;;;;;;;;;;x
+blemoran;Blemoran;;;;;;;;;;;;;x
+beastman_group;Tauran;;;;;;;;;;;;;x
+beastman_main;Beastman;;;;;;;;;;;;;x
+ogre;Ogre;;;;;;;;;;;;;x
+mummy;Mummy;;;;;;;;;;;;;x
+demon_main;Demon;;;;;;;;;;;;;x
+culture_bruedain;Bruedain;;;;;;;;;;;;;x
+spriggan_main;Spriggan;;;;;;;;;;;;;x
+woodelf;Woodelf;;;;;;;;;;;;;x
+reiklander;Reiklander;;;;;;;;;;;;;x
+zesterling;Zesterling;;;;;;;;;;;;;x
+strigany_group;Strigany_group;;;;;;;;;;;;;x
+spriggan_group;Spriggan_group;;;;;;;;;;;;;x
+barbarian_group;Barbarian_group;;;;;;;;;;;;;x
+demon_group;Demon_group;;;;;;;;;;;;;x
+strigany;Strigany;;;;;;;;;;;;;x
+eparsian;Eparsian;;;;;;;;;;;;;x
+asrai;Asrai;;;;;;;;;;;;;x
+tevari;Tevari;;;;;;;;;;;;;x
+druchii;Druchii;;;;;;;;;;;;;x
+cathayan;Cathayan;;;;;;;;;;;;;x
+tilean;Tilean;;;;;;;;;;;;;x
+culture_lisaring;Lisaring;;;;;;;;;;;;;x
+balrog;Balrog;;;;;;;;;;;;;x
+wight;Wight;;;;;;;;;;;;;x
+culture_urukhai;Uruk-hai;Uruk-hai;;;;;x
+culture_maiar;Maiar;Maiar;;;Maiar;;x
+valar;Valar;Valar;;;Valar;;x
+culture_numenorean;Númenóreans;Númenóreen;;;Númenóreani;;x
+culture_arnorian;Arnorians;Arnorien;;;Arnoriani;;x
+culture_gondorian;Gondorians;Gondorien;;;Uomini di Gondor;;x
+culture_rohirrim;Rohirrim;Rohirrim;;;Rohirrim;;x
+culture_stonefoot;Stonefoots;Pieds-de-Pierre;;;Piediroccia;;x

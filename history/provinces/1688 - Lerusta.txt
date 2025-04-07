@@ -1,0 +1,5 @@
+	title = c_lerusta
+	max_settlements = 3
+	culture = culture_lossoth
+	religion = vahzen
+	b_lamek = tribal

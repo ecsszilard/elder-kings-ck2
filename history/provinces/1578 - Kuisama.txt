@@ -1,0 +1,15 @@
+# County Title
+title = c_kuisama
+
+# Settlements
+max_settlements = 4
+
+b_zobon = castle
+b_nivamer = temple
+b_minea = city
+
+# Misc
+culture = cathayan 
+religion = daedra_sanguine
+
+# History

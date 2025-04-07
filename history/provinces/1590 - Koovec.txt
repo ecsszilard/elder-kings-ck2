@@ -1,0 +1,15 @@
+# County Title
+title = c_koovec
+
+# Settlements
+max_settlements = 4
+
+b_luwedun = city
+b_ibofis = castle
+
+# Misc
+culture = culture_hobbit
+religion = daedra_sanguine
+terrain = woods
+
+# History

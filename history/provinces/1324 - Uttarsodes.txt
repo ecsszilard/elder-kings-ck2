@@ -1,0 +1,15 @@
+# County Title
+title = c_uttarsodes
+
+# Settlements
+max_settlements = 3
+
+b_uttarsodes = castle
+b_siefur = city
+b_danard = temple
+
+# Misc
+culture = asrai
+religion = old_gods
+
+# History

@@ -1,0 +1,15 @@
+# County Title
+title = c_sinapo
+
+# Settlements
+max_settlements = 4
+
+b_edimoti = castle
+b_ameveid = city
+b_burama = temple
+
+# Misc
+culture = falmer
+religion = daedra_meridia
+
+# History

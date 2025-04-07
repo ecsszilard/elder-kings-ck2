@@ -1,0 +1,15 @@
+# County Title
+title = c_jogray
+
+# Settlements
+max_settlements = 4
+
+b_medinacelli = castle
+b_covaleda = temple
+b_laredo = city
+
+# Misc
+culture = strigany
+religion = vahzen
+
+# History

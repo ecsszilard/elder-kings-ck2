@@ -1,0 +1,16 @@
+# County Title
+title = c_ceupo
+
+# Settlements
+max_settlements = 4
+
+b_ceupo = castle
+b_efenr = temple
+b_qadoma = city
+
+# Misc
+culture = tilean
+religion = daedra_azura
+terrain = mountain
+
+# History

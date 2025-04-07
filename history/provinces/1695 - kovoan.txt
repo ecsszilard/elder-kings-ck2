@@ -1,0 +1,5 @@
+	title = c_kovoan
+	max_settlements = 4
+	culture = culture_lossoth
+	religion = night_court
+	b_kunoan = tribal

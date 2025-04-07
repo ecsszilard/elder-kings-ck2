@@ -1,0 +1,15 @@
+# County Title
+title = c_fokar
+
+# Settlements
+max_settlements = 5
+
+b_rodaret = castle
+b_simoti = city
+b_byaveid = temple
+
+# Misc
+culture = falmer
+religion = daedra_meridia
+
+# History

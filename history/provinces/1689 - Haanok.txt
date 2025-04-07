@@ -1,0 +1,5 @@
+	title = c_haanok
+	max_settlements = 4
+	culture = culture_lossoth
+	religion = vahzen
+	b_haanok = tribal

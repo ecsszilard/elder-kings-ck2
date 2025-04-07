@@ -1,0 +1,15 @@
+# County Title
+title = c_vozkit
+
+# Settlements
+max_settlements = 4
+
+b_vozkit = castle
+b_dezhag = temple
+b_kasoka = city
+
+# Misc
+culture = demon_main
+religion = daedra_molag
+
+# History

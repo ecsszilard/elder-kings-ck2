@@ -1,0 +1,15 @@
+# County Title
+title = c_rezdu
+
+# Settlements
+max_settlements = 3
+
+b_liupen = castle
+b_nozallo = temple
+b_bojadolid = city
+
+# Misc
+culture = culture_stonefoot
+religion = vahzen
+
+# History

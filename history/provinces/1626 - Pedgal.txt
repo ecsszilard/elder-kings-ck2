@@ -1,0 +1,15 @@
+# County Title
+title = c_pedgal
+
+# Settlements
+max_settlements = 3
+
+b_pedgal = castle
+b_sovule = temple
+b_maldarit = city
+
+# Misc
+culture = culture_stonefoot
+religion = vahzen
+
+# History

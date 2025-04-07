@@ -1,0 +1,15 @@
+# County Title
+title = c_weli
+
+# Settlements
+max_settlements = 5
+
+b_wuremme = tribal
+b_bendar = temple
+
+# Misc
+culture = troll
+religion = anuic_skaal
+terrain = marsh
+
+# History

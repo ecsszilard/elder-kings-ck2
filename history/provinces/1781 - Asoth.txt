@@ -1,0 +1,15 @@
+# County Title
+title = c_asoth
+
+# Settlements
+max_settlements = 4
+
+b_asoth  = castle
+b_bojta = temple
+b_tousara = city
+
+# Misc
+culture = tevari
+religion = daedra_azura
+
+# History

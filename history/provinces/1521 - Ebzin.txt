@@ -1,0 +1,15 @@
+# County Title
+title = c_ebzin
+
+# Settlements
+max_settlements = 4
+
+b_daasul = castle
+b_wuisama = city
+b_revush = temple
+
+# Misc
+culture = culture_gondorian
+religion = daedra_azura
+
+# History

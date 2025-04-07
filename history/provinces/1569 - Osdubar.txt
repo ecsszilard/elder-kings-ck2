@@ -1,0 +1,15 @@
+# County Title
+title = c_osdubar
+
+# Settlements
+max_settlements = 5
+
+b_tavtubar = castle
+b_jorbuti = city
+b_kajush = temple
+
+# Misc
+culture = mojanz
+religion = daedra_sanguine
+
+# History

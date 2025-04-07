@@ -1,0 +1,15 @@
+# County Title
+title = c_obertauern
+
+# Settlements
+max_settlements = 4
+
+b_thaluun = castle
+b_melymarod = temple
+b_geweca = city
+
+# Misc
+culture = werewolf
+religion = anuic_skaal
+
+# History

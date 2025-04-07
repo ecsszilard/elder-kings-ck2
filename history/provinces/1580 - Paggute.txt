@@ -1,0 +1,15 @@
+# County Title
+title = c_paggute
+
+# Settlements
+max_settlements = 6
+
+b_cahen = castle
+b_katropi = temple
+b_avedsi = city
+
+# Misc
+culture = jodpa
+religion = daedra_azura
+
+# History

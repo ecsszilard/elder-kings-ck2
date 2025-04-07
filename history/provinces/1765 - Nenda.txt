@@ -1,0 +1,15 @@
+# County Title
+title = c_nenda
+
+# Settlements
+max_settlements = 5
+
+b_nenda = castle
+b_banador = temple
+b_tijaki = city
+
+# Misc
+culture = tilean
+religion = daedra_azura
+
+# History

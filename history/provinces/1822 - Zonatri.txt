@@ -1,0 +1,15 @@
+# County Title
+title = c_zonatri
+
+# Settlements
+max_settlements = 5
+
+b_kajbadu = temple
+b_wapa = city
+b_bupenc = castle
+
+# Misc
+culture = demon_main
+religion = daedra_molag
+
+# History

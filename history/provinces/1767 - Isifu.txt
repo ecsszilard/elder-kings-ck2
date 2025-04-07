@@ -1,0 +1,15 @@
+# County Title
+title = c_isifu
+
+# Settlements
+max_settlements = 4
+
+b_isifu = castle
+b_recold = temple
+b_weuf = city
+
+# Misc
+culture = tevari
+religion = daedra_azura
+
+# History

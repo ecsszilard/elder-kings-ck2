@@ -1,0 +1,15 @@
+# County Title
+title = c_sulaj_dar
+
+# Settlements
+max_settlements = 4
+
+b_sulaj_dar = castle
+b_wibotul = temple
+b_isra = city
+
+# Misc
+culture = valar
+religion = anuic_skaal
+
+# History

@@ -1,0 +1,15 @@
+# County Title
+title = c_waxidon
+
+# Settlements
+max_settlements = 4
+
+b_astaret = castle
+b_nank = temple
+b_telidon = temple
+
+# Misc
+culture = culture_rohirrim
+religion = daedra_azura
+
+# History

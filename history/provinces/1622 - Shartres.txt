@@ -1,0 +1,15 @@
+# County Title
+title = c_shartres
+
+# Settlements
+max_settlements = 5
+
+b_astorga = castle
+b_sanguesa = temple
+b_bembibre = city
+
+# Misc
+culture = strigany
+religion = vahzen
+
+# History

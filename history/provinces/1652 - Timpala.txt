@@ -1,0 +1,14 @@
+# County Title
+title = c_timpala
+
+# Settlements
+max_settlements = 3
+
+b_timpala = castle
+b_gobon-ju = city
+
+# Misc
+culture = culture_firebeard
+religion = night_court
+
+# History

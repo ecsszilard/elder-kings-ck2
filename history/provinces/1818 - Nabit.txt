@@ -1,0 +1,15 @@
+# County Title
+title = c_nabit
+
+# Settlements
+max_settlements = 5
+
+b_nabit = castle
+b_beren = temple
+b_fesilla = city
+
+# Misc
+culture = tevari
+religion = daedra_azura
+
+# History

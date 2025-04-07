@@ -1,0 +1,15 @@
+# County Title
+title = c_reqoch
+
+# Settlements
+max_settlements = 4
+
+b_tarit = castle
+b_tabara = temple
+b_resiyaka = city
+
+# Misc
+culture = tevari
+religion = daedra_azura
+
+# History

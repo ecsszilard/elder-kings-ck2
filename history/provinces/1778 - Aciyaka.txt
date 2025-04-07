@@ -1,0 +1,15 @@
+# County Title
+title = c_aciyaka
+
+# Settlements
+max_settlements = 4
+
+b_tuqoja = castle
+b_aciyaka = temple
+b_kusenia = city
+
+# Misc
+culture = tevari
+religion = daedra_azura
+
+# History

@@ -1,0 +1,15 @@
+# County Title
+title = c_suasgi
+
+# Settlements
+max_settlements = 5
+
+b_sarim = castle
+b_wodoja = temple
+b_dahitri = city
+
+# Misc
+culture = snow_falmer
+religion = ideal_masters
+
+# History

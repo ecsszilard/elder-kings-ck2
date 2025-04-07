@@ -1,0 +1,15 @@
+# County Title
+title = c_jagul
+
+# Settlements
+max_settlements = 4
+
+b_danenr = castle
+b_quneric = temple
+b_emeph = city
+
+# Misc
+culture = tevari
+religion = daedra_azura
+
+# History

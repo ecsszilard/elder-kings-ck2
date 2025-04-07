@@ -1,0 +1,15 @@
+# County Title
+title = c_dinthago
+
+# Settlements
+max_settlements = 5
+
+b_xirc = castle
+b_hicadinnos = temple
+b_tiruita = city
+
+# Misc
+culture = culture_stonefoot
+religion = vahzen
+
+# History

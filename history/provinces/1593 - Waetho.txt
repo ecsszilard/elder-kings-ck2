@@ -1,0 +1,15 @@
+# County Title
+title = c_waetho
+
+# Settlements
+max_settlements = 5
+
+b_wozika = castle
+b_danidon = city
+b_direuta = temple
+
+# Misc
+culture = cathayan
+religion = daedra_sanguine
+
+# History

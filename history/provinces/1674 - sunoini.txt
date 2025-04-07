@@ -1,0 +1,5 @@
+	title = c_sunoini
+	max_settlements = 3
+	culture = zesterling
+	religion = night_court
+	b_kieti = tribal

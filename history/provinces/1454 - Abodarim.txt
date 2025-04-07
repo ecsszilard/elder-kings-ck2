@@ -1,0 +1,15 @@
+# County Title
+title = c_abodarim
+
+# Settlements
+max_settlements = 4
+
+b_lita = castle
+b_losgi = temple
+b_kazeid = city
+
+# Misc
+culture = druchii
+religion = forsworn_heresy
+
+# History

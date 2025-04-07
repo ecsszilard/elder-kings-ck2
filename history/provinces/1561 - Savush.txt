@@ -1,0 +1,15 @@
+# County Title
+title = c_savush
+
+# Settlements
+max_settlements = 4
+
+b_akonar = castle
+b_kinush = temple
+b_tavena = city
+
+# Misc
+culture = mojanz
+religion = daedra_sanguine
+
+# History

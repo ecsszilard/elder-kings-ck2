@@ -1,0 +1,15 @@
+# County Title
+title = c_kageuta
+
+# Settlements
+max_settlements = 5
+
+b_rapar = temple
+b_rael = city
+b_tazcadon = city
+
+# Misc
+culture = culture_silvan
+religion = old_gods
+
+# History

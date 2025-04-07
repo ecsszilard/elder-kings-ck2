@@ -1,0 +1,9 @@
+title = c_edokima
+
+max_settlements = 3
+
+b_ehenea = tribal
+
+culture = zesterling
+religion = night_court
+

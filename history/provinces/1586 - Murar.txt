@@ -1,0 +1,16 @@
+# County Title
+title = c_murar
+
+# Settlements
+max_settlements = 4
+
+b_tatsus = city
+b_sevoti = temple
+b_bimufor = temple
+
+# Misc
+culture = culture_hobbit
+religion = daedra_sanguine
+terrain = farmlands
+
+# History

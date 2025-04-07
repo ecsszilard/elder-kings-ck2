@@ -1,0 +1,16 @@
+# County Title
+title = c_cirzen
+
+# Settlements
+max_settlements = 3
+
+b_bazoja = castle
+b_nurulger = temple
+b_ezuismal = city
+
+# Misc
+culture = culture_gondorian
+religion = daedra_azura
+terrain = mountain
+
+# History

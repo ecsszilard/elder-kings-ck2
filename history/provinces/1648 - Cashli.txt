@@ -1,0 +1,13 @@
+# County Title
+title = c_cashli
+
+# Settlements
+max_settlements = 4
+
+b_vuram = tribal
+
+# Misc
+culture = reiklander
+religion = vahzen
+
+# History

@@ -1,0 +1,15 @@
+# County Title
+title = c_athinor
+
+# Settlements
+max_settlements = 5
+
+b_cromi = city
+b_zugdepisa = temple
+b_kuntofu = castle
+
+# Misc
+culture = culture_hobbit
+religion = daedra_sanguine
+
+# History
