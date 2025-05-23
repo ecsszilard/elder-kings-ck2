@@ -9,7 +9,7 @@ b_nivirek = city
 b_elama = temple
 
 # Misc
-culture = culture_gondorian
+culture = culture_rohirrim
 religion = daedra_azura
 
 # History

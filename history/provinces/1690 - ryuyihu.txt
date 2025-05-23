@@ -1,5 +1,15 @@
-	title = c_ryuyihu
-	max_settlements = 3
-	culture = culture_lossoth
-	religion = vahzen
-	b_damiyahu = tribal
+# County Title
+title = c_ryuyihu
+
+# Settlements
+max_settlements = 3
+
+b_damiyahu = castle
+b_kaniyahu = city
+b_wamuozhe = temple
+
+# Misc
+culture = druchii
+religion = night_court
+
+# History

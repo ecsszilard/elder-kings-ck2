@@ -4,12 +4,10 @@ title = c_nortain
 # Settlements
 max_settlements = 4
 
-b_alard = castle
-b_doharb = temple
-b_ematian = city
+b_alard = tribal
 
 # Misc
-culture = strigany
+culture = culture_bruedain
 religion = vahzen
 
 # History

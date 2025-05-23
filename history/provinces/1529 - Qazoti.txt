@@ -2,14 +2,14 @@
 title = c_qazoti
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_qazoti = temple
-b_kyilar = city
-b_nodar = castle
+b_qazoti = castle
+b_kyilar = temple
 
 # Misc
-culture = culture_gondorian
+culture = culture_rohirrim
 religion = daedra_azura
+terrain = hills
 
 # History

@@ -9,7 +9,7 @@ b_nunabhan = temple
 b_nyone = castle
 
 # Misc
-culture = redcap
-religion = forsworn_heresy
+culture = culture_haradrim
+religion = old_gods
 
 # History

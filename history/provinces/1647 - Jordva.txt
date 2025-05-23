@@ -6,10 +6,9 @@ max_settlements = 4
 
 b_beretia = castle
 b_megorlyk = temple
-b_lolghar = city
 
 # Misc
-culture = reiklander
-religion = vahzen
+culture = druchii
+religion = night_court
 
 # History

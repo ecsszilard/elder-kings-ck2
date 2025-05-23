@@ -1,5 +1,14 @@
-	title = c_tamana
-	max_settlements = 4
-	culture = zesterling
-	religion = night_court
-	b_ekamacja = tribal
+# County Title
+title = c_tamana
+
+# Settlements
+max_settlements = 3
+
+b_ekamacja = castle
+b_besayel = city
+
+# Misc
+culture = druchii
+religion = night_court
+
+# History

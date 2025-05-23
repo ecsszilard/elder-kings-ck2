@@ -9,7 +9,7 @@ b_seffime = city
 b_wyaotar = temple
 
 # Misc
-culture = falmer
+culture = cathayan
 religion = daedra_meridia
 
 # History

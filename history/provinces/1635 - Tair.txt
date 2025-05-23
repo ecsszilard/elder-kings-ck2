@@ -4,10 +4,10 @@ title = c_tair
 # Settlements
 max_settlements = 4
 
-b_gopazia = tribal
+b_gopazia = castle
 
 # Misc
-culture = reiklander
-religion = vahzen
+culture = culture_laegrim
+religion = daedra_sanguine
 
 # History

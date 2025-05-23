@@ -8,7 +8,7 @@ b_ojtoek = tribal
 b_morichida = temple
 
 # Misc
-culture = culture_goblin
+culture = mummy
 religion = anuic_skaal
 
 # History

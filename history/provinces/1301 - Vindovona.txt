@@ -9,7 +9,7 @@ b_sardon = city
 b_bart = castle
 
 # Misc
-culture = ashlander
+culture = nocker
 religion = ideal_masters
 
 #

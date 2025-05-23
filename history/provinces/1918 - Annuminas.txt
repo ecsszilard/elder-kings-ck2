@@ -7,8 +7,8 @@ max_settlements = 4
 b_annuminas = tribal
 
 # Misc
-culture = mummy
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 terrain = desert
 
 # History

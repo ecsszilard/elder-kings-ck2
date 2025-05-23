@@ -860,6 +860,7 @@ technology = {
 		d_qipero
 		d_derwatux
 		d_levukum
+		d_cieta
 		d_kaldun
 		d_tihilen
 		d_waranis
@@ -875,7 +876,7 @@ technology = {
 		d_puser
 		d_foccaz
 		d_durish
-		d_wacach
+		d_vosantin
 		d_toremir
 		d_botoja
 		d_nosopti
@@ -883,8 +884,7 @@ technology = {
 		d_ehzmut
 		d_imodi
 		d_kyileid
-		d_quasar
-		d_bahita
+		d_lahita
 		d_liman
 		d_emazin
 		d_ante-purnes
@@ -896,9 +896,7 @@ technology = {
 		d_laynish
 		d_zinkra
 		d_putonous
-		d_kobersal
 		d_rimasiy
-		d_dufle
 		d_lorian
 		d_wermay
 		d_rinush
@@ -910,10 +908,8 @@ technology = {
 		d_loucen
 		d_xikoil
 		d_kolsoba
-		d_nalicia
 		d_tinule
 		d_ropuldes
-		d_togdis
 		d_senorim
 		d_ubend
 		d_escakt
@@ -952,7 +948,7 @@ technology = {
 		d_ador
 		d_banasa
 		d_zojum
-		d_kudau
+		d_kiuda
 		d_thartus
 		d_dull-guldur
 		d_zarvatul
@@ -973,18 +969,18 @@ technology = {
 		d_dun_gleanainn
 		d_maum
 		d_daevon
-		d_ard_gymraen
+		d_daud_otar
 		d_buki
 		d_jevida
 		d_vspaden
 		d_ard_kestrel
-		d_lomtuga
+		d_cuntuga
 		d_amrun
 		d_gorothlad
 		d_haruzan
 		d_donnchada
 		d_neburkha
-		d_erebor
+		d_irebor
 		d_ghrond
 		d_jendaar_march
 		d_sarthyk_rift
@@ -995,6 +991,7 @@ technology = {
 		d_maykar
 		d_yakhdoi
 		d_caergarn
+		d_ematunnu
 	}
 	769 = {
 		military = 0.1
@@ -1007,22 +1004,22 @@ technology = {
 		culture = 0.1
 	}
 	3370 = {
-		military = 0.436
-		economy = 0.321
-		culture = 0.419
+		military = 0.411
+		economy = 0.348
+		culture = 0.433
 	}
 	3461 = {
-		military = 0.691
+		military = 0.681
 		economy = 0.526
 		culture = 0.661
 	}
 	3492 = {
-		military = 0.778
+		military = 0.772
 		economy = 0.596
 		culture = 0.743
 	}
 	3502 = {
-		military = 0.806
+		military = 0.800
 		economy = 0.619
 		culture = 0.77
 	}
@@ -1043,13 +1040,13 @@ technology = {
 	}
 }
 
-#Miner Territories
+#Dwarf Territories
 technology = {
 	titles = {
 		d_bezaim
 		d_emgpeba
-		d_injou
-		d_ematunnu
+		d_quasar
+		d_kobersal
 	}
 	769 = {
 		military = 0.1
@@ -1057,9 +1054,9 @@ technology = {
 		culture = 0.1
 	}
 	3250 = {
-		military = 0.514
+		military = 0.614
 		economy = 0.862
-		culture = 0.641
+		culture = 0.601
 	}
 	3370 = {
 		military = 1.096
@@ -1095,5 +1092,60 @@ technology = {
 		military = 5.0
 		economy = 5.0
 		culture = 4.45
+	}
+}
+
+#Dwemer Territories
+technology = {
+	titles = {
+		d_nalicia
+		d_dufle
+		d_togdis
+		d_injou
+	}
+	769 = {
+		military = 0.1
+		economy = 0.0
+		culture = 0.1
+	}
+	3250 = {
+		military = 0.414
+		economy = 0.852
+		culture = 0.871
+	}
+	3370 = {
+		military = 0.686
+		economy = 1.388
+		culture = 1.582
+	}
+	3461 = {
+		military = 0.941
+		economy = 1.626
+		culture = 1.851
+	}
+	3492 = {
+		military = 1.098
+		economy = 1.741
+		culture = 1.895
+	}
+	3502 = {
+		military = 1.186
+		economy = 1.759
+		culture = 1.902
+	}
+	3506 = {
+		military = 1.194
+		economy = 1.765
+		culture = 1.909
+	}
+	3525 = {
+		military =  1.225
+		economy = 1.791
+		culture = 1.936
+	}
+	5000 = {
+		military = 4.6
+		economy = 5.0
+		culture = 5.0
 	}
 }

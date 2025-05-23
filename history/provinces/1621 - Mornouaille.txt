@@ -4,11 +4,10 @@ title = c_mornouaille
 # Settlements
 max_settlements = 4
 
-b_norena = castle
-b_cacabelos = city
+b_norena = tribal
 
 # Misc
-culture = strigany
+culture = culture_bruedain
 religion = vahzen
 
 # History

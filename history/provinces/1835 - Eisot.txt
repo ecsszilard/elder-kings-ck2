@@ -7,7 +7,7 @@ max_settlements = 4
 b_tesoit = tribal
 
 # Misc
-culture = troll
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 
 # History

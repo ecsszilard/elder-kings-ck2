@@ -4,12 +4,12 @@ title = c_waetho
 # Settlements
 max_settlements = 5
 
-b_wozika = castle
-b_danidon = city
-b_direuta = temple
+b_byeld = castle
+b_wozika = city
 
 # Misc
-culture = cathayan
+culture = culture_laegrim
 religion = daedra_sanguine
+terrain = woods
 
 # History

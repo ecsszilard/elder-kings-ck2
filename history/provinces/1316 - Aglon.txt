@@ -9,9 +9,8 @@ b_negtevi = city
 b_raslagar = city
 
 # Misc
-culture = ashlander
+culture = kislev
 religion = ideal_masters
-
-#
+terrain = steppe
 
 # History

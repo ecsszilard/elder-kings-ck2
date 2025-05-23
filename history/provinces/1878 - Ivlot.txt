@@ -8,7 +8,8 @@ b_ivlot = tribal
 b_zarya = temple
 
 # Misc
-culture = orc
-religion = anuic_skaal
+culture = demon_main
+religion = daedra_molag
+terrain = woods
 
 # History

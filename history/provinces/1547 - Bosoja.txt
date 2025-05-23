@@ -2,14 +2,14 @@
 title = c_bosoja
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_dodoja = castle
 b_razank = temple
 b_losar = city
 
 # Misc
-culture = falmer
+culture = cathayan
 religion = daedra_meridia
 
 # History

@@ -8,8 +8,8 @@ b_bailgor  = tribal
 b_bar_grundail = temple
 
 # Misc
-culture = mummy
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 terrain = desert
 
 # History

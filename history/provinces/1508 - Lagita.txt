@@ -9,8 +9,8 @@ b_timzen = temple
 b_feccezoja = city
 
 # Misc
-culture = culture_gondorian
-religion = daedra_azura
+culture = culture_haradrim
+religion = old_gods
 terrain = hills
 
 # History

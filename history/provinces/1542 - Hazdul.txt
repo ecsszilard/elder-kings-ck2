@@ -2,13 +2,14 @@
 title = c_hazdul
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_laglot = castle
+b_zintuly = city
 b_daliel = city
 
 # Misc
-culture = falmer
+culture = zesterling
 religion = daedra_meridia
 
 # History

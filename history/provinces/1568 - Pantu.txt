@@ -9,7 +9,15 @@ b_bevama = city
 b_laveny = temple
 
 # Misc
-culture = cathayan
+culture = asrai
 religion = daedra_sanguine
 
 # History
+2700.1.1 = {
+	b_laveny = tp_guardbarrack_0
+	b_laveny = tp_militiabarrack_0
+	b_laveny = tp_temple_0
+	b_laveny = tp_university_0
+	b_laveny = tp_culturefaculties_0
+	b_laveny = tp_walls_0
+}

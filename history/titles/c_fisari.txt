@@ -1,4 +1,3 @@
 3360.1.1 = {
-	liege = "k_giom"
-	holder = 620701
+	liege = d_laynish
 }

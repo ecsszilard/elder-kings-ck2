@@ -6,10 +6,9 @@ max_settlements = 3
 
 b_areinaud = temple
 b_ruprael = castle
-b_daleran = city
 
 # Misc
-culture = woodelf
+culture = culture_gondorian
 religion = ideal_masters
 terrain = forest
 

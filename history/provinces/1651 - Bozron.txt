@@ -4,13 +4,12 @@ title = c_bozron
 # Settlements
 max_settlements = 5
 
-b_tippod = castle
-b_zleby = temple
-b_caslav = city
+b_tippod = tribal
 
 # Misc
-culture = culture_firebeard
+culture = spriggan_main
 religion = night_court
+
 terrain = mountain
 
 # History

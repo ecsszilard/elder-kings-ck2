@@ -8,7 +8,7 @@ b_zegen = castle
 b_drivna = city
 
 # Misc
-culture = reiklander
-religion = vahzen
+culture = druchii
+religion = night_court
 
 # History

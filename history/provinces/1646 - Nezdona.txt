@@ -9,7 +9,8 @@ b_sodes = temple
 b_timam = city
 
 # Misc
-culture = reiklander
-religion = vahzen
+culture = druchii
+religion = night_court
+terrain = hills
 
 # History

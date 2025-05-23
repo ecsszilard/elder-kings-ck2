@@ -8,7 +8,7 @@ b_zefi = tribal
 b_navius = temple
 
 # Miscs
-culture = orsimer
+culture = culture_goblin
 religion = vahzen
 
 # History

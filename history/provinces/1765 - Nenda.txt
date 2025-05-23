@@ -2,14 +2,13 @@
 title = c_nenda
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_nenda = castle
-b_banador = temple
-b_tijaki = city
+b_nenda =  tribal
 
 # Misc
-culture = tilean
-religion = daedra_azura
+culture = ogre
+religion = vahzen
+terrain = mountain
 
 # History

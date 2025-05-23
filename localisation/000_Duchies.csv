@@ -1053,8 +1053,8 @@ d_gersaj;Gersaj;;;;;;;;;;;;;x
 d_gersaj_adj;Gersaj;;;;;;;;;;;;;x
 d_ogen;Ogen;;;;;;;;;;;;;x
 d_ogen_adj;Ogen;;;;;;;;;;;;;x
-d_qipero;Qisaria;;;;;;;;;;;;;x
-d_qipero_adj;Qisaria;;;;;;;;;;;;;x
+d_qipero;Qipero;;;;;;;;;;;;;x
+d_qipero_adj;Qipero;;;;;;;;;;;;;x
 d_levukum;Levukum;;;;;;;;;;;;;x
 d_levukum_adj;Levukum;;;;;;;;;;;;;x
 d_ematunnu;Ematunnu;;;;;;;;;;;;;x
@@ -1063,8 +1063,8 @@ d_durish;Durish;;;;;;;;;;;;;x
 d_durish_adj;Durish;;;;;;;;;;;;;x
 d_toremir;Toremir;;;;;;;;;;;;;x
 d_toremir_adj;Toremir;;;;;;;;;;;;;x
-d_wacach;Wacach;;;;;;;;;;;;;x
-d_wacach_adj;Wacach;;;;;;;;;;;;;x
+d_vosantin;Vosantin;;;;;;;;;;;;;x
+d_vosantin_adj;Vosantian;;;;;;;;;;;;;x
 d_kaldun;Kaldun;;;;;;;;;;;;;x
 d_kaldun_adj;Kaldun;;;;;;;;;;;;;x
 d_tihilen;Tihilen;;;;;;;;;;;;;x
@@ -1137,9 +1137,9 @@ d_kyileid_adj;Kyileid;;;;;;;;;;;;;x
 d_bulose;Bulose;;;;;;;;;;;;;x
 d_bulose_adj;Bulose;;;;;;;;;;;;;x
 d_kontigus;Kontigus;;;;;;;;;;;;;x
-d_kontigus_adj;Kontigus;;;;;;;;;;;;;x
-d_bahita;Bahita;;;;;;;;;;;;;x
-d_bahita_adj;Bahita;;;;;;;;;;;;;x
+d_kontigus_adj;Kontigusian;;;;;;;;;;;;;x
+d_lahita;Lahita;;;;;;;;;;;;;x
+d_lahita_adj;Lahitan;;;;;;;;;;;;;x
 d_liman;Liman;;;;;;;;;;;;;x
 d_liman_adj;Liman;;;;;;;;;;;;;x
 d_emazin;Emazin;;;;;;;;;;;;;x
@@ -1165,7 +1165,7 @@ d_putonous_adj;Putonous;;;;;;;;;;;;;x
 d_kobersal;Kobersal;;;;;;;;;;;;;x
 d_kobersal_adj;Kobersal;;;;;;;;;;;;;x
 d_rimasiy;Rimasiy;;;;;;;;;;;;;x
-d_rimasiy_adj;Rimasiy;;;;;;;;;;;;;x
+d_rimasiy_adj;Rimasiyan;;;;;;;;;;;;;x
 d_dufle;Dufle;;;;;;;;;;;;;x
 d_dufle_adj;Dufle;;;;;;;;;;;;;x
 d_lorian;Lorian;;;;;;;;;;;;;x
@@ -1247,7 +1247,7 @@ d_tilohn;Tilohn;;;;;;;;;;;;;x
 d_tilohn_adj;Tilohn;;;;;;;;;;;;;x
 d_tilohn_desc;Tilohn;;;;;;;;;;;;;x
 d_berusha;Berusha;;;;;;;;;;;;;x
-d_berusha_adj;Berusha;;;;;;;;;;;;;x
+d_berusha_adj;Berushan;;;;;;;;;;;;;x
 d_berusha_desc;Berusha;;;;;;;;;;;;;x
 d_rupop;Rupop;;;;;;;;;;;;;x
 d_rupop_adj;Rupop;;;;;;;;;;;;;x
@@ -1295,16 +1295,16 @@ d_ador;Ador;;;;;;;;;;;;;x
 d_ador_adj;Ador;;;;;;;;;;;;;x
 d_ador_desc;Ador;;;;;;;;;;;;;x
 d_banasa;Banasa;;;;;;;;;;;;;x
-d_banasa_adj;Banasa;;;;;;;;;;;;;x
+d_banasa_adj;Banasan;;;;;;;;;;;;;x
 d_banasa_desc;Banasa;;;;;;;;;;;;;x
 d_zojum;Zojum;;;;;;;;;;;;;x
 d_zojum_adj;Zojum;;;;;;;;;;;;;x
 d_zojum_desc;Zojum;;;;;;;;;;;;;x
-d_kudau;Kudau;;;;;;;;;;;;;x
-d_kudau_adj;Kudau;;;;;;;;;;;;;x
-d_kudau_desc;Kudau;;;;;;;;;;;;;x
+d_kiuda;Kiuda;;;;;;;;;;;;;x
+d_kiuda_adj;Kiudan;;;;;;;;;;;;;x
+d_kiuda_desc;Kiuda;;;;;;;;;;;;;x
 d_thartus;Thartus;;;;;;;;;;;;;x
-d_thartus_adj;Thartus;;;;;;;;;;;;;x
+d_thartus_adj;Thartusian;;;;;;;;;;;;;x
 d_thartus_desc;Thartus;;;;;;;;;;;;;x
 d_dull-guldur;Dull-Guldur;;;;;;;;;;;;;x
 d_dull-guldur_adj;Dull-Guldur;;;;;;;;;;;;;x
@@ -1365,9 +1365,9 @@ d_maum_desc;Maum;;;;;;;;;;;;;x
 d_daevon;Daevon;;;;;;;;;;;;;x
 d_daevon_adj;Daevon;;;;;;;;;;;;;x
 d_daevon_desc;Daevon;;;;;;;;;;;;;x
-d_ard_gymraen;Ard Gymraen;;;;;;;;;;;;;x
-d_ard_gymraen_adj;Ard Gymraen;;;;;;;;;;;;;x
-d_ard_gymraen_desc;Ard Gymraen;;;;;;;;;;;;;x
+d_daud_otar;Daud Otar;;;;;;;;;;;;;x
+d_daud_otar_adj;Daud Otar;;;;;;;;;;;;;x
+d_daud_otar_desc;Daud Otar;;;;;;;;;;;;;x
 d_buki;Buki;;;;;;;;;;;;;x
 d_buki_adj;Buki;;;;;;;;;;;;;x
 d_buki_desc;Buki;;;;;;;;;;;;;x
@@ -1377,8 +1377,9 @@ d_vspaden;Vspaden;;;;;;;;;;;;;x
 d_vspaden_adj;Vspaden;;;;;;;;;;;;;x
 d_ard_kestrel;Ard Kestrel;;;;;;;;;;;;;x
 d_ard_kestrel_adj;Ard Kestrel;;;;;;;;;;;;;x
-d_lomtuga;Lomtuga;;;;;;;;;;;;;x
-d_lomtuga_adj;Lomtuga;;;;;;;;;;;;;x
+d_cuntuga;Cuntuga;;;;;;;;;;;;;x
+d_cuntuga_adj;Cuntuga;;;;;;;;;;;;;x
+d_cuntuga_desc;Cuntuga;;;;;;;;;;;;;x
 d_amrun;Amrun;;;;;;;;;;;;;x
 d_amrun_adj;Amrun;;;;;;;;;;;;;x
 d_amrun_desc;Amrun;;;;;;;;;;;;;x
@@ -1394,9 +1395,9 @@ d_donnchada_desc;Donnchada;;;;;;;;;;;;;x
 d_neburkha;Neburkha;;;;;;;;;;;;;x
 d_neburkha_adj;Neburkha;;;;;;;;;;;;;x
 d_neburkha_desc;Neburkha;;;;;;;;;;;;;x
-d_erebor;Erebor;;;;;;;;;;;;;x
-d_erebor_adj;Erebor;;;;;;;;;;;;;x
-d_erebor_desc;Erebor;;;;;;;;;;;;;x
+d_irebor;irebor;;;;;;;;;;;;;x
+d_irebor_adj;irebor;;;;;;;;;;;;;x
+d_irebor_desc;irebor;;;;;;;;;;;;;x
 d_ghrond;Ghrond;;;;;;;;;;;;;x
 d_ghrond_adj;Ghrond;;;;;;;;;;;;;x
 d_ghrond_desc;Ghrond;;;;;;;;;;;;;x
@@ -1427,3 +1428,6 @@ d_jalrim_desc;Jalrim;;;;;;;;;;;;;x
 d_okhand;Okhand;;;;;;;;;;;;;x
 d_okhand_adj;Okhander;;;;;;;;;;;;;x
 d_okhand_desc;Okhand;;;;;;;;;;;;;x
+d_cieta;Cieta;;;;;;;;;;;;;x
+d_cieta_adj;Cietan;;;;;;;;;;;;;x
+d_cieta_desc;Cieta;;;;;;;;;;;;;x

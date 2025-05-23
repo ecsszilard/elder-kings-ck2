@@ -10,8 +10,7 @@ b_ralasin = city
 
 # Misc
 culture = eparsian
-religion = old_gods
-
-#
+religion = ideal_masters
+terrain = hills
 
 # History

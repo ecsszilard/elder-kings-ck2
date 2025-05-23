@@ -4,13 +4,11 @@ title = c_qiom
 # Settlements
 max_settlements = 5
 
-b_qiom = castle
-b_ivoryglade = temple
-b_reledra = city
+b_qiom = tribal
 
 # Misc
-culture = demon_main
-religion = daedra_molag
+culture = orc
+religion = daedra_malacath
 terrain = marsh
 
 # History

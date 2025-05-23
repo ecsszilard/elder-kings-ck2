@@ -9,7 +9,7 @@ b_adimena = city
 b_tyilush = temple
 
 # Misc
-culture = cathayan
+culture = asrai
 religion = daedra_sanguine
 
 # History

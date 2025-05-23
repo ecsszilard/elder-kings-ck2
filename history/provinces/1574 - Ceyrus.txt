@@ -9,7 +9,7 @@ b_legejos = city
 b_bhat = temple
 
 # Misc
-culture = cathayan
+culture = asrai
 religion = daedra_sanguine
 
 # History

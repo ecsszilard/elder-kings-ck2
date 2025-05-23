@@ -9,7 +9,7 @@ b_tujre = city
 b_actomel = temple
 
 # Misc
-culture = kislev
+culture = werewolf
 religion = old_gods
 
 # History

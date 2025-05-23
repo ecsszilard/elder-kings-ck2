@@ -5,10 +5,9 @@ title = c_morghaar
 max_settlements = 5
 
 b_morghaarstein = tribal
-b_helheim = temple
 
 # Misc
-culture = culture_goblin
+culture = mummy
 religion = anuic_skaal
 
 # History

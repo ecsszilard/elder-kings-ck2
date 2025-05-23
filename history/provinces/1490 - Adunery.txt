@@ -9,7 +9,7 @@ b_labuther = temple
 b_ragerta = city
 
 # Misc
-culture = culture_rohirrim
-religion = daedra_azura
+culture = tevari
+religion = forsworn_heresy
 
 # History

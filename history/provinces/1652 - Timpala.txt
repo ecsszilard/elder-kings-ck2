@@ -4,11 +4,11 @@ title = c_timpala
 # Settlements
 max_settlements = 3
 
-b_timpala = castle
-b_gobon-ju = city
+b_timpala = tribal
 
 # Misc
-culture = culture_firebeard
+culture = spriggan_main
 religion = night_court
+
 
 # History

@@ -8,7 +8,7 @@ b_bafun = tribal
 b_laremid = temple
 
 # Misc
-culture = vedouin
+culture = falmer
 religion = night_court
 
 # History

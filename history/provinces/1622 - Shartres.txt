@@ -4,12 +4,10 @@ title = c_shartres
 # Settlements
 max_settlements = 5
 
-b_astorga = castle
-b_sanguesa = temple
-b_bembibre = city
+b_astorga = tribal
 
 # Misc
-culture = strigany
+culture = culture_bruedain
 religion = vahzen
 
 # History

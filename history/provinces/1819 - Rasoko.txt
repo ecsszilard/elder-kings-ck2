@@ -4,13 +4,11 @@ title = c_rasoko
 # Settlements
 max_settlements = 4
 
-b_kaarim = castle
-b_durian = temple
-b_kamapa = city
+b_kaarim = tribal
 
 # Misc
-culture = demon_main
-religion = daedra_molag
+culture = orc
+religion = daedra_malacath
 terrain = marsh
 
 # History

@@ -7,8 +7,8 @@ max_settlements = 4
 b_pelta = tribal
 
 # Misc
-culture = demon_main
-religion = daedra_molag
+culture = orc
+religion = daedra_malacath
 terrain = marsh
 
 # History

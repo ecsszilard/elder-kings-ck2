@@ -4,12 +4,13 @@ title = c_paggute
 # Settlements
 max_settlements = 6
 
-b_cahen = castle
+b_cahen = city
 b_katropi = temple
-b_avedsi = city
+b_avedsi = castle
 
 # Misc
-culture = jodpa
-religion = daedra_azura
+culture = culture_hobbit
+religion = daedra_sanguine
+terrain = farmlands
 
 # History

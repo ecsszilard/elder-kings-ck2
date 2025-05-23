@@ -8,7 +8,7 @@ b_kaltun = tribal
 b_derbne = temple
 
 # Misc
-culture = culture_haradrim
+culture = spriggan_main
 religion = night_court
 
 # History

@@ -5,11 +5,10 @@ title = c_bavyamal
 max_settlements = 4
 
 b_nevar = castle
-b_turedros = castle
 b_wisama = city
 
 # Misc
-culture = culture_numenorean
-religion = forsworn_heresy
+culture = culture_rohirrim
+religion = daedra_azura
 
 # History

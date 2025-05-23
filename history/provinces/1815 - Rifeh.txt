@@ -4,12 +4,10 @@ title = c_rifeh
 # Settlements
 max_settlements = 4
 
-b_harud = castle
-b_zamari = temple
-b_ebonshade = city
+b_harud = tribal
 
 # Misc
-culture = demon_main
-religion = daedra_molag
+culture = orc
+religion = daedra_malacath
 
 # History

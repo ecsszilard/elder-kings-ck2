@@ -9,9 +9,8 @@ b_putos = temple
 b_tolabhan = city
 
 # Misc
-culture = ashlander
+culture = nocker
 religion = ideal_masters
 
-#
 
 # History

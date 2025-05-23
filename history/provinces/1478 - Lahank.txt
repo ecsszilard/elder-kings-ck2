@@ -9,7 +9,8 @@ b_tazcatri = temple
 b_anelarim = city
 
 # Misc
-culture = culture_silvan
+culture = strigany
 religion = old_gods
+terrain = farmlands
 
 # History

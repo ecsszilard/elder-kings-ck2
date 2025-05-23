@@ -7,7 +7,7 @@ max_settlements = 3
 b_kaledey = tribal
 
 # Miscs
-culture = vedouin
+culture = falmer
 religion = night_court
 
 # History

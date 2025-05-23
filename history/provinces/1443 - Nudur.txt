@@ -4,12 +4,12 @@ title = c_nudur
 # Settlements
 max_settlements = 4
 
-b_wanidon = castle
-b_tanian = city
-b_denita = temple
+b_rinudur = castle
+b_denita = city
+
 
 # Misc
-culture = druchii
-religion = forsworn_heresy
+culture = reiklander
+religion = daedra_azura
 
 # History

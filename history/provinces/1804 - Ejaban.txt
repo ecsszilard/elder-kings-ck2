@@ -8,6 +8,6 @@ b_nanampo = tribal
 b_kadra = temple
 
 # Miscs
-culture = orsimer
+culture = culture_goblin
 religion = vahzen
 

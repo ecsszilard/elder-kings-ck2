@@ -2,14 +2,15 @@
 title = c_amaharet
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_saret = castle
 b_aquatri = temple
 b_naveta = city
 
 # Misc
-culture = falmer
-religion = daedra_meridia
+culture = reiklander
+religion = daedra_azura
+terrain = forest
 
 # History

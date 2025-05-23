@@ -4,12 +4,13 @@ title = c_buddefor
 # Settlements
 max_settlements = 5
 
+b_myutto = castle
 b_dofa = city
 b_noabell = temple
-b_myutto = castle
 
 # Misc
-culture = cathayan
+culture = asrai
 religion = daedra_sanguine
+terrain = forest
 
 # History

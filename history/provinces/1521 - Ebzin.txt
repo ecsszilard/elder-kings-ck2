@@ -4,12 +4,11 @@ title = c_ebzin
 # Settlements
 max_settlements = 4
 
-b_daasul = castle
+b_daasul = temple
 b_wuisama = city
-b_revush = temple
 
 # Misc
-culture = culture_gondorian
+culture = culture_rohirrim
 religion = daedra_azura
 
 # History

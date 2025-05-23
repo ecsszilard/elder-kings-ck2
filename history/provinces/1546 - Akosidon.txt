@@ -6,10 +6,10 @@ max_settlements = 4
 
 b_akosidon = castle
 b_raheid = city
-b_safiden = castle
+b_safiden = city
 
 # Misc
-culture = falmer
+culture = cathayan
 religion = daedra_meridia
 
 # History

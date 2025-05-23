@@ -1,10 +1,15 @@
+# County Title
 title = c_tibana
 
-max_settlements = 3
+# Settlements
+max_settlements = 4
 
-b_simhi = tribal
+b_simhi = castle
+b_kusa = city
+b_nulam = temple
 
-culture = zesterling
+# Misc
+culture = druchii
 religion = night_court
-terrain = mountain
 
+# History

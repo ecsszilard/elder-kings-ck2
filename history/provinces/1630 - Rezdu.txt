@@ -2,14 +2,13 @@
 title = c_rezdu
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_liupen = castle
-b_nozallo = temple
-b_bojadolid = city
+b_nozallo = city
 
 # Misc
-culture = culture_stonefoot
-religion = vahzen
+culture = dwemer
+religion = daedra_sanguine
 
 # History

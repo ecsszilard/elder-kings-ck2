@@ -6,10 +6,9 @@ max_settlements = 4
 
 b_tavank = castle
 b_isveib = temple
-b_razidon = city
 
 # Misc
-culture = reiklander
-religion = vahzen
+culture = culture_laegrim
+religion = daedra_sanguine
 
 # History

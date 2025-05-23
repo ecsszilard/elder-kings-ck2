@@ -5,11 +5,10 @@ title = c_ejucis
 max_settlements = 5
 
 b_votga = castle
-b_hyazma = temple
 b_qidon = city
 
 # Misc
-culture = reiklander
-religion = vahzen
+culture = culture_laegrim
+religion = daedra_sanguine
 
 # History

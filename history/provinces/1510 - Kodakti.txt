@@ -9,7 +9,7 @@ b_tahar = castle
 b_kuadn = temple
 
 # Misc
-culture = culture_gondorian
+culture = jodpa
 religion = daedra_azura
 
 # History

@@ -9,7 +9,7 @@ b_binael = city
 b_wyot = temple
 
 # Misc
-culture = dwemer
+culture = tilean
 religion = ideal_masters
 
 # History

@@ -9,7 +9,8 @@ b_nagastor = castle
 b_eliad = temple
 
 # Misc
-culture = nocker
+culture = werewolf
 religion = old_gods
+terrain = plains
 
 # History

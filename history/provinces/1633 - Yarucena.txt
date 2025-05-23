@@ -9,7 +9,7 @@ b_tremona = temple
 b_santejory = city
 
 # Misc
-culture = culture_stonefoot
-religion = vahzen
+culture = dwemer
+religion = daedra_sanguine
 
 # History

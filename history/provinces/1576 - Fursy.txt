@@ -2,14 +2,13 @@
 title = c_fursy
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_cartum = castle
-b_ocal = temple
 b_sadlen = city
 
 # Misc
-culture = cathayan
+culture = asrai
 religion = daedra_sanguine
 
 # History

@@ -6,10 +6,9 @@ max_settlements = 4
 
 b_astaret = castle
 b_nank = temple
-b_telidon = temple
 
 # Misc
-culture = culture_rohirrim
-religion = daedra_azura
+culture = tevari
+religion = forsworn_heresy
 
 # History

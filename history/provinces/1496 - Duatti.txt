@@ -4,12 +4,12 @@ title = c_duatti
 # Settlements
 max_settlements = 4
 
-b_duatti = temple
+b_duatti = castle
 b_niucita = city
-b_kosaret = castle
+
 
 # Misc
-culture = culture_numenorean
+culture = tevari
 religion = forsworn_heresy
 
 # History

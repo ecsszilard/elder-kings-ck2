@@ -9,7 +9,7 @@ b_wivar = city
 b_ulamiren = temple
 
 # Misc
-culture = falmer
+culture = cathayan
 religion = daedra_meridia
 
 # History

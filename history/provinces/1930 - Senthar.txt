@@ -4,12 +4,10 @@ title = c_senthar
 # Settlements
 max_settlements = 4
 
-b_senthar = castle
-b_skorn = temple
-b_keikal = city
+b_senthar = tribal
 
 # Misc
-culture = wight
+culture = mummy
 religion = anuic_skaal
 
 # History

@@ -4,10 +4,10 @@ title = c_houlogne
 # Settlements
 max_settlements = 3
 
-b_guernica = tribal
+b_guernica = castle
 
 # Misc
-culture = strigany
-religion = vahzen
+culture = dwemer
+religion = daedra_sanguine
 
 # History

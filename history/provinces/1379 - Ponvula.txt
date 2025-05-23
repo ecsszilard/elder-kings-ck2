@@ -9,7 +9,7 @@ b_birudur = city
 b_denian = temple
 
 # Misc
-culture = kislev
+culture = werewolf
 religion = old_gods
 
 # History

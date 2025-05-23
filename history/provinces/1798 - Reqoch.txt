@@ -4,12 +4,11 @@ title = c_reqoch
 # Settlements
 max_settlements = 4
 
-b_tarit = castle
-b_tabara = temple
-b_resiyaka = city
+b_tarit = tribal
 
 # Misc
-culture = tevari
-religion = daedra_azura
+culture = troll
+religion = vahzen
+terrain = hills
 
 # History

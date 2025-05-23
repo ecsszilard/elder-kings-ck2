@@ -9,9 +9,8 @@ b_eshemir = city
 b_nabhan = temple
 
 # Misc
-culture = eparsian
-religion = old_gods
-
-#
+culture = iserohan
+religion = ideal_masters
+terrain = farmlands
 
 # History

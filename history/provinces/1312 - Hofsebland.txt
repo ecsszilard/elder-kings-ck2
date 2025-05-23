@@ -9,9 +9,7 @@ b_mistpeak = temple
 b_leccori = city
 
 # Misc
-culture = ashlander
+culture = nocker
 religion = ideal_masters
-
-#
 
 # History

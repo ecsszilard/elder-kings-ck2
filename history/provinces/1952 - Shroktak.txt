@@ -8,7 +8,7 @@ b_shroktak = tribal
 b_carn_orru = temple
 
 # Misc
-culture = culture_goblin
+culture = mummy
 religion = anuic_skaal
 
 # History

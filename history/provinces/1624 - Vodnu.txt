@@ -9,7 +9,8 @@ b_burriana = temple
 b_roduster = city
 
 # Misc
-culture = culture_stonefoot
-religion = vahzen
+culture = dwemer
+religion = daedra_sanguine
+terrain = hills
 
 # History

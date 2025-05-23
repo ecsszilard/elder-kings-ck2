@@ -9,7 +9,7 @@ b_ranabhan = city
 b_eroniel = temple
 
 # Misc
-culture = woodelf
+culture = culture_silvan
 religion = ideal_masters
 terrain = woods
 

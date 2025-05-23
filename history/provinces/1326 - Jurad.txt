@@ -9,8 +9,8 @@ b_necova = city
 b_hviesd = temple
 
 # Misc
-culture = asrai
-religion = old_gods
+culture = culture_gondorian
+religion = ideal_masters
 terrain = forest
 
 # History

@@ -9,7 +9,8 @@ b_rakkalos = city
 b_ibevil = temple
 
 # Misc
-culture = asrai
-religion = old_gods
+culture = iserohan
+religion = ideal_masters
+terrain = farmlands
 
 # History

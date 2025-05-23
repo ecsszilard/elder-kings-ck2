@@ -8297,7 +8297,7 @@
 
 #House Arthe, Graymont
 16100 = {
-	name = "Willem" #Count of Graymont (Interregnum}
+	name = "Willem"
 	dynasty = 90012
 	culture = "breton"
 	religion = "eight_divines"

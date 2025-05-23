@@ -2,13 +2,15 @@
 title = c_ulster
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
-b_pavis = tribal
+b_pavis = city
+b_jevora = temple
+b_crato = castle
 
 # Misc
 culture = culture_firebeard
-religion = vahzen
-terrain = hills
+religion = daedra_azura
+terrain = mountain
 
 # History

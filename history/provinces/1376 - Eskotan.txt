@@ -9,7 +9,7 @@ b_moonmeadow = city
 b_stormvale = temple
 
 # Misc
-culture = kislev
+culture = werewolf
 religion = old_gods
 
 # History

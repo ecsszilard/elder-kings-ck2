@@ -8,8 +8,8 @@ b_gath_forthnir = tribal
 b_bail_catharnakh = temple
 
 # Misc
-culture = mummy
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 terrain = desert
 
 # History

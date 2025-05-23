@@ -9,7 +9,7 @@ b_qositri = temple
 b_bapeta = city
 
 # Misc
-culture = falmer
+culture = cathayan
 religion = daedra_meridia
 
 # History

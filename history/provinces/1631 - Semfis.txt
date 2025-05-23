@@ -9,7 +9,7 @@ b_ampuries = temple
 b_nuoved = city
 
 # Misc
-culture = culture_stonefoot
-religion = vahzen
+culture = dwemer
+religion = daedra_sanguine
 
 # History

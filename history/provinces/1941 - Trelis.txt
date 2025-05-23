@@ -8,7 +8,7 @@ b_trelis = tribal
 b_olmion = temple
 
 # Misc
-culture = ogre
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 
 # History

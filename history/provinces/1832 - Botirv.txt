@@ -8,7 +8,7 @@ b_rivin = tribal
 b_agren = temple
 
 # Misc
-culture = troll
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 
 # History

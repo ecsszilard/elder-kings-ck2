@@ -7,7 +7,7 @@ max_settlements = 3
 b_briesach = tribal
 
 # Misc
-culture = werewolf
+culture = mummy
 religion = anuic_skaal
 
 # History

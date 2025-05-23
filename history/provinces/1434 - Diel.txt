@@ -9,7 +9,7 @@ b_balael = city
 b_esonde = temple
 
 # Misc
-culture = woodelf
+culture = culture_silvan
 religion = ideal_masters
 
 # History

@@ -9,7 +9,7 @@ b_uglen = city
 b_kemael = temple
 
 # Misc
-culture = asrai
-religion = old_gods
+culture = culture_gondorian
+religion = ideal_masters
 
 # History

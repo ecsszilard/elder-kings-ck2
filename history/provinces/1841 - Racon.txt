@@ -7,8 +7,8 @@ max_settlements = 4
 b_belme = tribal
 
 # Misc
-culture = urukhai
-religion = daedra_malacath
+culture = demon_main
+religion = daedra_molag
 
 # History
 

@@ -2,14 +2,12 @@
 title = c_nurumurl
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_nurumurl = castle
-b_ronkgul = temple
-b_khegorod = city
+b_nurumurl = tribal
 
 # Misc
-culture = valar
+culture = mummy
 religion = anuic_skaal
 
 # History

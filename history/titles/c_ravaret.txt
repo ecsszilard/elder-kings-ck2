@@ -1,1 +1,4 @@
-3288.1.1 = { holder = 811970 }
+3360.1.1 = {
+	holder = 500000
+	liege = d_qelitri
+}

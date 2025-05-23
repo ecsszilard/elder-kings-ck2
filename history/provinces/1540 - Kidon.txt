@@ -9,7 +9,8 @@ b_zlory = temple
 b_saard = city
 
 # Misc
-culture = nocker
-religion = old_gods
+culture = eparsian
+religion = ideal_masters
+terrain = hills
 
 # History

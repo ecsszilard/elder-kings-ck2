@@ -5,11 +5,11 @@ title = c_ratoti
 max_settlements = 4
 
 b_kazush = castle
-b_sisama = city
 b_sazush = temple
 
 # Misc
-culture = culture_gondorian
+culture = jodpa
 religion = daedra_azura
+terrain = hills
 
 # History

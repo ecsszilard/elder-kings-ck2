@@ -4,14 +4,13 @@ title = c_derwatux
 # Settlements
 max_settlements = 5
 
-b_derwatux = city
+b_derwatux = castle
 b_irujuc = temple
-b_kyaia = castle
+b_kyaia = city
 
 # Misc
-culture = chimer
+culture = nocker
 religion = ideal_masters
 
-#
 
 # History

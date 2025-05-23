@@ -8,8 +8,8 @@ b_ram_duath = tribal
 b_lehma-koti = temple
 
 # Misc
-culture = mummy
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 terrain = desert
 
 # History

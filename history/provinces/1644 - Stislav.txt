@@ -9,7 +9,7 @@ b_cryansk = temple
 b_tavoja = city
 
 # Misc
-culture = reiklander
-religion = vahzen
+culture = culture_laegrim
+religion = daedra_sanguine
 
 # History

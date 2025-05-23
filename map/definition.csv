@@ -739,7 +739,7 @@ province;red;green;blue;name;x
 738;123;25;255;Lor;x
 739;123;15;255;Kidal;x
 740;123;5;255;Rama;x
-741;81;81;0;Ang Het;x 
+741;81;81;0;Ang Het;x
 742;81;81;10;Tang On;x
 743;81;81;20;Than Mo;x
 744;81;81;30;Prachata;x
@@ -826,7 +826,7 @@ province;red;green;blue;name;x
 825;4;195;50;Amalam;x
 826;4;185;50;Vaspung;x
 827;4;175;50;Gili;x
-828;4;165;50;Copang;x 
+828;4;165;50;Copang;x
 829;4;155;50;Arat;x
 830;4;145;50;Tasikku;x
 831;4;135;50;Herpung;x
@@ -1191,7 +1191,7 @@ province;red;green;blue;name;x
 1190;101;101;105;Eastern Ever-Frozen Sea;x
 1191;101;101;115;Akaviri Passage;x
 1192;101;101;125;Northern Sea of Ghosts;x
-1193;59;118;20;Eastern Elven Sea;x
+1193;73;165;131;Eastern Elven Sea;x
 1194;101;101;45;Chondahan;x
 1195;119;150;60;Khonong;x
 1196;111;101;133;Blackrock;x
@@ -1303,9 +1303,9 @@ province;red;green;blue;name;x
 1302;6;102;175;Dartus;x
 1303;48;105;48;Meggedo;x
 1304;174;186;52;Rasputia;x
-1305;7;189;180;Nacturwal;x
+1305;7;189;180;Jabiem;x
 1306;49;192;53;Sachervois;x
-1307;91;195;181;Jabiem;x
+1307;91;195;181;Nacturwal;x
 1308;133;198;54;Bermanchu;x
 1309;174;201;182;Teigmins;x
 1310;7;204;55;Saendur;x
@@ -1337,7 +1337,7 @@ province;red;green;blue;name;x
 1336;49;69;68;Qurom;x
 1337;91;72;196;Liwhed;x
 1338;133;75;69;Kanuj;x
-1339;174;78;197;Robsana;x
+1339;174;78;197;Cintra;x
 1340;7;181;70;Gheintoras;x
 1341;49;84;198;Hunnori;x
 1342;91;87;71;Fugezun;x
@@ -1348,27 +1348,27 @@ province;red;green;blue;name;x
 1347;87;204;201;Edgon;x
 1348;129;207;74;Siuppa;x
 1349;171;210;202;Ijuben;x
-1350;3;0;75;Cintra;x
+1350;3;0;75;Robsana;x
 1351;45;3;203;Tacahan;x
-1352;170;11;33;Zelbepal Sea;x 
+1352;170;11;33;Zelbepal Sea;x
 1353;129;9;204;Ottol Sea;x
 1354;171;12;77;Ottol Sea;x
-1355;3;15;205;Immong Gulf;x
-1356;45;18;78;Immong Gulf;x
+1355;3;15;205;Middle Immong Gulf;x
+1356;45;18;78;Inner Immong Gulf;x
 1357;87;21;206;Gang Bay;x
 1358;129;24;79;East-Gang Coast;x
 1359;171;27;207;West-Gang Coast;x
 1360;3;30;80;Loryam Sea;x
-1361;45;33;208;Sneak Bay;x
+1361;45;33;208;Whispering Lagoon;x
 1362;87;36;81;Domiam Gulf;x
 1363;129;39;209;Haugr Sound;x
-1364;71;133;87;Kuisk;x
-1365;3;45;210;Ante Castel;x
-1366;45;48;83;Rubisol;x
-1367;87;51;211;Irroza;x
-1368;129;54;84;Colube;x
-1369;171;57;212;Aftir;x
-1370;3;60;85;Fudden;x
+1364;121;103;127;Sneak Bay;x
+1365;53;145;110;Jade Cove;x
+1366;59;118;20;Tefara Sea;x
+1367;201;94;131;Outer Immong Gulf;x
+1368;87;26;86;Kalevar Bay;x
+1369;45;24;213;Outer Habun Gulf;x 
+1370;3;21;85;Inner Habun Gulf;x
 1371;45;63;213;Jisna;x
 1372;87;66;86;Leqube;x
 1373;129;69;214;Ibvoc;x
@@ -1391,27 +1391,27 @@ province;red;green;blue;name;x
 1390;3;120;95;Atvuse;x
 1391;45;123;223;Uyopa;x
 1392;87;126;96;Ufan;x
-1393;129;129;224;Boladir;x
-1394;171;132;97;Asaria;x
-1395;3;113;225;Tael;x
-1396;45;138;98;Ralart;x
-1397;87;141;226;Kisonne;x
-1398;129;144;99;Kahler;x
+1393;129;129;224;Velhad;x
+1394;171;132;97;Adampole;x
+1395;3;113;225;Vievers;x
+1396;45;138;98;Peyrac;x
+1397;87;141;226;Skordh;x
+1398;129;144;99;Zurbarran;x
 1399;7;81;70;Salemir;x
 1400;130;96;209;Mustaggor;x
-1401;172;99;82;Landmars;x
-1402;4;102;210;Raliel;x
-1403;46;105;83;Runaria;x
-1404;88;108;211;Wemot;x
-1405;130;111;84;Sonemir;x
-1406;172;114;212;Aloremir;x
+1401;172;99;82;Talgar;x
+1402;4;102;210;Azunere;x
+1403;46;105;83;Tiria;x
+1404;88;108;211;Egles;x
+1405;130;111;84;Petrun;x
+1406;172;114;212;Cubele;x
 1407;4;117;85;Qunabhan;x
 1408;131;36;4;Esabhan;x
 1409;171;147;227;Sisart;x
-1410;5;42;5;Udnarc;x
-1411;47;45;133;Temomon;x
-1412;89;48;6;Baud;x
-1413;131;15;134;Alinaud;x
+1410;5;42;5;Ryba;x
+1411;47;45;133;Ustilog;x
+1412;89;48;6;Ban Glean;x
+1413;131;15;134;Caed Myrkvid;x
 1414;173;14;7;Remada;x
 1415;5;57;135;Boronde;x
 1416;47;60;8;Abalonne;x
@@ -1420,36 +1420,36 @@ province;red;green;blue;name;x
 1419;173;69;137;Esot;x
 1420;5;72;10;Kunonde;x
 1421;47;75;138;Sisiel;x
-1422;89;78;11;Rihaod;x
-1423;131;81;139;Bisart;x
-1424;173;84;12;Yepoz;x
-1425;5;87;140;Rananis;x
+1422;89;78;11;Montge;x
+1423;131;81;139;Creuxrenard;x
+1424;173;84;12;Krois;x
+1425;5;87;140;Vedeux;x
 1426;47;90;13;Adatugel;x
 1427;89;93;141;Ezbidon;x
-1428;131;96;14;Tayahan;x
+1428;131;96;14;Poylesa;x
 1429;173;99;142;Vupra;x
 1430;5;102;15;Eroneran;x
 1431;47;105;143;Remasin;x
-1432;89;108;16;Kanory;x
+1432;89;108;16;Onary;x
 1433;131;111;144;Evareran;x
 1434;173;114;17;Diel;x
 1435;5;117;145;Datudur;x
 1436;1;24;190;Egalaria;x
-1437;89;123;146;Baxita;x
+1437;6;21;200;Baxita;x
 1438;47;198;73;Wirika;x
 1439;7;181;147;Razna;x
 1440;5;132;20;Quarm;x
 1441;1;9;60;Kulory;x
 1442;89;138;21;Nenard;x
 1443;131;141;149;Nudur;x
-1444;173;144;22;Lijita;x
-1445;5;147;150;Ezbana;x
+1444;173;144;22;Lijzen;x
+1445;5;147;150;Erbani;x
 1446;47;150;23;Bozudur;x
 1447;89;153;115;Ozcalar;x
 1448;131;156;24;Daxakti;x
 1449;173;159;152;Nodael;x
 1450;5;162;25;Suasgi;x
-1451;47;165;153;Apapidon;x
+1451;47;165;153;Upaly;x
 1452;89;168;26;Kagoja;x
 1453;131;171;114;Ragaret;x
 1454;173;174;27;Abodarim;x
@@ -1472,12 +1472,12 @@ province;red;green;blue;name;x
 1471;47;12;163;Wuryamal;x
 1472;89;15;36;Lavaton;x
 1473;131;18;164;Kanoti;x
-1474;173;21;37;Bahitri;x
+1474;173;21;37;Reulvan;x
 1475;5;24;165;Emevush;x
 1476;47;27;38;Kageuta;x
 1477;89;30;166;Sodeuta;x
 1478;131;33;39;Lahank;x
-1479;173;36;167;Qavar;x
+1479;173;36;167;Pavar;x
 1480;5;39;40;Ascedros;x
 1481;47;42;168;Mopellez;x
 1482;89;45;41;Arivirek;x
@@ -1485,7 +1485,7 @@ province;red;green;blue;name;x
 1484;173;15;42;Usvice;x
 1485;5;14;170;Badari;x
 1486;47;57;43;Rodoti;x
-1487;89;60;171;Daveid;x
+1487;89;60;171;jengu;x
 1488;131;63;44;Nivush;x
 1489;173;66;172;Sirgon;x
 1490;5;69;45;Adunery;x
@@ -1503,8 +1503,8 @@ province;red;green;blue;name;x
 1502;89;105;15;Bazakti;x
 1503;131;108;179;Esceta;x
 1504;173;111;52;Woja;x
-1505;5;114;180;Qahitri;x
-1506;47;117;53;Kodeta;x
+1505;5;114;180;Pahitri;x
+1506;47;117;53;Nisgoad;x
 1507;89;120;181;Zaveid;x
 1508;131;123;14;Lagita;x
 1509;173;126;182;Cirzen;x
@@ -1518,14 +1518,14 @@ province;red;green;blue;name;x
 1517;89;150;186;Tevama;x
 1518;131;153;59;Mafgos;x
 1519;173;156;187;Bavyamal;x
-1520;5;159;60;Tavaret;x
+1520;5;159;60;Xolenz;x
 1521;47;162;188;Ebzin;x
 1522;89;165;61;Nevalla;x
-1523;131;168;189;Kanush;x
+1523;131;168;189;Zanush;x
 1524;173;171;62;Kogeborg;x
 1525;193;113;2;Tavoti;x
-1526;47;177;63;Kivaton;x
-1527;89;180;191;Qanama;x
+1526;47;177;63;Elendor;x
+1527;89;180;191;Etiz;x
 1528;131;183;64;Zuisush;x
 1529;173;186;12;Qazoti;x
 1530;5;189;65;Udirek;x
@@ -1543,7 +1543,7 @@ province;red;green;blue;name;x
 1542;89;12;71;Hazdul;x
 1543;130;15;199;Fokar;x
 1544;172;18;72;Japis;x
-1545;6;21;200;Amaharet;x
+1545;89;123;146;Amaharet;x
 1546;47;24;73;Akosidon;x
 1547;89;27;201;Bosoja;x
 1548;131;30;74;Ruart;x
@@ -1555,7 +1555,7 @@ province;red;green;blue;name;x
 1554;173;48;77;Suadn;x
 1555;5;15;205;Ravali;x
 1556;47;14;78;Giedon;x
-1557;89;57;206;Amazidon;x
+1557;89;57;206;Laug;x
 1558;131;60;79;Ascoja;x
 1559;173;63;207;Hanaret;x
 1560;5;66;80;Ryavana;x
@@ -1598,7 +1598,7 @@ province;red;green;blue;name;x
 1597;89;177;226;Jitufuji;x
 1598;131;180;99;Breifne;x
 1599;173;183;17;Ulster;x
-1600;5;186;0;Ormond;x
+1600;5;186;0;Elmsreach;x
 1601;45;153;128;Casdiel;x
 1602;87;156;1;Flamorgan;x
 1603;129;159;129;Dyfed;x
@@ -1725,39 +1725,39 @@ province;red;green;blue;name;x
 1724;171;96;62;Letosh;x
 1725;3;99;190;Ocar;x
 1726;45;102;63;Lake Marble;x
-1727;87;105;191;Zen Asor;x
-1728;129;108;64;Nainf;x
-1729;171;111;192;Amzur;x
-1730;3;114;65;Osimya;x
-1731;45;117;193;Rimoun;x
-1732;87;120;66;Nallor;x
-1733;129;123;74;Zimeth;x
-1734;171;126;67;Dadoki;x
-1735;3;129;195;Qanabi;x
-1736;45;32;68;Ragan;x
-1737;87;135;196;Winidar;x
-1738;129;138;69;Binorad;x
-1739;171;14;88;Donubed;x
-1740;3;144;70;Acunolf;x
-1741;45;147;198;Sinobor;x
-1742;87;150;71;Vusart;x
-1743;129;153;199;Kiltonford;x
-1744;171;156;72;Amarone;x
-1745;3;159;200;Lorhan;x
-1746;45;162;73;Letubu;x
-1747;87;165;201;Tumaj;x
-1748;129;168;74;Savegh;x
-1749;171;171;202;Busandu;x
-1750;255;128;64;Crimsonmoor;x
-1751;45;177;2;Tanaury;x
-1752;87;180;176;Ravencliff;x
-1753;129;18;54;Bloodreach;x
-1754;206;216;152;Grimwood;x
-1755;3;189;205;Pyrion;x
-1756;45;192;78;Moonzelf;x
-1757;87;195;206;Xucinia;x
-1758;129;198;79;Kerodis;x
-1759;171;201;207;Redonas;x
+1727;87;105;191;Landmars;x
+1728;129;108;64;Boladir;x
+1729;171;111;192;Tael;x
+1730;3;114;65;Asaria;x
+1731;45;117;193;Temomon;x
+1732;87;120;66;Udnarc;x
+1733;129;123;74;Baud;x
+1734;171;126;67;Suzdal;x
+1735;3;129;195;Klin;x
+1736;45;32;68;Daud Otar;x
+1737;87;135;196;Almandaye;x
+1738;129;138;69;Mangup;x
+1739;171;14;88;Fronvhale;x
+1740;3;144;70;Kisonne;x
+1741;45;147;198;Kahler;x
+1742;87;150;71;Yepoz;x
+1743;129;153;199;Rihaod;x
+1744;171;156;72;Aquin;x
+1745;3;159;200;Birtas;x
+1746;45;162;73;Dun Gleanainn;x
+1747;87;165;201;Vaymbet;x
+1748;129;168;74;Tugun;x
+1749;171;171;202;Birensk;x
+1750;255;128;64;Wemot;x
+1751;45;177;2;Aloremir;x
+1752;87;180;176;Sonemir;x
+1753;129;18;54;Ralart;x
+1754;206;216;152;Runaria;x
+1755;3;189;205;Alinaud;x
+1756;45;192;78;Taganrog;x
+1757;87;195;206;Ugol;x
+1758;129;198;79;Maum;x
+1759;171;201;207;Terpilit;x
 1760;3;204;80;Abetouz;x
 1761;45;45;45;Engouz;x
 1762;45;207;207;Ceupo;x
@@ -1769,9 +1769,9 @@ province;red;green;blue;name;x
 1768;129;15;84;Banohn;x
 1769;171;18;212;Jagul;x
 1770;101;101;120;Hua La;x
-1771;87;26;86;Kalevar Bay;x
-1772;45;24;213;Habun Gulf;x
-1773;3;21;85;Habun Gulf;x
+1771;129;54;84;Colube;x
+1772;171;57;212;Aftir;x
+1773;3;60;85;Fudden;x
 1774;101;101;130;Lu Ang;x
 1775;101;101;90;Ko Ong;x
 1776;101;101;150;Amnatthaya;x
@@ -1805,10 +1805,10 @@ province;red;green;blue;name;x
 1804;85;111;6;Ejaban;x
 1805;127;114;134;Gabull;x
 1806;169;117;7;Diazma;x
-1807;171;123;2;Elendor;x
+1807;171;123;2;Fazotel;x
 1808;3;126;130;Mithlond;x
-1809;45;129;3;Thornvale;x
-1810;87;132;131;Elmsreach;x
+1809;45;129;3;Raliel;x
+1810;87;132;131;Ormond;x
 1811;129;135;4;Yggrath;x
 1812;171;138;132;Jorundra;x
 1813;1;105;5;Ashenfield;x
@@ -1845,43 +1845,43 @@ province;red;green;blue;name;x
 1844;169;207;22;Suner;x
 1845;1;210;150;Besven;x
 1846;43;10;33;Damuda;x
-1847;85;3;151;Krois;x
-1848;127;6;24;Montge;x
-1849;169;9;152;Vedeux;x
-1850;1;42;55;Zurbarran;x
-1851;43;15;153;Creuxrenard;x
-1852;85;18;26;Peyrac;x
-1853;127;21;154;Skordh;x
-1854;169;24;27;Azunere;x
-1855;1;27;155;Cubele;x
-1856;43;30;28;Tiria;x
-1857;85;33;156;Talgar;x
-1858;127;36;29;Egles;x
-1859;169;39;157;Vievers;x
-1860;11;52;40;Velhad;x
-1861;43;45;158;Adampole;x
-1862;85;48;31;Ban Glean;x
-1863;127;51;159;Caed Myrkvid;x
-1864;169;54;32;Petrun;x
-1865;1;57;160;Ryba;x
-1866;43;60;33;Ustilog;x
-1867;85;63;161;Dun Gleanainn;x
-1868;127;66;34;Vaymbet;x
-1869;169;69;162;Birensk;x
-1870;1;72;35;Tugun;x
-1871;43;75;163;Maum;x
-1872;85;78;36;Taganrog;x
-1873;127;81;164;Terpilit;x
-1874;169;84;37;Ugol;x
+1847;85;3;151;Vusart;x
+1848;127;6;24;Kiltonford;x
+1849;169;9;152;Amarone;x
+1850;1;42;55;Sinobor;x
+1851;43;15;153;Lorhan;x
+1852;85;18;26;Donubed;x
+1853;127;21;154;Acunolf;x
+1854;169;24;27;Bloodreach;x
+1855;1;27;155;Crimsonmoor;x
+1856;43;30;28;Grimwood;x
+1857;85;33;156;Zen Asor;x
+1858;127;36;29;Tanaury;x
+1859;169;39;157;Amzur;x
+1860;11;52;40;Nainf;x
+1861;43;45;158;Osimya;x
+1862;85;48;31;Winidar;x
+1863;127;51;159;Ragan;x
+1864;169;54;32;Binorad;x
+1865;1;57;160;Dadoki;x
+1866;43;60;33;Qanabi;x
+1867;85;63;161;Letubu;x
+1868;127;66;34;Tumaj;x
+1869;169;69;162;Busandu;x
+1870;1;72;35;Savegh;x
+1871;43;75;163;Kerodis;x
+1872;85;78;36;Moonzelf;x
+1873;127;81;164;Redonas;x
+1874;169;84;37;Xucinia;x
 1875;101;187;208;Artiom;x
 1876;43;90;38;Daevon;x
 1877;85;93;166;Gauf;x
 1878;127;96;39;Ivlot;x
-1879;169;99;167;Mangup;x
-1880;201;202;40;Ard Gymraen;x
-1881;43;105;168;Daud Otar;x
-1882;85;108;41;Klin;x
-1883;127;111;169;Suzdal;x
+1879;169;99;167;Ravencliff;x
+1880;201;202;40;Zimeth;x
+1881;43;105;168;Pyrion;x
+1882;85;108;41;Rimoun;x
+1883;127;111;169;Nallor;x
 1884;169;114;42;Bukina;x
 1885;1;117;170;Arkaim;x
 1886;43;120;43;Barlest;x
@@ -1901,7 +1901,7 @@ province;red;green;blue;name;x
 1900;1;162;50;Marfink;x
 1901;173;177;197;Terssac;x
 1902;5;180;70;Lomtuga;x
-1903;47;183;198;Almandaye;x
+1903;47;183;198;Ard Gymraen;x
 1904;89;186;71;Ard Ghlais;x
 1905;131;189;199;Beloozero;x
 1906;173;192;72;Jurga;x
@@ -1918,12 +1918,12 @@ province;red;green;blue;name;x
 1917;85;0;186;Korb Taskral;x
 1918;127;3;59;Annuminas;x
 1919;169;6;187;Biberveldt;x
-1920;47;135;148;Thorin;x
+1920;47;135;148;Niron;x
 1921;43;12;188;Nurumurl;x
 1922;85;15;61;Gothol Zigil;x
 1923;127;18;189;Baraz Duban;x
 1924;169;21;62;Sulaj Dar;x
-1925;47;120;18;Erebor;x
+1925;47;120;18;Irebor;x
 1926;43;27;63;Morlith;x
 1927;85;30;191;Nabatan;x
 1928;127;33;64;Elu Anath;x
@@ -1965,3 +1965,7 @@ province;red;green;blue;name;x
 1964;201;210;192;Hathdror;x
 1965;84;174;93;Lake Red Coral;x
 1966;145;99;98;Lake Citakal;x
+1967;71;133;87;Kuisk;x
+1968;3;45;210;Ante Castel;x
+1969;45;48;83;Rubisol;x
+1970;87;51;211;Irroza;x

@@ -10,8 +10,8 @@ b_fedosberg = castle
 b_lorot = temple
 
 # Misc
-culture = asrai
-religion = old_gods
+culture = culture_gondorian
+religion = ideal_masters
 terrain = forest
 
 # History

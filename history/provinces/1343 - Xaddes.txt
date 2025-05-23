@@ -10,7 +10,7 @@ b_draceborg = castle
 
 # Misc
 culture = eparsian
-religion = old_gods
+religion = ideal_masters
 
 #
 

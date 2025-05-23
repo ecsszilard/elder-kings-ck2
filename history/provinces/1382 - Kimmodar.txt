@@ -9,7 +9,7 @@ b_qovew = city
 b_vjapine = temple
 
 # Misc
-culture = kislev
+culture = werewolf
 religion = old_gods
 
 # History

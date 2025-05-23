@@ -9,7 +9,8 @@ b_wajozin = temple
 b_toumnis = city
 
 # Misc
-culture = asrai
-religion = old_gods
+culture = culture_gondorian
+religion = ideal_masters
+terrain = woods
 
 # History

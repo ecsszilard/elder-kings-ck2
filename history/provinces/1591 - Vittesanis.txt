@@ -9,7 +9,8 @@ b_ozden = temple
 b_tecwidi = city
 
 # Misc
-culture = cathayan
+culture = culture_laegrim
 religion = daedra_sanguine
+terrain = woods
 
 # History

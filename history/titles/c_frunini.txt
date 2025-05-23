@@ -1,1 +1,4 @@
-3360.1.1 = { holder = 612101 }
+3360.1.1 = {
+	holder = 425000
+	liege = d_frunini
+}

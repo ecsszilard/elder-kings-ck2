@@ -9,8 +9,8 @@ b_botabes = city
 b_druam = temple
 
 # Misc
-culture = asrai
-religion = old_gods
+culture = kislev
+religion = ideal_masters
 terrain = forest
 
 # History

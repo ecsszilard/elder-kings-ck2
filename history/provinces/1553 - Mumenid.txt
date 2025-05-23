@@ -8,7 +8,7 @@ b_poztun = castle
 b_delana = city
 
 # Misc
-culture = falmer
+culture = cathayan
 religion = daedra_meridia
 
 # History

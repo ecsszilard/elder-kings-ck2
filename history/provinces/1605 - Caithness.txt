@@ -4,12 +4,10 @@ title = c_caithness
 # Settlements
 max_settlements = 4
 
-b_segovia = castle
-b_penafiel = temple
-b_gormaz = city
+b_segovia = tribal
 
 # Misc
-culture = strigany
+culture = culture_bruedain
 religion = vahzen
 
 # History

@@ -1,5 +1,14 @@
-	title = c_konavid
-	max_settlements = 3
-	culture = zesterling
-	religion = night_court
-	b_emaleshi = tribal
+# County Title
+title = c_konavid
+
+# Settlements
+max_settlements = 4
+
+b_emaleshi = castle
+b_larman = temple
+
+# Misc
+culture = druchii
+religion = night_court
+
+# History

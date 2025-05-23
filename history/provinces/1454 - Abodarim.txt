@@ -9,7 +9,8 @@ b_losgi = temple
 b_kazeid = city
 
 # Misc
-culture = druchii
-religion = forsworn_heresy
+culture = reiklander
+religion = daedra_azura
+terrain = woods
 
 # History

@@ -5,11 +5,11 @@ title = c_tonberg
 max_settlements = 5
 
 b_tonberg = castle
-b_lijam = city
+b_silvervale = city
 b_fubre = temple
 
 # Misc
-culture = woodelf
+culture = culture_gondorian
 religion = ideal_masters
 terrain = forest
 

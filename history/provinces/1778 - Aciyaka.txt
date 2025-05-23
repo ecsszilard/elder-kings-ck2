@@ -4,12 +4,10 @@ title = c_aciyaka
 # Settlements
 max_settlements = 4
 
-b_tuqoja = castle
-b_aciyaka = temple
-b_kusenia = city
+b_tuqoja = tribal
 
 # Misc
-culture = tevari
-religion = daedra_azura
+culture = troll
+religion = vahzen
 
 # History

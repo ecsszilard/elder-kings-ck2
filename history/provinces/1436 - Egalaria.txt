@@ -8,7 +8,7 @@ b_baria = tribal
 b_aroniel = temple
 
 # Misc
-culture = werewolf
+culture = mummy
 religion = anuic_skaal
 
 # History

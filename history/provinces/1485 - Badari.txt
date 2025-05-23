@@ -2,14 +2,14 @@
 title = c_badari
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_ejajar = castle
 b_wegama = temple
 b_byiloti = city
 
 # Misc
-culture = nocker
+culture = strigany
 religion = old_gods
 
 # History

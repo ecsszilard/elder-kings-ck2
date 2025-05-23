@@ -7,7 +7,8 @@ max_settlements = 3
 b_arvamas = tribal
 
 # Misc
-culture = orc
-religion = daedra_malacath
+culture = balrog
+religion = daedra_molag
+terrain = forest
 
 # History

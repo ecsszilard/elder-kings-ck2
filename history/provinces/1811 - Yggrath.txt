@@ -4,13 +4,11 @@ title = c_yggrath
 # Settlements
 max_settlements = 4
 
-b_yggrath = castle
-b_cinderfall = city
-b_denaju = temple
+b_yggrath = tribal
 
 # Misc
-culture = demon_main
-religion = daedra_molag
+culture = orc
+religion = daedra_malacath
 terrain = marsh
 
 # History

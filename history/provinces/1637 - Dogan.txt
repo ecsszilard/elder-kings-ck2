@@ -9,8 +9,8 @@ b_ahavank = temple
 b_dosoja = city
 
 # Misc
-culture = reiklander
-religion = vahzen
+culture = culture_laegrim
+religion = daedra_sanguine
 terrain = farmlands
 
 # History

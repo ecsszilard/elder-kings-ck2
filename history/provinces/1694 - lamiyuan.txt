@@ -1,5 +1,15 @@
-	title = c_lamiyuan
-	max_settlements = 4
-	culture = culture_lossoth
-	religion = night_court
-	b_anarie = tribal
+# County Title
+title = c_lamiyuan
+
+# Settlements
+max_settlements = 4
+
+b_anarie = castle
+b_ralagan = city
+b_keirite = temple
+
+# Misc
+culture = druchii
+religion = night_court
+
+# History

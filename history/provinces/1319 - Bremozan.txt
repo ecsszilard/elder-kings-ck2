@@ -2,14 +2,14 @@
 title = c_bremozan
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_bremozan = castle
 b_yamur = temple
 b_zog = castle
 
 # Misc
-culture = woodelf
+culture = culture_gondorian
 religion = ideal_masters
 terrain = forest
 

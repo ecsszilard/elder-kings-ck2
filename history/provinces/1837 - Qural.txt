@@ -9,8 +9,9 @@ b_kiotield = castle
 b_tativ = temple
 
 # Misc
-culture = urukhai
-religion = daedra_malacath
+culture = demon_main
+religion = daedra_molag
+terrain = forest
 
 # History
 3300.1.1 = {

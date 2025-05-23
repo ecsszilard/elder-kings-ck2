@@ -9,8 +9,8 @@ b_durgan = temple
 b_sangly = city
 
 # Misc
-culture = reiklander
-religion = vahzen
+culture = druchii
+religion = night_court
 terrain = farmlands
 
 # History

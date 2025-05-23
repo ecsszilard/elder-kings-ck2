@@ -2,15 +2,13 @@
 title = c_zeoben
 
 # Settlements
-max_settlements = 6
+max_settlements = 5
 
-b_zeoben = castle
-b_tharn = castle
-b_teserban = temple
-b_vuthad_graef = city
+b_zeoben = tribal
+b_vuthad_graef = temple
 
 # Misc
-culture = balrog
+culture = mummy
 religion = anuic_skaal
 
 # History

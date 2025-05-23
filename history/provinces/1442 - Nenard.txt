@@ -9,7 +9,7 @@ b_tenana = temple
 b_natory = city
 
 # Misc
-culture = druchii
-religion = forsworn_heresy
+culture = reiklander
+religion = daedra_azura
 
 # History

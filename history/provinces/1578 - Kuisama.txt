@@ -4,12 +4,12 @@ title = c_kuisama
 # Settlements
 max_settlements = 4
 
-b_zobon = castle
-b_nivamer = temple
 b_minea = city
+b_zobon = castle
+
 
 # Misc
-culture = cathayan 
+culture = culture_hobbit
 religion = daedra_sanguine
 
 # History

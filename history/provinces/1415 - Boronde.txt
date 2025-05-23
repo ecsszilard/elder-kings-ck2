@@ -9,7 +9,7 @@ b_eloriel = city
 b_lyei = temple
 
 # Misc
-culture = dwemer
+culture = tilean
 religion = ideal_masters
 
 # History

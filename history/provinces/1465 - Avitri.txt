@@ -2,14 +2,13 @@
 title = c_avitri
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
 b_lodakti = castle
-b_wyaoteta = city
 b_syavaret = temple
 
 # Misc
-culture = snow_falmer
+culture = zesterling
 religion = daedra_meridia
 
 # History

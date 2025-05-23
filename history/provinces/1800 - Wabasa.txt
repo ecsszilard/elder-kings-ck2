@@ -7,7 +7,7 @@ max_settlements = 3
 b_umadra = tribal
 
 # Miscs
-culture = orsimer
+culture = culture_goblin
 religion = vahzen
 
 # History

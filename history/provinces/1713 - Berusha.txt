@@ -2,12 +2,13 @@
 title = c_berusha
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_berusha = tribal
+b_poltera = temple
 
 # Misc
-culture = vedouin
+culture = falmer
 religion = night_court
 
 # History

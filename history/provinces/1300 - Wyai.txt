@@ -9,7 +9,7 @@ b_ademael = temple
 b_qisiel = temple
 
 # Misc
-culture = kislev
+culture = werewolf
 religion = old_gods
 
 # History

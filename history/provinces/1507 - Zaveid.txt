@@ -11,8 +11,9 @@ b_bosaret = castle
 b_mivren = temple
 
 # Misc
-culture = culture_gondorian
+culture = jodpa
 religion = daedra_azura
+terrain = hills
 
 # History
 1000.1.1 = {

@@ -4,11 +4,12 @@ title = c_nolobedta
 # Settlements
 max_settlements = 5
 
-b_nolobedta = tribal
+b_nolobedta = castle
 b_nosopluk = temple
+b_qarnas = city
 
 # Misc
-culture = vedouin
+culture = chimer
 religion = night_court
 
 # History

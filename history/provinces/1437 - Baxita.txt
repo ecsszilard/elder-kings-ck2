@@ -4,12 +4,12 @@ title = c_baxita
 # Settlements
 max_settlements = 4
 
-b_lavitri = castle
-b_lavosgi = temple
-b_wapana = city
+b_ruarm = castle
+b_wosgi = city
 
 # Misc
-culture = culture_numenorean
-religion = forsworn_heresy
+culture = culture_rohirrim
+religion = daedra_azura
+terrain = woods
 
 # History

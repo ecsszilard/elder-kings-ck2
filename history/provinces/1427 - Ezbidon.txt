@@ -2,14 +2,14 @@
 title = c_ezbidon
 
 # Settlements
-max_settlements = 5
+max_settlements = 6
 
 b_ezbidon = castle
-b_danita = city
-b_kirian = temple
+b_dol_entar = temple
+b_kirian = city
 
 # Misc
-culture = woodelf
+culture = culture_silvan
 religion = ideal_masters
 
 # History

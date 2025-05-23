@@ -5,11 +5,9 @@ title = c_roida
 max_settlements = 4
 
 b_fuknar = castle
-b_drimea = temple
-b_ehavule = city
 
 # Misc
-culture = reiklander
-religion = vahzen
+culture = culture_laegrim
+religion = daedra_sanguine
 
 # History

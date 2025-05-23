@@ -1,4 +1,4 @@
 3360.1.1 = {
-	liege = "d_foborne"
-	holder = 522034 
+	holder = 608000
+	liege = d_bezaim
 }

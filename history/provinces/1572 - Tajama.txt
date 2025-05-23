@@ -4,12 +4,10 @@ title = c_tajama
 # Settlements
 max_settlements = 4
 
-b_tahirek = castle
-b_abineid = temple
 b_emevalla = city
 
 # Misc
-culture = jodpa
-religion = daedra_azura
+culture = culture_hobbit
+religion = daedra_sanguine
 
 # History

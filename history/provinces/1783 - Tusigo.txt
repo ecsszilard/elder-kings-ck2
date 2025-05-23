@@ -2,27 +2,12 @@
 title = c_tusigo
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
 b_tusigo = tribal
-b_kierra = temple
 
 # Miscs
-culture = orsimer
+culture = culture_goblin
 religion = vahzen
 
 # History
-2700.1.1 = {
-	b_tusigo = tb_hillfort_0
-	b_tusigo = tb_huntinglodge_0
-	b_tusigo = tb_market_town_0
-	b_tusigo = tb_training_grounds_0
-	b_tusigo = tb_village_0
-
-	b_kierra = tp_guardbarrack_0
-	b_kierra = tp_militiabarrack_0
-	b_kierra = tp_temple_0
-	b_kierra = tp_university_0
-	b_kierra = tp_culturefaculties_0
-	b_kierra = tp_walls_0
-}

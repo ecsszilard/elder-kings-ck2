@@ -7,7 +7,7 @@ max_settlements = 3
 b_marfink = tribal
 
 # Misc
-culture = orc
-religion = daedra_malacath
+culture = balrog
+religion = daedra_molag
 
 # History

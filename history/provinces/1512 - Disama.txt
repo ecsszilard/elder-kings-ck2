@@ -5,11 +5,10 @@ title = c_disama
 max_settlements = 4
 
 b_wurush = castle
-b_qivaton = city
 b_degaret = temple
 
 # Misc
-culture = culture_gondorian
+culture = culture_rohirrim
 religion = daedra_azura
 
 # History

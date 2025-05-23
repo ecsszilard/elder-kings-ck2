@@ -9,7 +9,7 @@ b_surush = city
 b_lataton = temple
 
 # Misc
-culture = falmer
+culture = zesterling
 religion = daedra_meridia
 
 # History

@@ -9,7 +9,8 @@ b_segena = city
 b_evirek = castle
 
 # Misc
-culture = culture_gondorian
+culture = jodpa
 religion = daedra_azura
+terrain = mountain
 
 # History

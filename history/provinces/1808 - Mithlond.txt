@@ -4,13 +4,11 @@ title = c_mithlond
 # Settlements
 max_settlements = 5
 
-b_mithlond = castle
-b_esgaroth = city
-b_duskveil = city
-b_bralor = temple
+b_mithlond = tribal
+b_esgaroth = castle
 
 # Misc
-culture = demon_main
-religion = daedra_molag
+culture = orc
+religion = daedra_malacath
 
 # History

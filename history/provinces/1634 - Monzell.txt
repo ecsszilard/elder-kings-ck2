@@ -9,7 +9,7 @@ b_ceissen = temple
 b_vagliari = city
 
 # Misc
-culture = culture_stonefoot
-religion = vahzen
+culture = dwemer
+religion = daedra_sanguine
 
 # History

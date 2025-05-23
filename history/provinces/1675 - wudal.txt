@@ -1,9 +1,15 @@
+# County Title
 title = c_wudal
 
-max_settlements = 3
+# Settlements
+max_settlements = 5
 
-b_akasipan = tribal
+b_akasipan = castle
+b_angipan = city
+b_qabyau = temple
 
-culture = zesterling
+# Misc
+culture = druchii
 religion = night_court
-terrain = mountain
+
+# History

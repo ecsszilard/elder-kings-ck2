@@ -8,8 +8,8 @@ b_liucelg = tribal
 b_agayamme = castle
 
 # Misc
-culture = urukhai
-religion = daedra_malacath
+culture = demon_main
+religion = daedra_molag
 
 # History
 

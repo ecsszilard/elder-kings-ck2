@@ -1670,240 +1670,20 @@ upgrade_scaled_wales = {
 	}
 }
 
-#### UNDERGROUND CITY
-# Dungeon ......................... upgrade_dungeon
-# Natural Caves ................... upgrade_caves_natural
-# Travel Tunnels .................. upgrade_tunnels_travel
-# Precious metal mine ............. upgrade_metal_mine_precious
-# Guardian of the Deep............. upgrade_guardian_of_the_deep
-
-upgrade_dungeon = { # Dungeon
-	picture = GFX_upgrade_icon_skulls
-	potential = { }
-	allow = { }
-	active = { }
-
-	flags = {
-		room
-		is_singular
-		scary
-	}
-	build_time = 24
-	gold_cost_flat = 450
-	gold_cost_ticking = 1
-	owner_modifier = {
-		arrest_chance_modifier = 0.1
-	}
-}
-
-upgrade_caves_natural = { # Natural Caves
-	picture = GFX_upgrade_icon_caves
-	potential = { }
-	allow = { }
-	active = { }
-
-	flags = {
-		is_plural
-	}
-	build_time = 24
-	gold_cost_flat = 450
-	gold_cost_ticking = 1
-	owner_modifier = {
-		defensive_plot_power_modifier = 0.1
-	}
-}
-
-upgrade_tunnels_travel = { # Travel Tunnels
-	picture = GFX_upgrade_icon_key
-	potential = { }
-	allow = { }
-	active = { }
-
-	flags = {
-		is_plural
-	}
-	build_time = 60
-	gold_cost_flat = 450
-	gold_cost_ticking = 1
-	local_modifier = {
-		local_movement_speed = 0.1
-		court_size_modifier = 2
-	}
-}
-
-upgrade_metal_mine_precious = {  # Precious metal mine
-	picture = GFX_upgrade_icon_ingots_silver
-	potential = { }
-	allow = { }
-	active = { }
-
-	flags = {
-		is_plural
-	}
-	build_time = 36
-	gold_cost_flat = 450
-	gold_cost_ticking = 1
-	local_modifier = {
-		local_tax_modifier = 0.1
-	}
-}
-
-upgrade_guardian_of_the_deep = {
-	picture = GFX_upgrade_icon_key
-	potential = { }
-	allow = { }
-	active = { }
-
-	flags = {
-		is_singular
-		unlocks_minor_title
-	}
-	build_time = 12
-	gold_cost_flat = 450
-	gold_cost_ticking = 1
-	local_modifier = {
-
-	}
-	owner_modifier = {
-		custom_modifier_text = deep_guardian_custom_modifier_tt
-	}
-}
-
-upgrade_gargoyles = {
-	picture = GFX_upgrade_icon_skulls
-
-	potential = { religion_group = old_world_group }
-	allow = {
-		trigger_if = {
-			limit = { NOT = { religion_group = old_world_group } }
-			religion_group = old_world_group
-		}
-	}
-	active = { religion_group = old_world_group }
-
-	flags = {
-		scary
-		is_plural
-	}
-	build_time = 24
-	gold_cost_flat = 450
-	gold_cost_ticking = 1
-	owner_modifier = {
-		cruel_opinion = 5
-		custom_modifier_text = execution_possible_modifier_tt
-		custom_modifier_text = intimidation_possible_modifier_tt
-
-	}
-}
-
-upgrade_relic_tomb = {
-	picture = GFX_upgrade_icon_key
-
-	potential = { religion_group = old_world_group }
-	allow = {
-		trigger_if = {
-			limit = { NOT = { religion_group = old_world_group } }
-			religion_group = old_world_group
-		}
-	}
-	active = {
-		religion_group = old_world_group
-		hidden_tooltip = {
-			FROMFROM = { is_active = yes }
-		}
-		FROM = {
-			show_scope_change = no
-			trigger_if = {
-			    limit = {
-			        NOT = { is_building_wonder_upgrade = yes }
-			    }
-			    custom_tooltip = {
-			        text = must_be_storing_a_relic_TT
-			        has_wonder_upgrade_flag = is_storing_relic
-			    }
-			}
-		}
-	}
-
-	flags = {
-		valuable
-		is_singular
-		holy
-		stores_relic
-	}
-	build_time = 24
-	gold_cost_flat = 450
-	gold_cost_ticking = 1
-	owner_modifier = {
-		monthly_character_piety = 0.25
-		custom_modifier_text = storing_a_relic_possible_modifier_tt
-	}
-}
-
-upgrade_catacombs = {
-	picture = GFX_upgrade_icon_skulls
-
-	potential = { religion_group = old_world_group }
-	allow = {
-		trigger_if = {
-			limit = { NOT = { religion_group = old_world_group } }
-			religion_group = old_world_group
-		}
-	}
-	active = { religion_group = old_world_group }
-
-	flags = {
-		decorative
-		is_singular
-	}
-	build_time = 24
-	gold_cost_flat = 450
-	gold_cost_ticking = 1
-	owner_modifier = {
-		monthly_character_piety = 0.05
-	}
-	local_modifier = {
-		siege_defence = 0.1
-	}
-}
+####
 
 upgrade_royal_trading_hall = {
 	picture = GFX_wonder_upgrade_heorot_trading_hall
 	potential = { }
 	allow = { }
 	active = {
-		OR={
-			NOT={
-				c_olricstaad={
-					holder_scope={
-						c_marienburg={
-							holder_scope={
-								opinion = {
-									who = PREVPREV
-									value >= 0
-								}
-							}
-						}
-					}
-				}
-			}
-			NOT={
-				c_marienburg={
-					holder_scope={
-						opinion = {
-							who = ROOT
-							value >= 0
-						}
-					}
-				}
-			}
-			c_marienburg={same_realm=ROOT}
+			c_jabiem={same_realm=ROOT}
 		}
 	}
 
 	flags = {
 		is_singular
-		unlocks_minor_title
+		valuable
 	}
 	build_time = 24
 	gold_cost_flat = 450
@@ -1918,67 +1698,6 @@ upgrade_royal_trading_hall = {
 	}
 }
 
-upgrade_torture_chamber = {
-	picture = GFX_upgrade_icon_skulls
-
-	potential = { }
-	allow = { }
-	active = { }
-
-	flags = {
-		scary
-		secluded
-		is_singular
-	}
-	build_time = 24
-	gold_cost_flat = 550
-	gold_cost_ticking = 1
-	local_modifier = {
-
-	}
-	owner_modifier = {
-		custom_modifier_text = execution_possible_modifier_tt
-		custom_modifier_text = intimidation_possible_modifier_tt
-		custom_modifier_text = private_talk_possible_modifier_tt
-	}
-	ai_will_do = {
-		factor = 0.5
-		modifier = {
-			factor = 2
-			has_evil_trait_trigger = yes
-		}
-	}
-}
-
-upgrade_spikes = {
-	picture = GFX_upgrade_icon_skulls
-
-	potential = { }
-	allow = { }
-	active = { }
-
-	flags = {
-		scary
-		is_plural
-	}
-	build_time = 24
-	gold_cost_flat = 450
-	gold_cost_ticking = 1
-	local_modifier = {
-		siege_defence = 0.05
-	}
-	owner_modifier = {
-		custom_modifier_text = execution_possible_modifier_tt
-	}
-	ai_will_do = {
-		factor = 0.5
-		modifier = {
-			factor = 3
-			trait = impaler
-		}
-	}
-}
-
 upgrade_retinue_dwarf = {
 	picture = GFX_upgrade_icon_guard_helmet
 
@@ -1987,8 +1706,7 @@ upgrade_retinue_dwarf = {
 	active = { }
 
 	flags = {
-		unit
-		defensive
+		towering
 		is_singular
 	}
 	build_time = 24
@@ -2003,339 +1721,6 @@ upgrade_retinue_dwarf = {
 	}
 }
 
-upgrade_hidden_passageways = { # Hidden Passageways
-	picture = GFX_upgrade_icon_key
-	potential = { }
-	allow = { }
-	active = { }
-
-	flags = {
-		is_plural
-	}
-	build_time = 36
-	gold_cost_flat = 450
-	gold_cost_ticking = 1
-	local_modifier = {
-		assassinate_chance_modifier = 0.05
-	}
-	owner_modifier = {
-		custom_modifier_text = hidden_passageways_modifier_tt
-		court_size_modifier = 2
-	}
-}
-
-upgrade_dueling_room = { # Dueling Room
-	picture = GFX_upgrade_icon_equipment
-	potential = { }
-	allow = { }
-	active = { }
-
-	flags = {
-		room
-		is_singular
-	}
-	build_time = 24
-	gold_cost_flat = 450
-	gold_cost_ticking = 1
-	owner_modifier = {
-		combat_rating = 3
-		brave_opinion = 5
-	}
-}
-
-upgrade_studded_bastions = { # Studded Bastions
-	#The city's defenses have begun to spill out onto the land, with ropes of well-maintained walls criss-crossing the main approach to the burgh. Adding extra bastions to these will bulge the amount of walkable perimeter (and so how many troops can man them) without noticeably increasing cost.
-	#Construct additional bastions along the walls, bulging the amount of walkable perimeter that can be used for defense along any given stretch.
-	picture = GFX_upgrade_icon_stones
-
-	potential = {
-
-	}
-	allow = {
-
-	}
-
-	build_time = 60
-	gold_cost_flat = 500
-	gold_cost_ticking = 1
-
-	owner_modifier = {
-	}
-
-	local_modifier = {
-		siege_defence = 0.05
-		archers = 200
-	}
-
-	flags = {
-
-	}
-	active = {
-		#always
-	}
-}
-
-upgrade_strategic_exclaves = { # Strategic Exclaves
-	#A city is nothing without its countryside, and this city takes that seriously. Vital local townships are now guarded by their own fortifications, paid for and maintained by the capital-settlement, and the closest are even connected by short walls to form a single, defensible sprawl.
-	#Extend the defenses to nearby local townships, forming a huge fortified complex.
-	picture = GFX_upgrade_icon_stones
-
-	potential = {
-
-	}
-	allow = {
-
-	}
-
-	build_time = 120
-	gold_cost_flat = 1000
-	gold_cost_ticking = 5
-
-	owner_modifier = {
- 		town_opinion = 3
-		#" * Immediately gain maximum walls & fortification buildings in all currently-built baronies in the county (irrelevant of technology or other construction concerns, because wonder).
- 		custom_modifier_text = holdings_walls_upgrade_custom_modifier_tt
-	}
-
-
-	local_modifier = {
-		local_tax_modifier = 0.05
-	}
-
-	flags = {
-
-	}
-	active = {
-		#always
-	}
-}
-
-upgrade_soaring_fortresses = { # Soaring Fortresses
-	#These dire, imposing stoneworks punch upwards like massive, artificial fists. Crowned with rows of bastions and studded with fortified towers, none may approach without being seen, and no amount of lesser walls captured will stop the enfilading from their legions of archers.
-	#Construct massive individual fortresses within the wider network.
-	picture = GFX_upgrade_icon_stones
-
-	potential = {
-
-	}
-	allow = {
-
-	}
-
-	build_time = 60
-	gold_cost_flat = 450
-	gold_cost_ticking = 1
-
-	local_modifier = {
-		heavy_infantry = 100
-		siege_defence = 0.05
-	}
-	owner_modifier = {
-		custom_modifier_text = castellan_custom_modifier_tt
-	}
-	flags = {
-		towering
-	}
-	active = {
-		#always
-	}
-}
-
-upgrade_hidden_gates = { # Hidden Gates
-	# Secreted behind sewer shafts, diving under the moats, cut into the side of obscuring bastions: the defenders of this city strike often and without warning from their many and varied hiding places, before vanishing back into the night.
-	# Secret gates and sally ports to make easier strikes outwards.
-
-	picture = GFX_upgrade_icon_key
-
-	potential = {
-
-	}
-	allow = {
-
-	}
-
-	build_time = 24
-	gold_cost_flat = 500
-	gold_cost_ticking = 1
-
-	owner_modifier = {
-		custom_modifier_text = better_chance_of_defender_siege_events_custom_modifier_tt
-	}
-
-	local_modifier = {
-		siege_defence = 0.10
-	}
-
-	flags = {
-
-	}
-	active = {
-		#always
-	}
-}
-
-
-upgrade_gatehouse_forts = { # Gatehouse-Forts
-	#Turn each gatehouse into a full-scale fortress in its own right, and so turn each layer of the walls into a separate mini-siege.
-
-	picture = GFX_upgrade_icon_stones
-
-	potential = {
-
-	}
-	allow = {
-
-	}
-
-	build_time = 24
-	gold_cost_flat = 400
-	gold_cost_ticking = 1
-
-	owner_modifier = {
-	}
-
-	local_modifier = {
-		siege_defence = 0.05
-		archers = 150
-	}
-
-	flags = {
-
-	}
-	active = {
-		#always
-	}
-}
-
-upgrade_killing_fields = { # Staged Killing Fields
-	#Planned routes through the defenses that are simple, clear, devoid of cover, and looked over by the maximum possible number of defenses, always with a difficult fortress guarded the next killing ground along.
-	picture = GFX_upgrade_icon_skulls
-
-	potential = {
-
-	}
-	allow = {
-
-	}
-
-	build_time = 24
-	gold_cost_flat = 400
-	gold_cost_ticking = 1
-	
-	owner_modifier = {
-		monthly_character_prestige = 0.1
-		culture_flex = 0.02
-		religion_flex = -0.04
-	}
-
-	local_modifier = {
-		archers = 100
-	}
-
-	flags = {
-
-	}
-	active = {
-		#always
-	}
-}
-
-
-upgrade_deep_defense_architecture = { # Deep Defense Architecture
-	picture = GFX_upgrade_icon_crates
-	potential = {
-
-	}
-	allow = {
-
-	}
-
-	build_time = 60
-	gold_cost_flat = 500
-	gold_cost_ticking = 1
-
-	owner_modifier = {
-	}
-
-	local_modifier = {
-		siege_defence = 0.10
-	}
-
-	flags = {
-
-	}
-	active = {
-		#always
-	}
-}
-
-upgrade_wall_walker = {
-	picture = GFX_upgrade_icon_key
-	potential = { }
-	allow = { }
-	active = { }
-
-	flags = {
-		is_singular
-		unlocks_minor_title
-	}
-	build_time = 12
-	gold_cost_flat = 450
-	gold_cost_ticking = 1
-	local_modifier = {
-
-	}
-	owner_modifier = {
-		custom_modifier_text = wall_walker_custom_modifier_tt
-	}
-}
-
-upgrade_hypocausts = {
-	picture = GFX_upgrade_icon_brazier
-
-	potential = { }
-	allow = { }
-	active = { }
-
-	flags = {
-		heating
-		is_plural
-	}
-	build_time = 12
-	gold_cost_flat = 300
-	gold_cost_ticking = 1
-	local_modifier = {
-		disease_defence = 0.01
-	}
-	owner_modifier = {
-		monthly_character_prestige = 0.02
-	}
-}
-
-
-upgrade_heating_pipes = {
-	picture = GFX_upgrade_icon_brazier
-
-	potential = { }
-	allow = { FROMFROM = { has_wonder_upgrade = upgrade_hypocausts } }
-	active = { FROMFROM = { has_wonder_upgrade = upgrade_hypocausts } }
-
-	flags = {
-		heating
-		is_plural
-	}
-	build_time = 12
-	gold_cost_flat = 500
-	gold_cost_ticking = 1
-	local_modifier = {
-		disease_defence = 0.02
-	}
-	owner_modifier = {
-		monthly_character_prestige = 0.02
-	}
-}
-
-
 upgrade_retinue_druchii = {
 	picture = GFX_upgrade_icon_guard_helmet
 
@@ -2344,8 +1729,7 @@ upgrade_retinue_druchii = {
 	active = { }
 
 	flags = {
-		unit
-		defensive
+		towering
 		is_singular
 	}
 	build_time = 24
@@ -2357,5 +1741,26 @@ upgrade_retinue_druchii = {
 	}
 	owner_modifier = {
 		land_organisation = 0.15
+	}
+}
+
+upgrade_desert_crypt = {
+	picture = GFX_wonder_upgrade_desert_crypt
+	potential = { }
+	allow = { }
+	active = { }
+
+	flags = {
+		is_singular
+		nature
+	}
+	build_time = 24
+	gold_cost_flat = 450
+	gold_cost_ticking = 1
+	local_modifier = {
+		local_revolt_risk = -0.05
+	}
+	owner_modifier = {
+		town_opinion = 5
 	}
 }

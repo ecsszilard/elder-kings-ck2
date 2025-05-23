@@ -5,11 +5,10 @@ title = c_emevush
 max_settlements = 5
 
 b_navoti = castle
-b_kivoti = castle
-b_wonama = city
+b_wonama = temple
 
 # Misc
-culture = culture_silvan
+culture = strigany
 religion = old_gods
 
 # History

@@ -9,7 +9,8 @@ b_ageta = city
 b_tahita = temple
 
 # Misc
-culture = druchii
-religion = forsworn_heresy
+culture = reiklander
+religion = daedra_azura
+terrain = woods
 
 # History

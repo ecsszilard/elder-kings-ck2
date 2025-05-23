@@ -2,14 +2,15 @@
 title = c_hebrat
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
 b_beid = castle
-b_syavosgi = city
-b_syaotar = temple
+b_srugon = temple
+b_nael = city
 
 # Misc
-culture = culture_gondorian
+culture = jodpa
 religion = daedra_azura
+terrain = hills
 
 # History

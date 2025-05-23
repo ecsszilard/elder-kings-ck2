@@ -2,12 +2,12 @@
 title = c_keluva
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
 b_agayar = tribal
 
 # Misc
-culture = urukhai
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 
 # History

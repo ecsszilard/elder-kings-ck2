@@ -4,12 +4,10 @@ title = c_jagul
 # Settlements
 max_settlements = 4
 
-b_danenr = castle
-b_quneric = temple
-b_emeph = city
+b_danenr = tribal
 
 # Misc
-culture = tevari
-religion = daedra_azura
+culture = troll
+religion = vahzen
 
 # History

@@ -1,1 +1,4 @@
-3360.1.1 = { holder = 467000 }
+3360.1.1 = {
+	holder = 185000
+	historical_nomad = yes
+}

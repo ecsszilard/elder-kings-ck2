@@ -4,12 +4,10 @@ title = c_isifu
 # Settlements
 max_settlements = 4
 
-b_isifu = castle
-b_recold = temple
-b_weuf = city
+b_isifu = tribal
 
 # Misc
-culture = tevari
-religion = daedra_azura
+culture = troll
+religion = vahzen
 
 # History

@@ -2,16 +2,16 @@
 title = c_datudur
 
 # Settlements
-max_settlements = 7
+max_settlements = 6
 
 b_bavew = castle
 b_kirule = city
 b_lozard = temple
-b_satew = castle
+b_satew = city
 
 # Misc
-culture = culture_numenorean
-religion = forsworn_heresy
+culture = reiklander
+religion = daedra_azura
 terrain = farmlands
 
 # History

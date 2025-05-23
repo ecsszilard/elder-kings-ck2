@@ -9,7 +9,7 @@ b_kaxank = city
 b_delaret = castle
 
 # Misc
-culture = culture_rohirrim
-religion = daedra_azura
+culture = tevari
+religion = forsworn_heresy
 
 # History

@@ -5,11 +5,12 @@ title = c_tacahan
 max_settlements = 4
 
 b_tacahan = castle
-b_bilael = city
+b_bilael = temple
 b_kalbur = temple
 
 # Misc
-culture = culture_silvan
-religion = old_gods
+culture = iserohan
+religion = ideal_masters
+terrain = hills
 
 # History

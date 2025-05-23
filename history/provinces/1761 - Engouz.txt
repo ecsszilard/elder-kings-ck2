@@ -4,12 +4,12 @@ title = c_engouz
 # Settlements
 max_settlements = 4
 
-b_engouz = castle
+b_engouz = tribal
 b_vestury = temple
-b_teseric = city
 
 # Misc
-culture = tilean
-religion = daedra_azura
+culture = ogre
+religion = vahzen
+terrain = mountain
 
 # History

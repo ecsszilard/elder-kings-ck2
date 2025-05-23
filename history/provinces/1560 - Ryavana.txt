@@ -8,7 +8,7 @@ b_sedros = castle
 b_wosaret = temple
 
 # Misc
-culture = falmer
+culture = cathayan
 religion = daedra_meridia
 
 # History

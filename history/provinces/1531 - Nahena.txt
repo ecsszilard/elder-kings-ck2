@@ -9,7 +9,7 @@ b_kuradeva = city
 b_rajena = city
 
 # Misc
-culture = culture_gondorian
+culture = culture_rohirrim
 religion = daedra_azura
 terrain = plains
 

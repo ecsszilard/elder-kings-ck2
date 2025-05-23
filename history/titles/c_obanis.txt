@@ -1,3 +1,4 @@
 3360.1.1 = {
-	liege = "e_eloin"
-	holder = 185174 }
+	holder = 146000
+	liege = d_bulose
+}

@@ -9,7 +9,7 @@ b_dyaoteid = city
 b_rosgi = castle
 
 # Misc
-culture = snow_falmer
-religion = ideal_masters
+culture = zesterling
+religion = daedra_meridia
 
 # History

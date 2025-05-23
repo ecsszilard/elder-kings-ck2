@@ -2,25 +2,19 @@
 title = c_camiens
 
 # Settlements
-max_settlements = 7
+max_settlements = 6
 
 b_zopar = castle
-b_giapelda = temple
-b_natudur = city
+b_giapelda = city
+b_natudur = castle
 b_ectard = temple
 
 # Misc
-culture = culture_stonefoot
-religion = vahzen
+culture = dwemer
+religion = daedra_sanguine
 terrain = mountain
 
 # History
-2500.1.1 = {
-	build_wonder = wonder_norse_heorot
-	set_wonder_stage = 2
-    	build_wonder_upgrade = upgrade_caves_natural
-    	build_wonder_upgrade = upgrade_royal_trading_hall
-}
 3100.1.1 = {
 	b_zopar = ca_keep_0a
 	b_zopar = ca_keep_0b

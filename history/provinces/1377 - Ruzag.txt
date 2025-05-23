@@ -4,13 +4,13 @@ title = c_ruzag
 # Settlements
 max_settlements = 5
 
-b_suray = city
 b_rockyridge = castle
-b_clogen = temple
+b_suray = city
+b_clogen = city
 
 # Misc
-culture = archein
-religion = hist
+culture = eparsian
+religion = ideal_masters
 terrain = argonia
 
 # History

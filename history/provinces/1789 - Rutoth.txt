@@ -8,7 +8,7 @@ b_rutoth = tribal
 b_ankoja = temple
 
 # Miscs
-culture = orsimer
+culture = culture_goblin
 religion = vahzen
 terrain = mountain
 

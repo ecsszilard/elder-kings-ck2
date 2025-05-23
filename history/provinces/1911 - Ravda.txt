@@ -8,8 +8,8 @@ b_tyrn_lhuig = tribal
 b_ravda = temple
 
 # Misc
-culture = mummy
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 terrain = desert
 
 # History

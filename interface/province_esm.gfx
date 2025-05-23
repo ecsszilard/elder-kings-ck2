@@ -3220,56 +3220,56 @@ spriteTypes = {
 	### Missing vanilla Nomad holdings
 	spriteType = {
 		name = "GFX_settlement_nomad_westerngfx"
-		texturefile = "gfx\\interface\\placeholder_nomad_western.tga"
+		texturefile = "gfx\\interface\\placeholder_nomad_western.dds"
 		noOfFrames = 1
 		norefcount = yes
 	}
 
 	spriteType = {
 		name = "GFX_settlement_nomad_westerngfx_looted"
-		texturefile = "gfx\\interface\\placeholder_nomad_western_looted.tga"
+		texturefile = "gfx\\interface\\placeholder_nomad_western_looted.dds"
 		noOfFrames = 1
 		norefcount = yes
 	}
 
 	spriteType = {
 		name = "GFX_settlement_nomad_muslimgfx"
-		texturefile = "gfx\\interface\\placeholder_nomad_desert.tga"
+		texturefile = "gfx\\interface\\placeholder_nomad_desert.dds"
 		noOfFrames = 1
 		norefcount = yes
 	}
 
 	spriteType = {
 		name = "GFX_settlement_nomad_muslimgfx_looted"
-		texturefile = "gfx\\interface\\placeholder_nomad_desert_looted.tga"
+		texturefile = "gfx\\interface\\placeholder_nomad_desert_looted.dds"
 		noOfFrames = 1
 		norefcount = yes
 	}
 
 	spriteType = {
 		name = "GFX_settlement_nomad_indiangfx"
-		texturefile = "gfx\\interface\\placeholder_nomad_indian.tga"
+		texturefile = "gfx\\interface\\placeholder_nomad_indian.dds"
 		noOfFrames = 1
 		norefcount = yes
 	}
 
 	spriteType = {
 		name = "GFX_settlement_nomad_indiangfx_looted"
-		texturefile = "gfx\\interface\\placeholder_nomad_indian_looted.tga"
+		texturefile = "gfx\\interface\\placeholder_nomad_indian_looted.dds"
 		noOfFrames = 1
 		norefcount = yes
 	}
 
 	spriteType = {
 		name = "GFX_settlement_nomad_westafricangfx"
-		texturefile = "gfx\\interface\\placeholder_nomad_westafrican.tga"
+		texturefile = "gfx\\interface\\placeholder_nomad_westafrican.dds"
 		noOfFrames = 1
 		norefcount = yes
 	}
 
 	spriteType = {
 		name = "GFX_settlement_nomad_westafricangfx_looted"
-		texturefile = "gfx\\interface\\placeholder_nomad_westafrican_looted.tga"
+		texturefile = "gfx\\interface\\placeholder_nomad_westafrican_looted.dds"
 		noOfFrames = 1
 		norefcount = yes
 	}
@@ -3893,310 +3893,274 @@ spriteTypes = {
 	}
 	
 
-	### Asur Holdings
+	### Pelur Holdings
 
 	spriteType = {
-		name = "GFX_settlement_castle_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_castle_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_city_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_city_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_westerngfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_jewishgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_muslimgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_norsegfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_mongolgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_mesoamericangfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_persiangfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_westafricangfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_turkishgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_ugricgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_kislevgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_indiangfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur.tga"
+		name = "GFX_settlement_castle_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_castle_pelur.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_castle_asurgfx_looted"
-		texturefile = "gfx//interface//holdings//asur//placeholder_castle_asur_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_city_asurgfx_looted"
-		texturefile = "gfx//interface//holdings//asur//placeholder_city_asur_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_westerngfx_looted"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_muslimgfx_looted"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_norsegfx_looted"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_mongolgfx_looted"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_mesoamericangfx_looted"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_persiangfx_looted"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_westafricangfx_looted"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur_looted.tga"
+		name = "GFX_settlement_city_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_city_pelur.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_turkishgfx_looted"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur_looted.tga"
+		name = "GFX_settlement_temple_pelurgfx_westerngfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_ugricgfx_looted"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur_looted.tga"
+		name = "GFX_settlement_temple_pelurgfx_jewishgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_kislevgfx_looted"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur_looted.tga"
+		name = "GFX_settlement_temple_pelurgfx_muslimgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
-		name = "GFX_settlement_temple_asurgfx_indiangfx_looted"
-		texturefile = "gfx//interface//holdings//asur//placeholder_temple_asur_looted.tga"
+		name = "GFX_settlement_temple_pelurgfx_norsegfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
-		name = "GFX_settlement_family_palace_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_palace_asur.tga"
+		name = "GFX_settlement_temple_pelurgfx_mongolgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_mesoamericangfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_persiangfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_westafricangfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_turkishgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_ugricgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_kislevgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_indiangfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_castle_pelurgfx_looted"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_castle_pelur_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_city_pelurgfx_looted"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_city_pelur_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_westerngfx_looted"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_muslimgfx_looted"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_norsegfx_looted"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_mongolgfx_looted"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_mesoamericangfx_looted"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_persiangfx_looted"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_westafricangfx_looted"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_turkishgfx_looted"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_ugricgfx_looted"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_kislevgfx_looted"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_pelurgfx_indiangfx_looted"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_temple_pelur_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_family_palace_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_palace_pelur.tga"
 		noOfFrames = 3
 		norefcount = yes
 	}
-
 	spriteType = {
-		name = "GFX_settlement_trade_post_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_trade_post_asur.tga"
+		name = "GFX_settlement_trade_post_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_trade_post_pelur.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
-		name = "GFX_settlement_new_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//province_new_settlement_asur.tga"
+		name = "GFX_settlement_new_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//province_new_settlement_pelur.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
-		name = "GFX_settlement_building_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_building_settlement_asur.tga"
+		name = "GFX_settlement_building_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_building_settlement_pelur.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
-		name = "GFX_trade_post_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//trade_post_asur.dds"
+		name = "GFX_trade_post_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//trade_post_pelur.dds"
 		noOfFrames = 3
 		clicksound = generic_click_02
 	}
-
 	spriteType = {
-		name = "GFX_province_settlement_frame_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//province_settlement_frame_asur.tga"
+		name = "GFX_province_settlement_frame_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//province_settlement_frame_pelur.tga"
 	}
-
 	spriteType = {
-		name = "GFX_settlement_tribal_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_tribal_asur.tga"
+		name = "GFX_settlement_tribal_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_tribal_pelur.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
-		name = "GFX_settlement_tribal_asurgfx_looted"
-		texturefile = "gfx//interface//holdings//asur//placeholder_tribal_asur_looted.tga"
+		name = "GFX_settlement_tribal_pelurgfx_looted"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_tribal_pelur_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 
 	#HorseLords additions
 
-
 	spriteType = {
-		name = "GFX_settlement_nomad_empty_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_empty_nomad_asur.dds"
+		name = "GFX_settlement_nomad_empty_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_empty_nomad_pelur.dds"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_nomad_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_nomad_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_nomad_looted_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_nomad_looted_asur.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_tribal_empty_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_empty_tribal_asur.dds"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_fort_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//placeholder_fort_asur.tga"
+		name = "GFX_settlement_nomad_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_nomad_pelur.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_trade_post_asurgfx_land"
-		texturefile = "gfx//interface//holdings//asur//placeholder_trade_post_land_asur.tga"
+		name = "GFX_settlement_nomad_looted_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_nomad_looted_pelur.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_province_capital_settlement_frame_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//province_capital_settlement_frame_asur.tga"
+		name = "GFX_settlement_tribal_empty_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_empty_tribal_pelur.dds"
+		noOfFrames = 1
+		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_fort_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//fort_asur.dds"
+		name = "GFX_settlement_fort_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_fort_pelur.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_trade_post_pelurgfx_land"
+		texturefile = "gfx//interface//holdings//pelur//placeholder_trade_post_land_pelur.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_province_capital_settlement_frame_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//province_capital_settlement_frame_pelur.tga"
+	}
+	spriteType = {
+		name = "GFX_fort_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//fort_pelur.dds"
 		noOfFrames = 3
 		clicksound = generic_click_02
 	}
 	spriteType = {
-		name = "GFX_trade_post_asurgfx_land"
-		texturefile = "gfx//interface//holdings//asur//trade_post_land_asur.dds"
+		name = "GFX_trade_post_pelurgfx_land"
+		texturefile = "gfx//interface//holdings//pelur//trade_post_land_pelur.dds"
 		noOfFrames = 3
 		clicksound = generic_click_02
 	}
 	spriteType = {
-		name = "GFX_trade_post_land_asurgfx"
-		texturefile = "gfx//interface//holdings//asur//trade_post_land_asur.dds"
+		name = "GFX_trade_post_land_pelurgfx"
+		texturefile = "gfx//interface//holdings//pelur//trade_post_land_pelur.dds"
 		noOfFrames = 3
 		clicksound = generic_click_02
 	}
@@ -4746,616 +4710,541 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_settlement_castle_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_castle_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_castle_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_city_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_city_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_city_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_westerngfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_jewishgfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_muslimgfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_norsegfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_mongolgfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_mesoamericangfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_persiangfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_westafricangfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_turkishgfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_ugricgfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_kislevgfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_indiangfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_castle_mummygfx_looted"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_castle_nehekharan_looted.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_castle_mummy_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_city_mummygfx_looted"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_city_nehekharan_looted.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_city_mummy_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_westerngfx_looted"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan_looted.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_muslimgfx_looted"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan_looted.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_norsegfx_looted"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan_looted.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_mongolgfx_looted"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan_looted.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_mesoamericangfx_looted"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan_looted.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_persiangfx_looted"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan_looted.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_westafricangfx_looted"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan_looted.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_turkishgfx_looted"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan_looted.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_ugricgfx_looted"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan_looted.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_kislevgfx_looted"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan_looted.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_mummygfx_indiangfx_looted"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_nehekharan_looted.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_temple_mummy_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_family_palace_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_palace_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_palace_mummy.tga"
 		noOfFrames = 3
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_trade_post_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_trade_post_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_trade_post_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_new_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//province_new_settlement_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//province_new_settlement_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_building_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_building_settlement_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_building_settlement_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_trade_post_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//trade_post_nehekharan.dds"
+		texturefile = "gfx//interface//holdings//mummy//trade_post_mummy.dds"
 		noOfFrames = 3
 		clicksound = generic_click_02
 	}
-
 	spriteType = {
 		name = "GFX_province_settlement_frame_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//province_settlement_frame_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//province_settlement_frame_mummy.tga"
 	}
-
 	spriteType = {
 		name = "GFX_settlement_tribal_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_tribal_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_tribal_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_tribal_mummygfx_looted"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_tribal_nehekharan_looted.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_tribal_mummy_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_nomad_empty_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_empty_nomad_nehekharan.dds"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_empty_nomad_mummy.dds"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_settlement_nomad_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_nomad_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_nomad_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_nomad_looted_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_nomad_looted_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_nomad_looted_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_tribal_empty_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_empty_tribal_nehekharan.dds"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_empty_tribal_mummy.dds"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_fort_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_fort_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_fort_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_settlement_trade_post_mummygfx_land"
-		texturefile = "gfx//interface//holdings//mummy//placeholder_trade_post_land_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//placeholder_trade_post_land_mummy.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_province_capital_settlement_frame_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//province_capital_settlement_frame_nehekharan.tga"
+		texturefile = "gfx//interface//holdings//mummy//province_capital_settlement_frame_mummy.tga"
 	}
 	spriteType = {
 		name = "GFX_fort_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//fort_nehekharan.dds"
+		texturefile = "gfx//interface//holdings//mummy//fort_mummy.dds"
 		noOfFrames = 3
 		clicksound = generic_click_02
 	}
 	spriteType = {
 		name = "GFX_trade_post_mummygfx_land"
-		texturefile = "gfx//interface//holdings//mummy//trade_post_land_nehekharan.dds"
+		texturefile = "gfx//interface//holdings//mummy//trade_post_land_mummy.dds"
 		noOfFrames = 3
 		clicksound = generic_click_02
 	}
 	spriteType = {
 		name = "GFX_trade_post_land_mummygfx"
-		texturefile = "gfx//interface//holdings//mummy//trade_post_land_nehekharan.dds"
+		texturefile = "gfx//interface//holdings//mummy//trade_post_land_mummy.dds"
 		noOfFrames = 3
 		clicksound = generic_click_02
 	}
 
-	### Beastman Holdings
+
+	### Iserohan Holdings
 
 	spriteType = {
-		name = "GFX_settlement_castle_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_castle_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_city_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_city_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_westerngfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_jewishgfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_muslimgfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_norsegfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_mongolgfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_mesoamericangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_persiangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_westafricangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman.tga"
+		name = "GFX_settlement_castle_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_castle_iserohan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_turkishgfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_ugricgfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_kislevgfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_indiangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_castle_beastmangfx_looted"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_castle_beastman_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_city_beastmangfx_looted"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_city_beastman_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_westerngfx_looted"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_muslimgfx_looted"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_norsegfx_looted"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_mongolgfx_looted"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_mesoamericangfx_looted"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_persiangfx_looted"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_westafricangfx_looted"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman_looted.tga"
+		name = "GFX_settlement_city_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_city_iserohan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_turkishgfx_looted"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman_looted.tga"
+		name = "GFX_settlement_temple_iserohangfx_westerngfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_ugricgfx_looted"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman_looted.tga"
+		name = "GFX_settlement_temple_iserohangfx_jewishgfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_kislevgfx_looted"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman_looted.tga"
+		name = "GFX_settlement_temple_iserohangfx_muslimgfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
-		name = "GFX_settlement_temple_beastmangfx_indiangfx_looted"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_temple_beastman_looted.tga"
+		name = "GFX_settlement_temple_iserohangfx_norsegfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
-		name = "GFX_settlement_family_palace_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_palace_beastman.tga"
+		name = "GFX_settlement_temple_iserohangfx_mongolgfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_mesoamericangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_persiangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_westafricangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_turkishgfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_ugricgfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_kislevgfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_indiangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_castle_iserohangfx_looted"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_castle_iserohan_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_city_iserohangfx_looted"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_city_iserohan_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_westerngfx_looted"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_muslimgfx_looted"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_norsegfx_looted"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_mongolgfx_looted"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_mesoamericangfx_looted"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_persiangfx_looted"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_westafricangfx_looted"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_turkishgfx_looted"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_ugricgfx_looted"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_kislevgfx_looted"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_iserohangfx_indiangfx_looted"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_temple_iserohan_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_family_palace_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_palace_iserohan.tga"
 		noOfFrames = 3
 		norefcount = yes
 	}
-
 	spriteType = {
-		name = "GFX_settlement_trade_post_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_trade_post_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_new_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//province_new_settlement_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_building_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_building_settlement_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_trade_post_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//trade_post_beastman.dds"
-		noOfFrames = 3
-		clicksound = generic_click_02
-	}
-
-	spriteType = {
-		name = "GFX_province_settlement_frame_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//province_settlement_frame_beastman.tga"
-	}
-
-	spriteType = {
-		name = "GFX_settlement_tribal_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_tribal_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_tribal_beastmangfx_looted"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_tribal_beastman_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-
-	#HorseLords additions
-
-
-	spriteType = {
-		name = "GFX_settlement_nomad_empty_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_empty_nomad_beastman.dds"
+		name = "GFX_settlement_trade_post_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_trade_post_iserohan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_nomad_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_nomad_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_nomad_looted_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_nomad_looted_beastman.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_tribal_empty_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_empty_tribal_beastman.dds"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-	spriteType = {
-		name = "GFX_settlement_fort_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_fort_beastman.tga"
+		name = "GFX_settlement_new_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//province_new_settlement_iserohan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_trade_post_beastmangfx_land"
-		texturefile = "gfx//interface//holdings//beastmen//placeholder_trade_post_land_beastman.tga"
+		name = "GFX_settlement_building_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_building_settlement_iserohan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_province_capital_settlement_frame_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//province_capital_settlement_frame_beastman.tga"
-	}
-	spriteType = {
-		name = "GFX_fort_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//fort_beastman.dds"
+		name = "GFX_trade_post_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//trade_post_iserohan.dds"
 		noOfFrames = 3
 		clicksound = generic_click_02
 	}
 	spriteType = {
-		name = "GFX_trade_post_beastmangfx_land"
-		texturefile = "gfx//interface//holdings//beastmen//trade_post_land_beastman.dds"
+		name = "GFX_province_settlement_frame_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//province_settlement_frame_iserohan.tga"
+	}
+	spriteType = {
+		name = "GFX_settlement_tribal_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_tribal_iserohan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_tribal_iserohangfx_looted"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_tribal_iserohan_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_nomad_empty_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_empty_nomad_iserohan.dds"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_nomad_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_nomad_iserohan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_nomad_looted_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_nomad_looted_iserohan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_tribal_empty_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_empty_tribal_iserohan.dds"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_fort_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_fort_iserohan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_trade_post_iserohangfx_land"
+		texturefile = "gfx//interface//holdings//iserohan//placeholder_trade_post_land_iserohan.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_province_capital_settlement_frame_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//province_capital_settlement_frame_iserohan.tga"
+	}
+	spriteType = {
+		name = "GFX_fort_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//fort_iserohan.dds"
 		noOfFrames = 3
 		clicksound = generic_click_02
 	}
 	spriteType = {
-		name = "GFX_trade_post_land_beastmangfx"
-		texturefile = "gfx//interface//holdings//beastmen//trade_post_land_beastman.dds"
+		name = "GFX_trade_post_iserohangfx_land"
+		texturefile = "gfx//interface//holdings//iserohan//trade_post_land_iserohan.dds"
 		noOfFrames = 3
 		clicksound = generic_click_02
 	}
+	spriteType = {
+		name = "GFX_trade_post_land_iserohangfx"
+		texturefile = "gfx//interface//holdings//iserohan//trade_post_land_iserohan.dds"
+		noOfFrames = 3
+		clicksound = generic_click_02
+	}
+	
 
 	### Northman Holdings
 
@@ -7376,7 +7265,7 @@ spriteTypes = {
 		clicksound = generic_click_02
 	}
 
-### Dragon Holdings
+	### Dragon Holdings
 
 	spriteType = {
 		name = "GFX_settlement_castle_dragongfx"
@@ -7689,63 +7578,54 @@ spriteTypes = {
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_city_cathayangfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_city_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_westerngfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_jewishgfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_muslimgfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_norsegfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_mongolgfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_mesoamericangfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_persiangfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_westafricangfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan.tga"
@@ -7758,35 +7638,30 @@ spriteTypes = {
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_ugricgfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_kislevgfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_indiangfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_castle_cathayangfx_looted"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_castle_cathayan_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_city_cathayangfx_looted"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_city_cathayan_looted.tga"
@@ -7799,70 +7674,60 @@ spriteTypes = {
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_muslimgfx_looted"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_norsegfx_looted"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_mongolgfx_looted"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_mesoamericangfx_looted"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_persiangfx_looted"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_westafricangfx_looted"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_turkishgfx_looted"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_ugricgfx_looted"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_kislevgfx_looted"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_temple_cathayangfx_indiangfx_looted"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_temple_cathayan_looted.tga"
@@ -7875,58 +7740,46 @@ spriteTypes = {
 		noOfFrames = 3
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_trade_post_cathayangfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_trade_post_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_new_cathayangfx"
 		texturefile = "gfx//interface//holdings//cathayan//province_new_settlement_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_building_cathayangfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_building_settlement_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_trade_post_cathayangfx"
 		texturefile = "gfx//interface//holdings//cathayan//trade_post_cathayan.dds"
 		noOfFrames = 3
 		clicksound = generic_click_02
 	}
-
 	spriteType = {
 		name = "GFX_province_settlement_frame_cathayangfx"
 		texturefile = "gfx//interface//holdings//cathayan//province_settlement_frame_cathayan.tga"
 	}
-
 	spriteType = {
 		name = "GFX_settlement_tribal_cathayangfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_tribal_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_tribal_cathayangfx_looted"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_tribal_cathayan_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
-
-	#HorseLords additions
-
-
 	spriteType = {
 		name = "GFX_settlement_nomad_empty_cathayangfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_empty_nomad_cathayan.dds"
@@ -7939,21 +7792,18 @@ spriteTypes = {
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_nomad_looted_cathayangfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_nomad_looted_cathayan.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_tribal_empty_cathayangfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_empty_tribal_cathayan.dds"
 		noOfFrames = 1
 		norefcount = yes
 	}
-
 	spriteType = {
 		name = "GFX_settlement_fort_cathayangfx"
 		texturefile = "gfx//interface//holdings//cathayan//placeholder_fort_cathayan.tga"
@@ -8800,277 +8650,7 @@ spriteTypes = {
 	}
 
 
-	### Recap Holdings
-	
-	spriteType = {
-		name = "GFX_settlement_castle_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_castle_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_city_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_city_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_westerngfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_jewishgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_muslimgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_norsegfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_mongolgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_mesoamericangfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_persiangfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_westafricangfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_turkishgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_ugricgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_indiangfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_castle_redcapgfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_castle_kislev_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_city_redcapgfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_city_kislev_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_westerngfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_muslimgfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_norsegfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_mongolgfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_mesoamericangfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_persiangfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_westafricangfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_turkishgfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_ugricgfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_redcapgfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_redcapgfx_indiangfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_temple_kislev_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_family_palace_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_palace_kislev.tga"
-		noOfFrames = 3
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_trade_post_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_trade_post_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_new_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//province_new_settlement_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_building_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_building_settlement_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_trade_post_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//trade_post_kislev.dds"
-		noOfFrames = 3
-		clicksound = generic_click_02
-	}
-	spriteType = {
-		name = "GFX_province_settlement_frame_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//province_settlement_frame_kislev.tga"
-	}
-	spriteType = {
-		name = "GFX_settlement_tribal_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_tribal_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_tribal_redcapgfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_tribal_kislev_looted.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_nomad_empty_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_empty_nomad_kislev.dds"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_nomad_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_nomad_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_nomad_redcapgfx_looted"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_nomad_looted_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_tribal_empty_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_empty_tribal_kislev.dds"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_fort_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_fort_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_trade_post_redcapgfx_land"
-		texturefile = "gfx//interface//holdings//kislev//placeholder_trade_post_land_kislev.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_province_capital_settlement_frame_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//province_capital_settlement_frame_kislev.tga"
-	}
-	spriteType = {
-		name = "GFX_fort_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//fort_kislev.dds"
-		noOfFrames = 3
-		clicksound = generic_click_02
-	}
-	spriteType = {
-		name = "GFX_trade_post_redcapgfx_land"
-		texturefile = "gfx//interface//holdings//kislev//trade_post_land_kislev.dds"
-		noOfFrames = 3
-		clicksound = generic_click_02
-	}
-	spriteType = {
-		name = "GFX_trade_post_land_redcapgfx"
-		texturefile = "gfx//interface//holdings//kislev//trade_post_land_kislev.dds"
-		noOfFrames = 3
-		clicksound = generic_click_02
-	}
-
-
-### Nocker Holdings
+	### Nocker Holdings
 	
 	spriteType = {
 		name = "GFX_settlement_castle_nockergfx"
@@ -9763,7 +9343,13 @@ spriteTypes = {
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_temple_gondoriangfx_gondoriangfx_looted"
+		name = "GFX_settlement_temple_gondoriangfx_kislevgfx_looted"
+		texturefile = "gfx//interface//holdings//gondorian//placeholder_temple_gondorian_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_gondoriangfx_indiangfx_looted"
 		texturefile = "gfx//interface//holdings//gondorian//placeholder_temple_gondorian_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -9786,39 +9372,269 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_settlement_castle_balroggfx"
-		texturefile = "gfx//interface//holdings//urukhai//placeholder_castle_urukhai.tga"
+		texturefile = "gfx//interface//holdings//demon//placeholder_castle_demon.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_settlement_city_balroggfx"
-		texturefile = "gfx//interface//holdings//urukhai//placeholder_city_urukhai.tga"
+		texturefile = "gfx//interface//holdings//demon//placeholder_city_demon.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_temple_balroggfx"
-		texturefile = "gfx//interface//holdings//urukhai//placeholder_temple_urukhai.tga"
+		name = "GFX_settlement_temple_balroggfx_westerngfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_castle_dragongfx"
-		texturefile = "gfx//interface//holdings//urukhai//placeholder_castle_urukhai.tga"
+		name = "GFX_settlement_temple_balroggfx_jewishgfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_city_dragongfx"
-		texturefile = "gfx//interface//holdings//urukhai//placeholder_city_urukhai.tga"
+		name = "GFX_settlement_temple_balroggfx_muslimgfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_temple_dragongfx"
-		texturefile = "gfx//interface//holdings//urukhai//placeholder_temple_urukhai.tga"
+		name = "GFX_settlement_temple_balroggfx_norsegfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon.tga"
 		noOfFrames = 1
 		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_mongolgfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_mesoamericangfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_persiangfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_westafricangfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_turkishgfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_ugricgfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_kislevgfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_indiangfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_castle_balroggfx_looted"
+		texturefile = "gfx//interface//holdings//demon//placeholder_castle_demon_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_city_balroggfx_looted"
+		texturefile = "gfx//interface//holdings//demon//placeholder_city_demon_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_westerngfx_looted"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_muslimgfx_looted"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_norsegfx_looted"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_mongolgfx_looted"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_mesoamericangfx_looted"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_persiangfx_looted"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_westafricangfx_looted"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_turkishgfx_looted"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_ugricgfx_looted"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_kislevgfx_looted"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_balroggfx_indiangfx_looted"
+		texturefile = "gfx//interface//holdings//demon//placeholder_temple_demon_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_family_palace_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_palace_demon.tga"
+		noOfFrames = 3
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_trade_post_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_trade_post_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_new_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//province_new_settlement_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_building_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_building_settlement_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_trade_post_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//trade_post_demon.dds"
+		noOfFrames = 3
+		clicksound = generic_click_02
+	}
+	spriteType = {
+		name = "GFX_province_settlement_frame_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//province_settlement_frame_demon.tga"
+	}
+	spriteType = {
+		name = "GFX_settlement_tribal_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_tribal_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_tribal_balroggfx_looted"
+		texturefile = "gfx//interface//holdings//demon//placeholder_tribal_demon_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_nomad_empty_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_empty_nomad_demon.dds"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_nomad_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_nomad_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_nomad_looted_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_nomad_looted_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_tribal_empty_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_empty_tribal_demon.dds"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_fort_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//placeholder_fort_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_trade_post_balroggfx_land"
+		texturefile = "gfx//interface//holdings//demon//placeholder_trade_post_land_demon.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_province_capital_settlement_frame_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//province_capital_settlement_frame_demon.tga"
+	}
+	spriteType = {
+		name = "GFX_fort_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//fort_demon.dds"
+		noOfFrames = 3
+		clicksound = generic_click_02
+	}
+	spriteType = {
+		name = "GFX_trade_post_balroggfx_land"
+		texturefile = "gfx//interface//holdings//demon//trade_post_land_demon.dds"
+		noOfFrames = 3
+		clicksound = generic_click_02
+	}
+	spriteType = {
+		name = "GFX_trade_post_land_balroggfx"
+		texturefile = "gfx//interface//holdings//demon//trade_post_land_demon.dds"
+		noOfFrames = 3
+		clicksound = generic_click_02
 	}
 
 
@@ -10107,14 +9923,164 @@ spriteTypes = {
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_temple_rohirrimgfx"
+		name = "GFX_settlement_temple_rohirrimgfx_westerngfx"
 		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_jewishgfx"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_muslimgfx"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_norsegfx"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_mongolgfx"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_mesoamericangfx"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_persiangfx"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_westafricangfx"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_turkishgfx"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_ugricgfx"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_kislevgfx"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_indiangfx"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_castle_rohirrimgfx_looted"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_castle_rohirrim_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_city_rohirrimgfx_looted"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_city_rohirrim_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_westerngfx_looted"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_muslimgfx_looted"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_norsegfx_looted"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_mongolgfx_looted"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_mesoamericangfx_looted"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_persiangfx_looted"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_westafricangfx_looted"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_turkishgfx_looted"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_ugricgfx_looted"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_kislevgfx_looted"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_rohirrimgfx_indiangfx_looted"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_temple_rohirrim_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_settlement_tribal_rohirrimgfx"
 		texturefile = "gfx//interface//holdings//rohirrim//placeholder_tribal_rohirrim.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_tribal_rohirrimgfx_looted"
+		texturefile = "gfx//interface//holdings//rohirrim//placeholder_tribal_rohirrim_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
@@ -12286,28 +12252,6 @@ spriteTypes = {
 	}
 
 
-	### Werewolf Holdings
-
-	spriteType = {
-		name = "GFX_settlement_castle_werewolfgfx"
-		texturefile = "gfx//interface//holdings//urukhai//placeholder_castle_urukhai.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_city_werewolfgfx"
-		texturefile = "gfx//interface//holdings//urukhai//placeholder_city_urukhai.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_werewolfgfx"
-		texturefile = "gfx//interface//holdings//urukhai//placeholder_temple_urukhai.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-
 	### Woodelf Holdings
 
 	spriteType = {
@@ -12578,38 +12522,11 @@ spriteTypes = {
 	}
 
 
-	### Wraith Holdings
-
-	spriteType = {
-		name = "GFX_settlement_castle_wraithgfx"
-		texturefile = "gfx//interface//holdings//urukhai//placeholder_castle_urukhai.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_city_wraithgfx"
-		texturefile = "gfx//interface//holdings//urukhai//placeholder_city_urukhai.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_temple_wraithgfx"
-		texturefile = "gfx//interface//holdings//urukhai//placeholder_temple_urukhai.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-
-		### zesterling Holdings
+	### Zesterling Holdings
 
 	spriteType = {
 		name = "GFX_settlement_castle_zesterlinggfx"
 		texturefile = "gfx//interface//holdings//zesterling//placeholder_castle_zesterling.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_settlement_castle_zesterlinggfx_looted"
-		texturefile = "gfx//interface//holdings//zesterling//placeholder_castle_zesterling_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
@@ -12620,19 +12537,151 @@ spriteTypes = {
 		norefcount = yes
 	}
 	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_westerngfx"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_jewishgfx"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_muslimgfx"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_norsegfx"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_mongolgfx"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_mesoamericangfx"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_persiangfx"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_westafricangfx"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_turkishgfx"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_ugricgfx"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_kislevgfx"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_indiangfx"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_castle_zesterlinggfx_looted"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_castle_zesterling_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
 		name = "GFX_settlement_city_zesterlinggfx_looted"
 		texturefile = "gfx//interface//holdings//zesterling//placeholder_city_zesterling_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_temple_zesterlinggfx"
-		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling.tga"
+		name = "GFX_settlement_temple_zesterlinggfx_westerngfx_looted"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_settlement_temple_zesterlinggfx_looted"
+		name = "GFX_settlement_temple_zesterlinggfx_muslimgfx_looted"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_norsegfx_looted"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_mongolgfx_looted"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_mesoamericangfx_looted"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_persiangfx_looted"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_westafricangfx_looted"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_turkishgfx_looted"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_ugricgfx_looted"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_kislevgfx_looted"
+		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_zesterlinggfx_indiangfx_looted"
 		texturefile = "gfx//interface//holdings//zesterling//placeholder_temple_zesterling_looted.tga"
 		noOfFrames = 1
 		norefcount = yes
@@ -12738,6 +12787,276 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trade_post_land_zesterlinggfx"
 		texturefile = "gfx//interface//holdings//zesterling//trade_post_land_zesterling.dds"
+		noOfFrames = 3
+		clicksound = generic_click_02
+	}
+	
+	
+	### Werewolf Holdings
+	
+	spriteType = {
+		name = "GFX_settlement_castle_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_castle_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_city_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_city_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_westerngfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_jewishgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_muslimgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_norsegfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_mongolgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_mesoamericangfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_persiangfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_westafricangfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_turkishgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_ugricgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_indiangfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_castle_werewolfgfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_castle_werewolf_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_city_werewolfgfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_city_werewolf_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_westerngfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_muslimgfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_norsegfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_mongolgfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_mesoamericangfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_persiangfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_westafricangfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_turkishgfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_ugricgfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_werewolfgfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_werewolfgfx_indiangfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_temple_werewolf_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_family_palace_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_palace_werewolf.tga"
+		noOfFrames = 3
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_trade_post_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_trade_post_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_new_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//province_new_settlement_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_building_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_building_settlement_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_trade_post_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//trade_post_werewolf.dds"
+		noOfFrames = 3
+		clicksound = generic_click_02
+	}
+	spriteType = {
+		name = "GFX_province_settlement_frame_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//province_settlement_frame_werewolf.tga"
+	}
+	spriteType = {
+		name = "GFX_settlement_tribal_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_tribal_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_tribal_werewolfgfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_tribal_werewolf_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_nomad_empty_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_empty_nomad_werewolf.dds"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_nomad_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_nomad_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_nomad_werewolfgfx_looted"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_nomad_looted_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_tribal_empty_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_empty_tribal_werewolf.dds"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_fort_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_fort_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_trade_post_werewolfgfx_land"
+		texturefile = "gfx//interface//holdings//werewolf//placeholder_trade_post_land_werewolf.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_province_capital_settlement_frame_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//province_capital_settlement_frame_werewolf.tga"
+	}
+	spriteType = {
+		name = "GFX_fort_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//fort_werewolf.dds"
+		noOfFrames = 3
+		clicksound = generic_click_02
+	}
+	spriteType = {
+		name = "GFX_trade_post_werewolfgfx_land"
+		texturefile = "gfx//interface//holdings//werewolf//trade_post_land_werewolf.dds"
+		noOfFrames = 3
+		clicksound = generic_click_02
+	}
+	spriteType = {
+		name = "GFX_trade_post_land_werewolfgfx"
+		texturefile = "gfx//interface//holdings//werewolf//trade_post_land_werewolf.dds"
 		noOfFrames = 3
 		clicksound = generic_click_02
 	}

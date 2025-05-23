@@ -6,10 +6,9 @@ max_settlements = 4
 
 b_tesga = castle
 b_ihblanat = temple
-b_huboca = city
 
 # Misc
-culture = cathayan
+culture = asrai
 religion = daedra_sanguine
 
 # History

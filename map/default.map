@@ -1,4 +1,4 @@
-max_provinces = 1967
+max_provinces = 1971
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -18,11 +18,10 @@ seasons = "seasons.txt"
 #Sea Zones
 sea_zones = { 1293 1299 } #Moonpoint River - Springrove River (NAVIGABLE)
 sea_zones = { 1030 1111 } #Bjoulsae River - Roscrean Sea - Azura's Coast (NAVIGABLE)
-sea_zones = { 1147 1193 } #Southern Eltheric Ocean - Padomaic Ocean - Eastern Elven Sea (NAVIGABLE)
-sea_zones = { 1352 1363 } #Zelbepal Sea - Haugr Sound (NAVIGABLE)
 sea_zones = { 1132 1140 } #Lake Sithis - Iliac Bay (NAVIGABLE) 
-sea_zones = { 1771 1773 } #Kalevar Bay - Habun Gulf (NAVIGABLE)
+sea_zones = { 1147 1193 } #Southern Eltheric Ocean - Padomaic Ocean - Eastern Elven Sea (NAVIGABLE)
 sea_zones = { 1239 1246 } #Kan So River - Meratsies River (NAVIGABLE)
+sea_zones = { 1352 1370 } #Zelbepal Sea - Habun Gulf (NAVIGABLE)
 sea_zones = { 1112 1112 } #Lake Fjalding
 sea_zones = { 1113 1113 } #Lake Masobi
 sea_zones = { 1114 1114 } #Lake Vorys

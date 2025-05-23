@@ -9,7 +9,7 @@ b_bahar = temple
 b_lazoti = city
 
 # Misc
-culture = snow_falmer
-religion = ideal_masters
+culture = zesterling
+religion = daedra_meridia
 
 # History

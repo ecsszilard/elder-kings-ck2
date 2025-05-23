@@ -8,7 +8,7 @@ b_esvacob = tribal
 b_yelt = temple
 
 # Misc
-culture = ogre
+culture = orc
 religion = daedra_malacath
 
 # History

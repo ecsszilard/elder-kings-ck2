@@ -4,12 +4,10 @@ title = c_vozkit
 # Settlements
 max_settlements = 4
 
-b_vozkit = castle
-b_dezhag = temple
-b_kasoka = city
+b_vozkit = tribal
 
 # Misc
-culture = demon_main
-religion = daedra_molag
+culture = orc
+religion = daedra_malacath
 
 # History

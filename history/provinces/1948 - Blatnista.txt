@@ -5,10 +5,9 @@ title = c_blatnista
 max_settlements = 4
 
 b_blatnista = tribal
-b_hekoms = temple
 
 # Misc
-culture = culture_goblin
+culture = mummy
 religion = anuic_skaal
 
 # History

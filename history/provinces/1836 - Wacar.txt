@@ -7,8 +7,8 @@ max_settlements = 3
 b_banorau = tribal
 
 # Misc
-culture = troll
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 
 # History
 

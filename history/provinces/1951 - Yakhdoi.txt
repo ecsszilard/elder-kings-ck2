@@ -8,7 +8,7 @@ b_panagsborg = tribal
 b_bryne = temple
 
 # Misc
-culture = culture_goblin
+culture = mummy
 religion = anuic_skaal
 
 # History

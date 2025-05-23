@@ -9,7 +9,8 @@ b_efroim = city
 b_lameluk = temple
 
 # Misc
-culture = asrai
-religion = old_gods
+culture = culture_gondorian
+religion = ideal_masters
+terrain = plains
 
 # History

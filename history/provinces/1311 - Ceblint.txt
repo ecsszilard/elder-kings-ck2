@@ -9,7 +9,7 @@ b_brecoa = city
 b_hamler = temple
 
 # Misc
-culture = ashlander
+culture = nocker
 religion = ideal_masters
 
 #

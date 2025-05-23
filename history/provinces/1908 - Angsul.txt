@@ -9,7 +9,8 @@ b_buhr_azel = temple
 b_carach_ang = city
 
 # Misc
-culture = druchii
-religion = forsworn_heresy
+culture = reiklander
+religion = daedra_azura
+terrain = farmlands
 
 # History

@@ -4,12 +4,12 @@ title = c_sisiel
 # Settlements
 max_settlements = 4
 
-b_qeinaud = castle
+b_korazub = castle
 b_ruprne = city
 b_nonile = temple
 
 # Misc
-culture = druchii
+culture = tilean
 religion = ideal_masters
 
 # History

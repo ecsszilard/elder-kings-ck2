@@ -4,12 +4,10 @@ title = c_jogray
 # Settlements
 max_settlements = 4
 
-b_medinacelli = castle
-b_covaleda = temple
-b_laredo = city
+b_medinacelli = tribal
 
 # Misc
-culture = strigany
+culture = culture_bruedain
 religion = vahzen
 
 # History

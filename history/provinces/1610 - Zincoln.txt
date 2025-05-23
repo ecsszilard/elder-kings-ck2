@@ -4,12 +4,11 @@ title = c_zincoln
 # Settlements
 max_settlements = 5
 
-b_pallars = castle
+b_pallars = tribal
 b_urgell = temple
-b_vuerta = city
 
 # Misc
-culture = strigany
+culture = culture_bruedain
 religion = vahzen
 
 # History

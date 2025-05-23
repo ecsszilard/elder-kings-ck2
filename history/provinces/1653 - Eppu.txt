@@ -2,13 +2,12 @@
 title = c_eppu
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_morian = castle
-b_galregen = city
+b_morian = tribal
 
 # Misc
-culture = culture_firebeard
+culture = spriggan_main
 religion = night_court
 
 # History

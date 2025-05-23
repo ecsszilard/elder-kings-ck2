@@ -10,6 +10,7 @@ b_dewma = city
 
 # Misc
 culture = eparsian
-religion = old_gods
+religion = ideal_masters
+terrain = farmlands
 
 # History

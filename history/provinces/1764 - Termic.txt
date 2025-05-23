@@ -2,14 +2,13 @@
 title = c_termic
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_qunohn = castle
-b_termic = temple
-b_teufeph = city
+b_termic = tribal
 
 # Misc
-culture = tilean
-religion = daedra_azura
+culture = ogre
+religion = vahzen
+terrain = hills
 
 # History

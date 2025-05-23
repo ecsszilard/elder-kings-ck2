@@ -2,13 +2,12 @@
 title = c_poibrene
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
 b_poibrene = tribal
-b_stranagl = temple
 
 # Misc
-culture = culture_goblin
+culture = mummy
 religion = anuic_skaal
 
 # History

@@ -4,12 +4,11 @@ title = c_pingassen
 # Settlements
 max_settlements = 4
 
-b_sinnibar = castle
+b_sinnibar = tribal
 b_kiroth = castle
-b_clartan = city
 
 # Misc
-culture = werewolf
+culture = mummy
 religion = anuic_skaal
 
 # History

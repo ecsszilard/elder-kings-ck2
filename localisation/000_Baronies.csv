@@ -9302,7 +9302,7 @@ b_lanonde;Lanonde;;;;;;;;;;;;;x
 b_kolaud;Kolaud;;;;;;;;;;;;;x
 b_loduga;Loduga;;;;;;;;;;;;;x
 b_yeburg;Yeburg;;;;;;;;;;;;;x
-b_enanis;Enanis;;;;;;;;;;;;;x
+b_enqot;Enqot;;;;;;;;;;;;;x
 b_sarranof;Sarranof;;;;;;;;;;;;;x
 b_nbonetta;Nbonetta;;;;;;;;;;;;;x
 b_tanemir;Tanemir;;;;;;;;;;;;;x
@@ -9455,7 +9455,7 @@ b_dedeath;Dedeath;;;;;;;;;;;;;x
 b_negtevi;Negtevi;;;;;;;;;;;;;x
 b_opuwo;Opuwo;;;;;;;;;;;;;x
 b_justel;Justel;;;;;;;;;;;;;x
-b_athabhan;Athabhan;;;;;;;;;;;;;x
+b_gatbez;Gatbez;;;;;;;;;;;;;x
 b_botabes;Botabes;;;;;;;;;;;;;x
 b_ibevil;Ibevil;;;;;;;;;;;;;x
 b_exodis;Exodis;;;;;;;;;;;;;x
@@ -9934,7 +9934,7 @@ b_tapar;Tapar;;;;;;;;;;;;;x
 b_qosakti;Qosakti;;;;;;;;;;;;;x
 b_tiucar;Tiucar;;;;;;;;;;;;;x
 b_sitri;Sitri;;;;;;;;;;;;;x
-b_emazitri;Emazitri;;;;;;;;;;;;;x
+b_upaly;upaly;;;;;;;;;;;;;x
 b_amaheid;Amaheid;;;;;;;;;;;;;x
 b_baxaret;Baxaret;;;;;;;;;;;;;x
 b_baret;Baret;;;;;;;;;;;;;x
@@ -10058,7 +10058,7 @@ b_riseid;Riseid;;;;;;;;;;;;;x
 b_suisar;Suisar;;;;;;;;;;;;;x
 b_qegoti;Qegoti;;;;;;;;;;;;;x
 b_rajalla;Rajalla;;;;;;;;;;;;;x
-b_daveid;Daveid;;;;;;;;;;;;;x
+b_jengu;Jengu;;;;;;;;;;;;;x
 b_tegaret;Tegaret;;;;;;;;;;;;;x
 b_sureuta;Sureuta;;;;;;;;;;;;;x
 b_burirek;Burirek;;;;;;;;;;;;;x
@@ -10238,7 +10238,7 @@ b_daret;Daret;;;;;;;;;;;;;x
 b_razcakti;Razcakti;;;;;;;;;;;;;x
 b_telidon;Telidon;;;;;;;;;;;;;x
 b_nank;Nank;;;;;;;;;;;;;x
-b_kositri;Kositri;;;;;;;;;;;;;x
+b_keta;Keta;;;;;;;;;;;;;x
 b_sazcatri;Sazcatri;;;;;;;;;;;;;x
 b_bavael;Bavael;;;;;;;;;;;;;x
 b_biuceta;Biuceta;;;;;;;;;;;;;x
@@ -10327,7 +10327,7 @@ b_bazoja;Bazoja;;;;;;;;;;;;;x
 b_laret;Laret;;;;;;;;;;;;;x
 b_beid;Beid;;;;;;;;;;;;;x
 b_syavosgi;Syavosgi;;;;;;;;;;;;;x
-b_syaotar;Syaotar;;;;;;;;;;;;;x
+b_srugon;Srugon;;;;;;;;;;;;;x
 b_bagitri;Bagitri;;;;;;;;;;;;;x
 b_nael;Nael;;;;;;;;;;;;;x
 b_seloja;Seloja;;;;;;;;;;;;;x
@@ -10353,7 +10353,7 @@ b_qavitri;Qavitri;;;;;;;;;;;;;x
 b_wazarim;Wazarim;;;;;;;;;;;;;x
 b_bosaret;Bosaret;;;;;;;;;;;;;x
 b_kagovmas;Kagovmas;;;;;;;;;;;;;x
-b_kagovmas_2;Kagovmas_2;;;;;;;;;;;;;x
+b_isaton_2;Isaton_2;;;;;;;;;;;;;x
 b_ryaotank;Ryaotank;;;;;;;;;;;;;x
 b_soga;Soga;;;;;;;;;;;;;x
 b_wuat;Wuat;;;;;;;;;;;;;x
@@ -10402,7 +10402,7 @@ b_tegirek;Tegirek;;;;;;;;;;;;;x
 b_nuradeva;Nuradeva;;;;;;;;;;;;;x
 b_elaton;Elaton;;;;;;;;;;;;;x
 b_kegalla;Kegalla;;;;;;;;;;;;;x
-b_tavaret;Tavaret;;;;;;;;;;;;;x
+b_xolenz;Xolenz;;;;;;;;;;;;;x
 b_qisaret;Qisaret;;;;;;;;;;;;;x
 b_abahaton;Abahaton;;;;;;;;;;;;;x
 b_ekegeid;Ekegeid;;;;;;;;;;;;;x
@@ -10426,7 +10426,7 @@ b_kegush;Kegush;;;;;;;;;;;;;x
 b_begoti;Begoti;;;;;;;;;;;;;x
 b_qataton;Qataton;;;;;;;;;;;;;x
 b_tavoti;Tavoti;;;;;;;;;;;;;x
-b_kivaton;Kivaton;;;;;;;;;;;;;x
+b_elendor;elendor;;;;;;;;;;;;;x
 b_emodeuta;Emodeuta;;;;;;;;;;;;;x
 b_biseid;Biseid;;;;;;;;;;;;;x
 b_taveid;Taveid;;;;;;;;;;;;;x
@@ -10850,7 +10850,6 @@ b_direuta;Direuta;;;;;;;;;;;;;x
 b_tenali;Tenali;;;;;;;;;;;;;x
 b_navidon;Navidon;;;;;;;;;;;;;x
 b_dilana;Dilana;;;;;;;;;;;;;x
-b_dilana_2;Dilana_2;;;;;;;;;;;;;x
 b_kurgan;Kurgan;;;;;;;;;;;;;x
 b_lirory;Lirory;;;;;;;;;;;;;x
 b_dulita;Dulita;;;;;;;;;;;;;x
@@ -11239,7 +11238,7 @@ b_seilz;Seilz;;;;;;;;;;;;;x
 b_undark;Undark;;;;;;;;;;;;;x
 b_anhoyantis;Anhoyantis;;;;;;;;;;;;;x
 b_anhoyantis_2;Anhoyantis;;;;;;;;;;;;;x
-b_anhoyantis_3;Anhoyantis;;;;;;;;;;;;;x
+b_kauseter_2;Kauseter_2;;;;;;;;;;;;;x
 b_qerenr;Qerenr;;;;;;;;;;;;;x
 b_lard;Lard;;;;;;;;;;;;;x
 b_rerenr;Rerenr;;;;;;;;;;;;;x
@@ -11640,7 +11639,9 @@ b_wularga;Wularga;;;;;;;;;;;;;x
 b_bojeib;Bojeib;;;;;;;;;;;;;x
 b_qalt;Qalt;;;;;;;;;;;;;x
 b_rupalt;Rupalt;;;;;;;;;;;;;x
+b_rupalt_2;Rupalt_2;;;;;;;;;;;;;x
 b_agohn;Agoihn;;;;;;;;;;;;;x
+b_agohn_2;Agoihn_2;;;;;;;;;;;;;x
 b_keroi;Keroi;;;;;;;;;;;;;x
 b_revimia;Revimia;;;;;;;;;;;;;x
 b_sugimia;Sugimia;;;;;;;;;;;;;x
@@ -11697,8 +11698,7 @@ b_temonde_2;Temonde_2;;;;;;;;;;;;;
 b_balonne_2;Balonne_2;;;;;;;;;;;;;
 b_teinot_2;Teinot_2;;;;;;;;;;;;;
 b_koraud_2;Koraud_2;;;;;;;;;;;;;
-b_teinaud_2;Teinaud_2;;;;;;;;;;;;;
-b_bye;Bye;;;;;;;;;;;;;
+b_byeld;Byeld;;;;;;;;;;;;;
 b_wilaud_2;Wilaud_2;;;;;;;;;;;;;
 b_nazcata_2;Nazcata_2;;;;;;;;;;;;;
 b_welana_2;Welana_2;;;;;;;;;;;;;
@@ -11720,7 +11720,7 @@ b_qivar_2;Qivar_2;;;;;;;;;;;;;
 b_nodoti_2;Nodoti_2;;;;;;;;;;;;;
 b_ezuisush_2;Ezuisush_2;;;;;;;;;;;;;
 b_nodar_2;Nodar_2;;;;;;;;;;;;;
-b_wavyamal_2;Wavyamal_2;;;;;;;;;;;;;
+b_luo-dezo;Luo Dezo;;;;;;;;;;;;;
 b_dyaveta_2;Dyaveta_2;;;;;;;;;;;;;
 b_dazcalar_2;Dazcalar_2;;;;;;;;;;;;;
 b_aquat_2;Aquat_2;;;;;;;;;;;;;
@@ -11784,7 +11784,7 @@ b_gamaxo_2;Gamaxo_2;;;;;;;;;;;;;
 b_bomein_2;Bomein_2;;;;;;;;;;;;;
 b_tofeid;Tofeid;;;;;;;;;;;;;
 b_tofeid_2;Tofeid_2;;;;;;;;;;;;;
-b_noudal_2;Noudal_2;;;;;;;;;;;;;
+b_hollowhill_2;Hollowhill_2;;;;;;;;;;;;;
 b_mourao_2;Mourao_2;;;;;;;;;;;;;
 b_rumule_2;Rumule_2;;;;;;;;;;;;;
 b_alpuente_2;Alpuente_2;;;;;;;;;;;;;
@@ -11954,23 +11954,21 @@ b_lameluk;Lameluk;;;;;;;;;;;;;
 b_lameluk_2;Lameluk_2;;;;;;;;;;;;;
 b_clorhir;Clorhir;;;;;;;;;;;;;
 b_fedosberg_2;Fedosberg_2;;;;;;;;;;;;;
-b_fedosberg_3;Fedosberg_3;;;;;;;;;;;;;
+b_imwaka;Imwaka;;;;;;;;;;;;;
 b_ojav_2;Ojav_2;;;;;;;;;;;;;
-b_ojav_3;Ojav_3;;;;;;;;;;;;;
 b_uglen_2;Uglen_2;;;;;;;;;;;;;
 b_uglen_3;Uglen_3;;;;;;;;;;;;;
 b_bannafur;Bannafur;;;;;;;;;;;;;
 b_bannafur_2;Bannafur_2;;;;;;;;;;;;;
-b_bannafur_3;Bannafur_3;;;;;;;;;;;;;
 b_fubre;Fubre;;;;;;;;;;;;;
 b_fubre_2;Fubre_2;;;;;;;;;;;;;
-b_fubre_3;Fubre_3;;;;;;;;;;;;;
+b_zendarfell_2;Zendarfell_2;;;;;;;;;;;;;
 b_wajozin;Wajozin;;;;;;;;;;;;;
 b_wajozin_2;Wajozin_2;;;;;;;;;;;;;
 b_wajozin_3;Wajozin_3;;;;;;;;;;;;;
 b_mpebau;Mpebau;;;;;;;;;;;;;
 b_mpebau_2;Mpebau_2;;;;;;;;;;;;;
-b_mpebau_3;Mpebau_3;;;;;;;;;;;;;
+b_lurjo;Lurjo;;;;;;;;;;;;;
 b_rakkalos;Rakkalos;;;;;;;;;;;;;
 b_rakkalos_2;Rakkalos_2;;;;;;;;;;;;;
 b_rakkalos_3;Rakkalos_3;;;;;;;;;;;;;
@@ -11989,7 +11987,6 @@ b_asuprile_3;Asuprile_3;;;;;;;;;;;;;
 b_cegoda_2;Cegoda_2;;;;;;;;;;;;;
 b_zoyabron;Zoyabron;;;;;;;;;;;;;
 b_zoyabron_2;Zoyabron_2;;;;;;;;;;;;;
-b_zoyabron_3;Zoyabron_3;;;;;;;;;;;;;
 b_nalael_2;Nalael_2;;;;;;;;;;;;;
 b_nalael_3;Nalael_3;;;;;;;;;;;;;
 b_draceborg_2;Draceborg_2;;;;;;;;;;;;;
@@ -12026,9 +12023,7 @@ b_clogen_3;Clogen_3;;;;;;;;;;;;;
 b_dewma_2;Dewma_2;;;;;;;;;;;;;
 b_dewma_3;Dewma_3;;;;;;;;;;;;;
 b_ebalart_2;Ebalart_2;;;;;;;;;;;;;
-b_ebalart_3;Ebalart_3;;;;;;;;;;;;;
 b_linaud_2;Linaud_2;;;;;;;;;;;;;
-b_linaud_3;Linaud_3;;;;;;;;;;;;;
 b_lemart_2;Lemart_2;;;;;;;;;;;;;
 b_lemart_3;Lemart_3;;;;;;;;;;;;;
 b_rupdala_2;Rupdala_2;;;;;;;;;;;;;
@@ -12052,9 +12047,7 @@ b_axeland_3;Axeland_3;;;;;;;;;;;;;
 b_saruxo_2;Saruxo_2;;;;;;;;;;;;;
 b_saruxo_3;Saruxo_3;;;;;;;;;;;;;
 b_eagleseye_2;Eagleseye_2;;;;;;;;;;;;;
-b_eagleseye_3;Eagleseye_3;;;;;;;;;;;;;
 b_sandhold_2;Sandhold_2;;;;;;;;;;;;;
-b_sandhold_3;Sandhold_3;;;;;;;;;;;;;
 b_hawkville_2;Hawkville_2;;;;;;;;;;;;;
 b_hawkville_3;Hawkville_3;;;;;;;;;;;;;
 b_kanaetho;Kanaetho;;;;;;;;;;;;;
@@ -12099,14 +12092,14 @@ b_kemot_2;Kemot_2;;;;;;;;;;;;;
 b_narer_2;Narer_2;;;;;;;;;;;;;
 b_athart_2;Athart_2;;;;;;;;;;;;;
 b_bayarma_2;Bayarma_2;;;;;;;;;;;;;
-b_danita;Danita;;;;;;;;;;;;;
+b_dol_entar;Dol Entar;;;;;;;;;;;;;
 b_kirian;Kirian;;;;;;;;;;;;;
 b_riridon;Riridon;;;;;;;;;;;;;
 b_tilita;Tilita;;;;;;;;;;;;;
 b_sijew;Sijew;;;;;;;;;;;;;
 b_sijew_2;Sijew_2;;;;;;;;;;;;;
 b_kongul;Kongul;;;;;;;;;;;;;
-b_kacahan;Kacahan;;;;;;;;;;;;;
+b_poylesa;Poylesa;;;;;;;;;;;;;
 b_letahan;Letahan;;;;;;;;;;;;;
 b_raod;Raod;;;;;;;;;;;;;
 b_aharahan;Aharahan;;;;;;;;;;;;;
@@ -12132,7 +12125,7 @@ b_lahirek_2;Lahirek_2;;;;;;;;;;;;;
 b_emevoti_2;Emevoti_2;;;;;;;;;;;;;
 b_tyilalla_2;Tyilalla_2;;;;;;;;;;;;;
 b_laglot_2;Laglot_2;;;;;;;;;;;;;
-b_laglot_3;Laglot_3;;;;;;;;;;;;;
+b_zintuly;Zintuly;;;;;;;;;;;;;
 b_zen-asor;Zen-Asor;;;;;;;;;;;;;
 b_simida;Simida;;;;;;;;;;;;;
 b_timagan;Timagan;;;;;;;;;;;;;
@@ -12277,7 +12270,7 @@ b_rakohn;Rakohn;;;;;;;;;;;;;x
 b_bloodfall;Bloodfall;;;;;;;;;;;;;x
 b_new_hell;New Hell;;;;;;;;;;;;;x
 b_konaid;Konaid;;;;;;;;;;;;;x
-b_rayanis;Rayanis;;;;;;;;;;;;;x
+b_rayg;Rayg;;;;;;;;;;;;;x
 b_sindu;Sindu;;;;;;;;;;;;;x
 b_bolida;Bolida;;;;;;;;;;;;;x
 b_byoukart;Byoukart;;;;;;;;;;;;;x
@@ -12643,7 +12636,7 @@ b_ranjor;Ranjor;;;;;;;;;;;;;x
 b_qarize;Qarize;;;;;;;;;;;;;x
 b_pevion;Pevion;;;;;;;;;;;;;x
 b_nanetar;Nanetar;;;;;;;;;;;;;x
-b_elendor;Elendor;;;;;;;;;;;;;x
+b_fazotel;Fazotel;;;;;;;;;;;;;x
 b_valthune;Valthune;;;;;;;;;;;;;x
 b_dunhir;Dunhir;;;;;;;;;;;;;x
 b_faelond;Faelond;;;;;;;;;;;;;x
@@ -12657,7 +12650,7 @@ b_bralor;Bralor;;;;;;;;;;;;;x
 b_galadorn;Galadorn;;;;;;;;;;;;;x
 b_zephyrfall;Zephyrfall;;;;;;;;;;;;;x
 b_brighthollow;Brighthollow;;;;;;;;;;;;;x
-b_thornvale;Thornvale;;;;;;;;;;;;;x
+b_fronvhale;Fronvhale;;;;;;;;;;;;;x
 b_umbraglen;Umbraglen;;;;;;;;;;;;;x
 b_skyforge;Skyforge;;;;;;;;;;;;;x
 b_nighthaven;Nighthaven;;;;;;;;;;;;;x
@@ -12860,6 +12853,7 @@ b_nulabet;Nulabet;;;;;;;;;;;;;x
 b_tikar;Tikar;;;;;;;;;;;;;x
 b_korazub;Korazub;;;;;;;;;;;;;x
 b_sunoit;Sunoit;;;;;;;;;;;;;x
+b_sunoit_2;Sunoit_2;;;;;;;;;;;;;x
 b_ahesi;Ahesi;;;;;;;;;;;;;x
 b_unibor;Unibor;;;;;;;;;;;;;x
 b_amunemme;Amunemme;;;;;;;;;;;;;x
@@ -13584,7 +13578,7 @@ b_kaelos;Kaelos;;;;;;;;;;;;;x
 b_chamber_of_thror;Chamber of Thror;;;;;;;;;;;;;x
 b_hall_of_thrain;Hall of Thrain;;;;;;;;;;;;;x
 b_ravenhill;Ravenhill;;;;;;;;;;;;;x
-b_erebor;Erebor;;;;;;;;;;;;;x
+b_irebor;Irebor;;;;;;;;;;;;;x
 b_kantharlu;Kantharlu;;;;;;;;;;;;;x
 b_relain;Relain;;;;;;;;;;;;;x
 b_noraenc;Noraenc;;;;;;;;;;;;;x
@@ -13874,3 +13868,10 @@ b_lesnoye_2;Lesnoye_2;;;;;;;;;;;;;x
 b_vigla;Vigla;;;;;;;;;;;;;x
 b_viriat_2;Viriat_2;;;;;;;;;;;;;x
 b_gildehusen;Gildehusen;;;;;;;;;;;;;x
+b_efzin;Efzin;;;;;;;;;;;;;x
+b_formyre_2;Formyre_2;;;;;;;;;;;;;x
+b_thyrnifell_2;Thyrnifell_2;;;;;;;;;;;;;x
+b_karevik_2;Karevik_2;;;;;;;;;;;;;x
+b_durthan_2;Durthan_2;;;;;;;;;;;;;x
+b_tanles_2;Tanles_2;;;;;;;;;;;;;x
+b_monru;Monru;;;;;;;;;;;;;x

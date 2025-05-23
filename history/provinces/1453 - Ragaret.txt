@@ -5,12 +5,11 @@ title = c_ragaret
 max_settlements = 4
 
 b_ruadn = castle
-b_taxita = temple
 b_todeta = city
 
 # Misc
-culture = druchii
-religion = ideal_masters
+culture = reiklander
+religion = daedra_azura
 terrain = mountain
 
 # History

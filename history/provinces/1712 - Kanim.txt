@@ -8,7 +8,7 @@ b_kanim = tribal
 b_zuttor = castle
 
 # Misc
-culture = vedouin
+culture = falmer
 religion = night_court
 
 # History

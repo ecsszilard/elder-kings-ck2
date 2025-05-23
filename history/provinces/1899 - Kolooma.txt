@@ -7,7 +7,6 @@ max_settlements = 4
 b_kolooma = tribal
 
 # Misc
-culture = orc
-religion = daedra_malacath
-
+culture = balrog
+religion = daedra_molag
 # History

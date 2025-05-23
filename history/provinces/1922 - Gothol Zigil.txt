@@ -4,12 +4,10 @@ title = c_gothol_zigil
 # Settlements
 max_settlements = 4
 
-b_gothol_zigil = castle
-b_muzumthork  = temple
-b_wradem  = city
+b_gothol_zigil = tribal
 
 # Misc
-culture = valar
+culture = mummy
 religion = anuic_skaal
 
 # History

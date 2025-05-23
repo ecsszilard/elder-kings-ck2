@@ -9,7 +9,8 @@ b_jukaten = city
 b_opuwo = temple
 
 # Misc
-culture = chimer
+culture = kislev
 religion = ideal_masters
+terrain = steppe
 
 # History

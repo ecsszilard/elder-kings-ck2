@@ -9,7 +9,8 @@ b_kahael = temple
 b_kavakti = city
 
 # Misc
-culture = falmer
-religion = daedra_meridia
+culture = culture_rohirrim
+religion = daedra_azura
+terrain = forest
 
 # History

@@ -4,10 +4,11 @@ title = c_qodaton
 # Settlements
 max_settlements = 4
 
-b_zsamur = tribal
+b_zsamur = castle
+b_emvidob = city
 
 # Misc
-culture = jodpa
+culture = culture_stonefoot
 religion = daedra_azura
 terrain = mountain
 

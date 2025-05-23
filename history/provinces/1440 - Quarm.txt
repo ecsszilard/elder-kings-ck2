@@ -5,11 +5,11 @@ title = c_quarm
 max_settlements = 4
 
 b_nyaotar = castle
-b_kuat = castle
-b_tosidon = city
+b_kuat = city
+b_tosidon = castle
 
 # Misc
-culture = druchii
-religion = forsworn_heresy
+culture = reiklander
+religion = daedra_azura
 
 # History

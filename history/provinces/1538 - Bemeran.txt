@@ -6,11 +6,10 @@ max_settlements = 3
 
 b_suisar = castle
 b_runot = temple
-b_teini = city
 
 # Misc
-culture = nocker
-religion = old_gods
+culture = eparsian
+religion = ideal_masters
 terrain = mountain
 
 # History

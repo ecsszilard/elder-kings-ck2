@@ -1,5 +1,15 @@
-	title = c_midzia
-	max_settlements = 3
-	culture = zesterling
-	religion = night_court
-	b_midzia = tribal
+# County Title
+title = c_midzia
+
+# Settlements
+max_settlements = 4
+
+b_midzia = castle
+b_atara-va = city
+b_ademein = temple
+
+# Misc
+culture = druchii
+religion = night_court
+
+# History

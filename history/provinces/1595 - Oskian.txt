@@ -4,10 +4,13 @@ title = c_oskian
 # Settlements
 max_settlements = 4
 
-b_berim = tribal
+b_berim = castle
+b_lumika = city
+b_kanard = temple
 
 # Misc
-culture = culture_hobbit
+culture = culture_laegrim
 religion = daedra_sanguine
+terrain = woods
 
 # History

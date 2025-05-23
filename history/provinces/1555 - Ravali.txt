@@ -9,7 +9,7 @@ b_raqinda = city
 b_alita = temple
 
 # Misc
-culture = falmer
+culture = cathayan
 religion = daedra_meridia
 
 # History

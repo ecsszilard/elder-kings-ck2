@@ -4,12 +4,11 @@ title = c_vhatau
 # Settlements
 max_settlements = 4
 
-b_vhatau = castle
+b_vhatau = tribal
 b_artoura = temple
-b_maibdethlas = city
 
 # Misc
-culture = werewolf
+culture = mummy
 religion = anuic_skaal
 
 # History

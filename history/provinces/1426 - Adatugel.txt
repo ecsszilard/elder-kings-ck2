@@ -9,7 +9,7 @@ b_eherma = city
 b_bihosgi = temple
 
 # Misc
-culture = woodelf
+culture = culture_silvan
 religion = ideal_masters
 terrain = woods
 

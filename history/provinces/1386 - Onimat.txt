@@ -9,7 +9,7 @@ b_dzuranew = city
 b_merat = temple
 
 # Misc
-culture = kislev
+culture = werewolf
 religion = old_gods
 
 # History

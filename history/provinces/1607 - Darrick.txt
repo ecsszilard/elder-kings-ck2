@@ -4,12 +4,11 @@ title = c_darrick
 # Settlements
 max_settlements = 5
 
-b_famargo = castle
+b_famargo = tribal
 b_teruel = temple
-b_hijarudur = city
 
 # Misc
-culture = strigany
+culture = culture_bruedain
 religion = vahzen
 
 # History

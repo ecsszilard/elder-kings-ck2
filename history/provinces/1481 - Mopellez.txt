@@ -4,12 +4,11 @@ title = c_mopellez
 # Settlements
 max_settlements = 4
 
-b_ruisar = city
-b_navulger = castle
-b_eryamal = temple
+b_ruisar = castle
+b_eryamal = city
 
 # Misc
-culture = nocker
+culture = strigany
 religion = old_gods
 
 # History

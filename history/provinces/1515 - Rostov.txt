@@ -4,13 +4,12 @@ title = c_rostov
 # Settlements
 max_settlements = 5
 
-b_ryaotank = temple
-b_soga = city
 b_wuat = castle
+b_soga = city
 b_tuart = temple
 
 # Misc
-culture = culture_gondorian
+culture = jodpa
 religion = daedra_azura
 
 # History

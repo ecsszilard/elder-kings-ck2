@@ -8,7 +8,7 @@ b_bignan = tribal
 b_kaudenberg = castle
 
 # Misc
-culture = ogre
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 
 # History

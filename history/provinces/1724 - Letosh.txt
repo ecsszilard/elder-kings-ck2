@@ -7,7 +7,7 @@ max_settlements = 4
 b_cikort = tribal
 
 # Miscs
-culture = vedouin
+culture = falmer
 religion = night_court
 
 # History

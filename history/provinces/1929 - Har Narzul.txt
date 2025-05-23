@@ -4,12 +4,10 @@ title = c_har_narzul
 # Settlements
 max_settlements = 4
 
-b_har_narzul = castle
-b_yeth = temple
-b_graefur = city
+b_har_narzul = tribal
 
 # Misc
-culture = wight
+culture = mummy
 religion = anuic_skaal
 
 # History

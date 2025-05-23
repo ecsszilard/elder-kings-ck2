@@ -1,5 +1,15 @@
-	title = c_sunoini
-	max_settlements = 3
-	culture = zesterling
-	religion = night_court
-	b_kieti = tribal
+# County Title
+title = c_sunoini
+
+# Settlements
+max_settlements = 5
+
+b_kieti = castle
+b_wohmas = city
+
+# Misc
+culture = druchii
+religion = night_court
+terrain = hills
+
+# History

@@ -5,11 +5,10 @@ title = c_ascedros
 max_settlements = 4
 
 b_abodank = castle
-b_kapeid = temple
 b_ryaotael = city
 
 # Misc
-culture = culture_silvan
+culture = strigany
 religion = old_gods
 
 # History

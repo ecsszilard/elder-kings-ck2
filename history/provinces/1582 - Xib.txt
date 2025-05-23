@@ -2,13 +2,15 @@
 title = c_xib
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 
-b_adimar = tribal
+b_adimar = castle
 b_tonfuabe = temple
+b_waucerbok = city
 
 # Misc
-culture = jodpa
+culture = culture_stonefoot
 religion = daedra_azura
+terrain = mountain
 
 # History

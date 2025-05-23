@@ -9,7 +9,7 @@ b_saveid = city
 b_tonalla = temple
 
 # Misc
-culture = snow_falmer
-religion = ideal_masters
+culture = zesterling
+religion = daedra_meridia
 
 # History

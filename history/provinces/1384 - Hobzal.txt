@@ -5,11 +5,10 @@ title = c_hobzal
 max_settlements = 4
 
 b_hobzal = castle
-b_brasshall = temple
 b_offero = city
 
 # Misc
-culture = kislev
+culture = werewolf
 religion = old_gods
 
 # History

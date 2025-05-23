@@ -4,12 +4,10 @@ title = c_jorundra
 # Settlements
 max_settlements = 4
 
-b_jorundra = castle
-b_kaerbrant_pass = castle
-b_falcreach = city
+b_jorundra = tribal
 
 # Misc
-culture = demon_main
-religion = daedra_molag
+culture = orc
+religion = daedra_malacath
 
 # History

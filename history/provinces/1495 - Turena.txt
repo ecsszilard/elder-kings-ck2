@@ -5,12 +5,11 @@ title = c_turena
 max_settlements = 4
 
 b_eloti = castle
-b_qazama = city
 b_tavaton = temple
 
 
 # Misc
-culture = culture_numenorean
+culture = tevari
 religion = forsworn_heresy
 
 # History

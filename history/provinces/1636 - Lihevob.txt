@@ -9,7 +9,7 @@ b_tirew = temple
 b_kinule = city
 
 # Misc
-culture = reiklander
-religion = vahzen
+culture = culture_laegrim
+religion = daedra_sanguine
 
 # History

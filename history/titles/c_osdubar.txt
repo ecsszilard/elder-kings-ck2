@@ -1,4 +1,3 @@
 3360.1.1 = {
-	liege = "k_giom"
-	holder = 65300
+	liege = d_diveid
 }

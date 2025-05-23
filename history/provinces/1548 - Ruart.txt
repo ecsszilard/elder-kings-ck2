@@ -9,7 +9,7 @@ b_lagank = temple
 b_saxosgi = city
 
 # Misc
-culture = falmer
+culture = cathayan
 religion = daedra_meridia
 
 # History

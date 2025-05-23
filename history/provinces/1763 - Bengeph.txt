@@ -4,12 +4,11 @@ title = c_bengeph
 # Settlements
 max_settlements = 4
 
-b_sunenr = castle
-b_akuneph = temple
-b_bunohn = city
+b_sunenr = tribal
 
 # Misc
-culture = tilean
-religion = daedra_azura
+culture = ogre
+religion = vahzen
+terrain = hills
 
 # History

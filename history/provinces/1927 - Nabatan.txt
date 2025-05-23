@@ -2,14 +2,12 @@
 title = c_nabatan
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_ghrond = castle
-b_nabatan = temple
-b_jeva = city
+b_ghrond = tribal
 
 # Misc
-culture = wight
+culture = mummy
 religion = anuic_skaal
 
 # History

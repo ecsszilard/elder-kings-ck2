@@ -9,7 +9,8 @@ b_simoti = city
 b_byaveid = temple
 
 # Misc
-culture = falmer
-religion = daedra_meridia
+culture = culture_rohirrim
+religion = daedra_azura
+terrain = farmlands
 
 # History

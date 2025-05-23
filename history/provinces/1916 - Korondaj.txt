@@ -8,8 +8,8 @@ b_korondaj = tribal
 b_amon_moth = temple
 
 # Misc
-culture = mummy
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 terrain = desert
 
 # History

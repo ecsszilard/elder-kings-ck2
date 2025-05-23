@@ -4,11 +4,12 @@ title = c_koovec
 # Settlements
 max_settlements = 4
 
-b_luwedun = city
-b_ibofis = castle
+b_luwedun = castle
+b_ibofis = city
+b_wavena = temple
 
 # Misc
-culture = culture_hobbit
+culture = dwemer
 religion = daedra_sanguine
 terrain = woods
 

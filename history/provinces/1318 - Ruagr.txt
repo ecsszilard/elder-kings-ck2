@@ -9,9 +9,8 @@ b_vebbosa = temple
 b_xelebic = city
 
 # Misc
-culture = chimer
+culture = nocker
 religion = ideal_masters
 
-#
 
 # History

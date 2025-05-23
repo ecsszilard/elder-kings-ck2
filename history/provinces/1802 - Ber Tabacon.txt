@@ -8,7 +8,7 @@ b_ber-tabacon = tribal
 b_rigemot = castle
 
 # Miscs
-culture = orsimer
+culture = culture_goblin
 religion = vahzen
 
 # History

@@ -9,7 +9,7 @@ b_wurd = castle
 b_zoyabron = city
 
 # Misc
-culture = culture_silvan
-religion = old_gods
+culture = iserohan
+religion = ideal_masters
 
 # History

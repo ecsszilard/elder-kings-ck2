@@ -4,12 +4,14 @@ title = c_eram
 # Settlements
 max_settlements = 4
 
+b_gmecey = city
 b_sateid = castle
 b_datush = temple
-b_gmecey = city
 
 # Misc
-culture = falmer
-religion = daedra_meridia
+culture = culture_hobbit
+religion = daedra_sanguine
+terrain = farmlands
+
 
 # History

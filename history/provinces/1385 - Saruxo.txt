@@ -9,7 +9,7 @@ b_tubason = temple
 b_mila = city
 
 # Misc
-culture = kislev
+culture = werewolf
 religion = old_gods
 
 # History

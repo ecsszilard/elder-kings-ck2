@@ -9,8 +9,8 @@ b_nicia = city
 b_plitegra = temple
 
 # Misc
-culture = asrai
-religion = old_gods
+culture = kislev
+religion = ideal_masters
 terrain = forest
 
 # History

@@ -9,7 +9,8 @@ b_walaria = city
 b_aloronde = temple
 
 # Misc
-culture = kislev
+culture = werewolf
 religion = old_gods
+terrain = plains
 
 # History

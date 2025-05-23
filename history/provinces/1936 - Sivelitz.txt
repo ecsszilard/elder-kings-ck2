@@ -4,12 +4,10 @@ title = c_sivelitz
 # Settlements
 max_settlements = 4
 
-b_sivelitz = castle
-b_amydn = temple
-b_raethpar = city
+b_sivelitz = tribal
 
 # Misc
-culture = balrog
+culture = mummy
 religion = anuic_skaal
 
 # History

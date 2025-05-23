@@ -2,15 +2,15 @@
 title = c_bazakti
 
 # Settlements
-max_settlements = 6
+max_settlements = 5
 
 b_dank = castle
 b_lidon = city
 b_roditri= temple
 
 # Misc
-culture = redcap
-religion = forsworn_heresy
+culture = culture_haradrim
+religion = old_gods
 terrain = marsh
 
 # History

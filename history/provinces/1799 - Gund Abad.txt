@@ -9,7 +9,7 @@ b_qasari = temple
 b_jizrer = castle
 
 # Miscs
-culture = orsimer
+culture = culture_goblin
 religion = vahzen
 
 # History

@@ -2,14 +2,15 @@
 title = c_kanuj
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_kanuj = castle
 b_rilart = temple
 b_sedarbon = city
 
 # Misc
-culture = asrai
-religion = old_gods
+culture = iserohan
+religion = ideal_masters
+terrain = plains
 
 # History

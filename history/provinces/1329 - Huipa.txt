@@ -4,12 +4,12 @@ title = c_huipa
 # Settlements
 max_settlements = 4
 
+b_dekothan = castle
 b_huipa = temple
 b_qalile = city
-b_dekothan = castle
 
 # Misc
-culture = woodelf
+culture = culture_gondorian
 religion = ideal_masters
 terrain = forest
 

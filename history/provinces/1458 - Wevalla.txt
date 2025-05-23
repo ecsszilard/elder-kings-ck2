@@ -9,7 +9,7 @@ b_buryamal = city
 b_wavama = temple
 
 # Misc
-culture = dwemer
-religion = ideal_masters
+culture = zesterling
+religion = daedra_meridia
 
 # History

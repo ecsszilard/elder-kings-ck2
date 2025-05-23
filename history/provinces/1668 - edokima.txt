@@ -1,9 +1,14 @@
+# County Title
 title = c_edokima
 
-max_settlements = 3
+# Settlements
+max_settlements = 4
 
 b_ehenea = tribal
 
-culture = zesterling
+# Misc
+culture = druchii
 religion = night_court
+terrain = mountain
 
+# History

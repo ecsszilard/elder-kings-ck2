@@ -9,9 +9,8 @@ b_ayspire = temple
 b_tunlobor = city
 
 # Misc
-culture = ashlander
+culture = kislev
 religion = ideal_masters
-
-#
+terrain = steppe
 
 # History

@@ -8,7 +8,7 @@ b_katalla = castle
 b_segoti = city
 
 # Misc
-culture = snow_falmer
-religion = ideal_masters
+culture = zesterling
+religion = daedra_meridia
 
 # History

@@ -7,7 +7,7 @@ max_settlements = 4
 b_kegim = tribal
 
 # Misc
-culture = urukhai
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 
 # History

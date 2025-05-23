@@ -5,11 +5,10 @@ title = c_breifne
 max_settlements = 4
 
 b_tavian = castle
-b_amposta = city
 b_sancugat = temple
 
 # Misc
-culture = cathayan
+culture = culture_laegrim
 religion = daedra_sanguine
-
+terrain = woods
 # History

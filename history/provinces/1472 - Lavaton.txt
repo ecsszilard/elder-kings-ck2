@@ -2,14 +2,13 @@
 title = c_lavaton
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_regar = castle
-b_kiveuta = temple
-b_tegeid = city
+b_tegeid= castle
+b_regar = city
 
 # Misc
-culture = nocker
+culture = strigany
 religion = old_gods
 
 # History

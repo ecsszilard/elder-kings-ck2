@@ -8,7 +8,7 @@ b_beneld = tribal
 b_wetadra = temple
 
 # Miscs
-culture = vedouin
+culture = falmer
 religion = night_court
 terrain = farmlands
 

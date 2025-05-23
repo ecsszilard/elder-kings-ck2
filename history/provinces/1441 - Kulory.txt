@@ -4,12 +4,10 @@ title = c_kulory
 # Settlements
 max_settlements = 4
 
-b_azbaetho = castle
-b_ezbita = city
-b_tyirta = temple
+b_azbaetho = tribal
 
 # Misc
-culture = valar
+culture = mummy
 religion = anuic_skaal
 
 # History

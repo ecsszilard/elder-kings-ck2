@@ -4,12 +4,11 @@ title = c_pazith
 # Settlements
 max_settlements = 4
 
-b_pazith = castle
-b_semioma = temple
-b_woferic = city
+b_pazith =  tribal
 
 # Misc
-culture = tilean
-religion = daedra_azura
+culture = ogre
+religion = vahzen
+terrain = hills
 
 # History

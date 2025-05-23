@@ -7,8 +7,8 @@ max_settlements = 4
 b_climont = tribal
 
 # Misc
-culture = ogre
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 terrain = marsh
 
 # History

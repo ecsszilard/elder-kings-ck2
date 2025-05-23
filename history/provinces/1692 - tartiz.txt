@@ -1,5 +1,14 @@
-	title = c_tartiz
-	max_settlements = 4
-	culture = culture_lossoth
-	religion = night_court
-	b_tosail = tribal
+# County Title
+title = c_tartiz
+
+# Settlements
+max_settlements = 4
+
+b_tosail = castle
+b_selg = city
+
+# Misc
+culture = druchii
+religion = night_court
+
+# History

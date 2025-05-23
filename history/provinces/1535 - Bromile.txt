@@ -8,8 +8,8 @@ b_torile = castle
 b_wemonne = city
 
 # Misc
-culture = redcap
-religion = forsworn_heresy
+culture = culture_haradrim
+religion = old_gods
 terrain = mountain
 
 # History

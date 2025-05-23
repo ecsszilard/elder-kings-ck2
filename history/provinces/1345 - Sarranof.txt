@@ -2,15 +2,15 @@
 title = c_sarranof
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_sarranof = castle
+b_sarranof = temple
 b_nbonetta = city
 b_tanemir = temple
 
 # Misc
 culture = eparsian
-religion = old_gods
+religion = ideal_masters
 terrain = mountain
 
 # History

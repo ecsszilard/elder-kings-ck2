@@ -9,7 +9,7 @@ b_duskdale = city
 b_kalart = temple
 
 # Misc
-culture = kislev
+culture = werewolf
 religion = old_gods
 
 # History

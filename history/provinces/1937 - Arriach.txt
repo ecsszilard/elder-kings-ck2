@@ -4,12 +4,11 @@ title = c_arriach
 # Settlements
 max_settlements = 4
 
-b_arriach = castle
-b_indarl = city
+b_arriach = tribal
 b_phakos = temple
 
 # Misc
-culture = balrog
+culture = mummy
 religion = anuic_skaal
 
 # History

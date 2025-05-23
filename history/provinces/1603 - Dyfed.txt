@@ -4,12 +4,12 @@ title = c_dyfed
 # Settlements
 max_settlements = 4
 
-b_tanerim = castle
-b_sanian = temple
 b_wavidon = city
+b_tanerim = temple
+b_sanian = city
 
 # Misc
 culture = culture_firebeard
-religion = vahzen
+religion = daedra_azura
 
 # History

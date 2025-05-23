@@ -5,11 +5,11 @@ title = c_fregacy
 max_settlements = 3
 
 b_qegama = castle
-b_bonama = city
 b_risirek = temple
 
 # Misc
-culture = culture_rohirrim
-religion = daedra_azura
+culture = culture_haradrim
+religion = old_gods
+terrain = desert
 
 # History

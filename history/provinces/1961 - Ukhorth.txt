@@ -7,7 +7,7 @@ max_settlements = 3
 b_ukhorth = tribal
 
 # Misc
-culture = culture_goblin
+culture = mummy
 religion = anuic_skaal
 
 # History

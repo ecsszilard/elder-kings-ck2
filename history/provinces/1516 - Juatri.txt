@@ -5,11 +5,12 @@ title = c_juatri
 max_settlements = 5
 
 b_juatri = castle
-b_nagaret = city
-b_bagitri = temple
+b_nagaret = temple
+b_katoma = city
 
 # Misc
-culture = culture_gondorian
+culture = jodpa
 religion = daedra_azura
+terrain = mountain
 
 # History

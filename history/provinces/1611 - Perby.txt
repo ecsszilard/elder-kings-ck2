@@ -4,12 +4,11 @@ title = c_perby
 # Settlements
 max_settlements = 5
 
-b_cerdana = castle
-b_besalu = temple
-b_banyoles = city
+b_cerdana = tribal
+b_besalu = castle
 
 # Misc
-culture = strigany
+culture = culture_bruedain
 religion = vahzen
 
 # History

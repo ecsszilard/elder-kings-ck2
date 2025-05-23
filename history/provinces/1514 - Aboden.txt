@@ -9,7 +9,7 @@ b_kavarim = city
 b_qavitri = temple
 
 # Misc
-culture = culture_gondorian
+culture = jodpa
 religion = daedra_azura
 
 # History

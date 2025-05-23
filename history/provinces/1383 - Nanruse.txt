@@ -6,10 +6,9 @@ max_settlements = 5
 
 b_nanruse = castle
 b_emidion = city
-b_hawkville = temple
 
 # Misc
-culture = kislev
+culture = werewolf
 religion = old_gods
 
 # History

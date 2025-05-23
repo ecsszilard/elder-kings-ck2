@@ -9,7 +9,7 @@ b_olati-bora = city
 b_qateuta = temple
 
 # Misc
-culture = ashlander
+culture = nocker
 religion = ideal_masters
 
 #

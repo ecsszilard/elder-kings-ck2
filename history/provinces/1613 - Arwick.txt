@@ -4,12 +4,10 @@ title = c_arwick
 # Settlements
 max_settlements = 4
 
-b_nilerim = castle
-b_tyirard = temple
-b_tovew = city
+b_nilerim = tribal
 
 # Misc
-culture = strigany
+culture = culture_bruedain
 religion = vahzen
 
 # History

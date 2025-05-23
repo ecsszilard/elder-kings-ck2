@@ -4,12 +4,10 @@ title = c_siorr
 # Settlements
 max_settlements = 4
 
-b_kamius = castle
-b_siorr = temple
-b_nousara = city
+b_siorr = tribal
 
 # Misc
-culture = tevari
-religion = daedra_azura
+culture = troll
+religion = vahzen
 
 # History

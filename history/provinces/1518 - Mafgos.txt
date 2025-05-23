@@ -4,12 +4,12 @@ title = c_mafgos
 # Settlements
 max_settlements = 5
 
-b_toja = city
-b_sahakti = castle
+b_toja = castle
+b_sahakti = temple
 b_lazoja = city
 
 # Misc
-culture = culture_gondorian
+culture = culture_rohirrim
 religion = daedra_azura
 
 # History

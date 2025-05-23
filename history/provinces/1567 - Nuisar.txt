@@ -9,7 +9,7 @@ b_sisush = city
 b_devirek = temple
 
 # Misc
-culture = falmer
+culture = cathayan
 religion = daedra_meridia
 
 # History

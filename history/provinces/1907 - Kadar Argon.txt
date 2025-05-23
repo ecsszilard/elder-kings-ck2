@@ -8,8 +8,8 @@ b_kadar_argon = tribal
 b_men_erain = temple
 
 # Misc
-culture = mummy
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 terrain = desert
 
 # History

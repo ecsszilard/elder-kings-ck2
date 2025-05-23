@@ -9,7 +9,7 @@ b_biruin = temple
 b_nenule = city
 
 # Misc
-culture = druchii
+culture = culture_silvan
 religion = ideal_masters
 
 # History

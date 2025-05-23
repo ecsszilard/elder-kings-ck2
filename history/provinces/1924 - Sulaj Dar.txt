@@ -4,12 +4,10 @@ title = c_sulaj_dar
 # Settlements
 max_settlements = 4
 
-b_sulaj_dar = castle
-b_wibotul = temple
-b_isra = city
+b_sulaj_dar = tribal
 
 # Misc
-culture = valar
+culture = mummy
 religion = anuic_skaal
 
 # History

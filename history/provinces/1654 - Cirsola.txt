@@ -2,14 +2,12 @@
 title = c_cirsola
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_cirsola = castle
-b_offobut = temple
-b_stribo = city
+b_cirsola = tribal
 
 # Misc
-culture = culture_firebeard
+culture = spriggan_main
 religion = night_court
 
 # History

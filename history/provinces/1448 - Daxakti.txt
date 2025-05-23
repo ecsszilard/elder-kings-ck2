@@ -9,7 +9,7 @@ b_elovmas = city
 b_azcatri = temple
 
 # Misc
-culture = druchii
-religion = forsworn_heresy
+culture = culture_silvan
+religion = ideal_masters
 
 # History

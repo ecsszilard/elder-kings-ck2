@@ -9,9 +9,8 @@ b_stormmeadow = city
 b_sooven = temple
 
 # Misc
-culture = ashlander
+culture = kislev
 religion = ideal_masters
-
-#
+terrain = farmlands
 
 # History

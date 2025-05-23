@@ -4,12 +4,12 @@ title = c_alous
 # Settlements
 max_settlements = 4
 
+b_azabius = tribal
 b_gielen = castle
-b_azabius = temple
-b_alous = city
 
 # Misc
-culture = tevari
-religion = daedra_azura
+culture = troll
+religion = vahzen
+terrain = hills
 
 # History

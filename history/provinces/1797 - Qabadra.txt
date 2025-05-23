@@ -4,12 +4,11 @@ title = c_qabadra
 # Settlements
 max_settlements = 3
 
-b_sosara = castle
-b_wilof = temple
-b_nuqadra = city
+b_sosara = tribal
 
 # Misc
-culture = tevari
-religion = daedra_azura
+culture = troll
+religion = vahzen
+terrain = mountain
 
 # History

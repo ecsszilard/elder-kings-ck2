@@ -8,7 +8,7 @@ b_ahesi = tribal
 b_amunemme = temple
 
 # Misc
-culture = urukhai
-religion = daedra_malacath
+culture = demon_main
+religion = daedra_molag
 
 # History

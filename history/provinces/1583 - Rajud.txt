@@ -2,12 +2,15 @@
 title = c_rajud
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_tivarsac = tribal
+b_tivarsac = castle
+b_riwabes = city
+b_weccej = temple
 
 # Misc
-culture = jodpa
+culture = culture_stonefoot
 religion = daedra_azura
+terrain = mountain
 
 # History

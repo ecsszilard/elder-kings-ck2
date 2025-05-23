@@ -9,7 +9,7 @@ b_buatri = city
 b_tarim = temple
 
 # Misc
-culture = falmer
+culture = cathayan
 religion = daedra_meridia
 
 # History

@@ -4,12 +4,10 @@ title = c_lunbar
 # Settlements
 max_settlements = 3
 
-b_tovian = castle
-b_dozard = temple
-b_derim = city
+b_tovian = tribal
 
 # Misc
-culture = strigany
+culture = culture_bruedain
 religion = vahzen
 
 # History

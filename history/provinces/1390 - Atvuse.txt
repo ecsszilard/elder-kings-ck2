@@ -9,7 +9,7 @@ b_tarem = city
 b_guoz = temple
 
 # Misc
-culture = kislev
+culture = werewolf
 religion = old_gods
 terrain = plains
 

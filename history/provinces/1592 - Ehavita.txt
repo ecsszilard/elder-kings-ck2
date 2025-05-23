@@ -9,7 +9,8 @@ b_dozana = city
 b_tilard = temple
 
 # Misc
-culture = cathayan
+culture = culture_laegrim
 religion = daedra_sanguine
+terrain = woods
 
 # History

@@ -4,10 +4,12 @@ title = c_yrtois
 # Settlements
 max_settlements = 4
 
-b_formentera = tribal
+b_formentera = castle
+b_eibar = temple
+b_onate = city
 
 # Misc
-culture = strigany
-religion = vahzen
+culture = dwemer
+religion = daedra_sanguine
 
 # History

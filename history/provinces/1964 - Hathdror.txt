@@ -8,7 +8,7 @@ b_erabur = tribal
 b_loltharin = temple
 
 # Misc
-culture = orc
+culture = mummy
 religion = anuic_skaal
 
 # History

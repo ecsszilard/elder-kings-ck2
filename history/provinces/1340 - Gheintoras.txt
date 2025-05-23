@@ -8,10 +8,11 @@ b_gheintoras = castle
 b_bolomyr = city
 b_cegoda = city
 b_ezyum = temple
+b_pronabte = temple
 
 # Misc
-culture = culture_silvan
-religion = old_gods
+culture = iserohan
+religion = ideal_masters
 terrain = hills
 
 # History

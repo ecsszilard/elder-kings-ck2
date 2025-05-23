@@ -9,7 +9,7 @@ b_tory = city
 b_rijeuta = temple
 
 # Misc
-culture = snow_falmer
-religion = ideal_masters
+culture = zesterling
+religion = daedra_meridia
 
 # History

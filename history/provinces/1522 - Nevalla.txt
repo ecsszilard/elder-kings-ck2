@@ -9,7 +9,8 @@ b_sazena = city
 b_risoti = temple
 
 # Misc
-culture = culture_gondorian
+culture = culture_rohirrim
 religion = daedra_azura
+terrain = farmlands
 
 # History

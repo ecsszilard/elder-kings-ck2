@@ -9,7 +9,7 @@ b_ibodank = temple
 b_ritri = city
 
 # Misc
-culture = reiklander
-religion = vahzen
+culture = culture_laegrim
+religion = daedra_sanguine
 
 # History

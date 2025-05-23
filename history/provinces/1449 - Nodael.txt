@@ -9,7 +9,8 @@ b_ehavosgi = temple
 b_rosidon = city
 
 # Misc
-culture = druchii
-religion = ideal_masters
+culture = reiklander
+religion = daedra_azura
+terrain = plains
 
 # History

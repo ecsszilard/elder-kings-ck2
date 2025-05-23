@@ -8,7 +8,7 @@ b_toeweddir = tribal
 b_galdos = temple
 
 # Misc
-culture = culture_haradrim
+culture = spriggan_main
 religion = night_court
 
 # History

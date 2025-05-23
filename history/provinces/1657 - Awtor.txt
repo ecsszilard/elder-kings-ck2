@@ -8,7 +8,7 @@ b_awtor = tribal
 b_lipdeuchen = city
 
 # Misc
-culture = culture_haradrim
+culture = spriggan_main
 religion = night_court
 
 # History

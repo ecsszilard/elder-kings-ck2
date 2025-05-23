@@ -2,13 +2,12 @@
 title = c_ralpehn
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
 b_ralpehn = tribal
-b_poltera = temple
 
 # Misc
-culture = vedouin
+culture = falmer
 religion = night_court
 
 # History

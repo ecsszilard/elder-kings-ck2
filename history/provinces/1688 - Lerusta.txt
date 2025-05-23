@@ -1,5 +1,14 @@
-	title = c_lerusta
-	max_settlements = 3
-	culture = culture_lossoth
-	religion = vahzen
-	b_lamek = tribal
+# County Title
+title = c_lerusta
+
+# Settlements
+max_settlements = 3
+
+b_lamek = castle
+b_taaela = temple
+
+# Misc
+culture = druchii
+religion = night_court
+
+# History

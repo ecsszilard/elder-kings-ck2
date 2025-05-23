@@ -9,7 +9,7 @@ b_najama  = city
 b_elush = temple
 
 # Misc
-culture = nocker
+culture = strigany
 religion = old_gods
 
 # History

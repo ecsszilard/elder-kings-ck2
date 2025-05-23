@@ -9,7 +9,7 @@ b_raposgi = city
 b_liucar = temple
 
 # Misc
-culture = nocker
+culture = culture_haradrim
 religion = old_gods
 
 # History

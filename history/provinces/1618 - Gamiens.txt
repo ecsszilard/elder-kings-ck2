@@ -4,12 +4,10 @@ title = c_gamiens
 # Settlements
 max_settlements = 4
 
-b_olite = castle
-b_carcastillo = temple
-b_kijory = city
+b_olite = tribal
 
 # Misc
-culture = strigany
+culture = culture_bruedain
 religion = vahzen
 
 # History

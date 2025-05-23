@@ -1,5 +1,5 @@
 	title = c_tesegen
 	max_settlements = 3
-	culture = culture_lossoth
+	culture = chimer
 	religion = night_court
 	b_beonl = tribal

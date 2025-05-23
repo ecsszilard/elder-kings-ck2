@@ -2,14 +2,15 @@
 title = c_bavana
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_dodeta = castle
-b_tazcasgi = city
+b_tazcasgi = temple
 b_kaxoja = temple
 
 # Misc
-culture = druchii
-religion = ideal_masters
+culture = reiklander
+religion = daedra_azura
+terrain = woods
 
 # History

@@ -8,7 +8,7 @@ b_damuda = tribal
 b_sobela = castle
 
 # Misc
-culture = ogre
+culture = orc
 religion = daedra_malacath
 terrain = marsh
 

@@ -4,12 +4,12 @@ title = c_qurom
 # Settlements
 max_settlements = 4
 
-b_qurom = temple
+b_qurom = castle
 b_qizobl = city
-b_cacur = castle
+b_cacur = temple
 
 # Misc
-culture = culture_silvan
-religion = old_gods
+culture = iserohan
+religion = ideal_masters
 
 # History

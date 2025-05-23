@@ -8,7 +8,7 @@ b_bahama = tribal
 b_rodoti = temple
 
 # Misc
-culture = orc
-religion = daedra_malacath
+culture = balrog
+religion = daedra_molag
 
 # History

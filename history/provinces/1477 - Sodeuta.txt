@@ -9,7 +9,7 @@ b_emazaret = temple
 b_wuart = city
 
 # Misc
-culture = nocker
+culture = strigany
 religion = old_gods
 
 # History

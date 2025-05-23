@@ -8,8 +8,8 @@ b_wuremme = tribal
 b_bendar = temple
 
 # Misc
-culture = troll
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 terrain = marsh
 
 # History

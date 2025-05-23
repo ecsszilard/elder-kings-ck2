@@ -8,8 +8,8 @@ b_korb_taskral = tribal
 b_thrijha_peh = temple
 
 # Misc
-culture = mummy
-religion = anuic_skaal
+culture = orc
+religion = daedra_malacath
 terrain = desert
 
 # History

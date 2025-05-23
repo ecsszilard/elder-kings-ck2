@@ -8,7 +8,7 @@ b_isezh = tribal
 b_wocit = temple
 
 # Misc
-culture = demon_main
-religion = daedra_molag
+culture = orc
+religion = daedra_malacath
 
 # History

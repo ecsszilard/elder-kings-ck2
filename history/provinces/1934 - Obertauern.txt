@@ -4,12 +4,10 @@ title = c_obertauern
 # Settlements
 max_settlements = 4
 
-b_thaluun = castle
-b_melymarod = temple
-b_geweca = city
+b_thaluun = tribal
 
 # Misc
-culture = werewolf
+culture = mummy
 religion = anuic_skaal
 
 # History

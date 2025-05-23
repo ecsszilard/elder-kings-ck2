@@ -8,8 +8,9 @@ b_tanlar = tribal
 b_rayaal = temple
 
 # Misc
-culture = urukhai
-religion = daedra_malacath
+culture = demon_main
+religion = daedra_molag
+terrain = woods
 
 # History
 3300.1.1 = {

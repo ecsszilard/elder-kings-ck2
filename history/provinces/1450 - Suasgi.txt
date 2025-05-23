@@ -2,14 +2,14 @@
 title = c_suasgi
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
 b_sarim = castle
-b_wodoja = temple
-b_dahitri = city
+b_wodoja = city
 
 # Misc
-culture = snow_falmer
-religion = ideal_masters
+culture = reiklander
+religion = daedra_azura
+terrain = plains
 
 # History

@@ -4,12 +4,12 @@ title = c_baas
 # Settlements
 max_settlements = 3
 
+b_seymeld = tribal
 b_baas = temple
-b_seymeld = castle
 
 # Misc
-culture = tilean
-religion = daedra_azura
+culture = ogre
+religion = vahzen
 terrain = mountain
 
 # History

@@ -9,7 +9,7 @@ b_iskej = city
 b_mpebau = temple
 
 # Misc
-culture = asrai
-religion = old_gods
+culture = culture_gondorian
+religion = ideal_masters
 
 # History

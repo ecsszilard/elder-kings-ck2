@@ -1,5 +1,15 @@
-	title = c_karen
-	max_settlements = 4
-	culture = zesterling
-	religion = night_court
-	b_sekomas = tribal
+# County Title
+title = c_karen
+
+# Settlements
+max_settlements = 5
+
+b_sekomas = castle
+b_laytiza = city
+b_rulili = temple
+
+# Misc
+culture = druchii
+religion = night_court
+
+# History

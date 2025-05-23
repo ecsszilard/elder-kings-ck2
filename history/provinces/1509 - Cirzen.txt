@@ -5,12 +5,11 @@ title = c_cirzen
 max_settlements = 3
 
 b_bazoja = castle
-b_nurulger = temple
 b_ezuismal = city
 
 # Misc
-culture = culture_gondorian
-religion = daedra_azura
+culture = culture_haradrim
+religion = old_gods
 terrain = mountain
 
 # History

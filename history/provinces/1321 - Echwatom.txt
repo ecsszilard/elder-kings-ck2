@@ -4,13 +4,13 @@ title = c_echwatom
 # Settlements
 max_settlements = 4
 
-b_echwatom = city
+b_echwatom = castle
 b_dedeath = temple
-b_vaussa = castle
+b_vaussa = city
 
 # Misc
-culture = asrai
-religion = old_gods
+culture = kislev
+religion = ideal_masters
 terrain = forest
 
 # History

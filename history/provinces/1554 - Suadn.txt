@@ -9,7 +9,7 @@ b_bufeda = city
 b_kahoja = city
 
 # Misc
-culture = falmer
+culture = cathayan
 religion = daedra_meridia
 
 # History

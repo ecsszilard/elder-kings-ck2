@@ -9,7 +9,7 @@ b_ubzen = city
 b_ebalart = temple
 
 # Misc
-culture = kislev
+culture = werewolf
 religion = old_gods
 
 # History

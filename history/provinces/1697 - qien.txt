@@ -1,5 +1,15 @@
-	title = c_qien
-	max_settlements = 5
-	culture = culture_lossoth
-	religion = night_court
-	b_qubatu = tribal
+# County Title
+title = c_qien
+
+# Settlements
+max_settlements = 4
+
+b_qubatu = castle
+b_avarune = city
+b_baroman = temple
+
+# Misc
+culture = druchii
+religion = night_court
+
+# History

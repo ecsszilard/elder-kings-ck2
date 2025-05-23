@@ -1,5 +1,14 @@
-	title = c_romez
-	max_settlements = 4
-	culture = culture_lossoth
-	religion = night_court
-	b_wanail = tribal
+# County Title
+title = c_romez
+
+# Settlements
+max_settlements = 3
+
+b_wanail = castle
+b_nosutus = temple
+
+# Misc
+culture = druchii
+religion = night_court
+
+# History

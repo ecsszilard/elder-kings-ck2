@@ -2,13 +2,12 @@
 title = c_besven
 
 # Settlements
-max_settlements = 5
+max_settlements = 3
 
-b_edirje = tribal
-b_besven = temple
+b_besven = tribal
 
 # Misc
-culture = ogre
+culture = orc
 religion = daedra_malacath
 
 # History

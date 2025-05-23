@@ -2,14 +2,13 @@
 title = c_tapita
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_tyavarim = castle
 b_tuarm = temple
 b_waheta = city
 
 # Misc
-culture = snow_falmer
-religion = ideal_masters
+culture = zesterling
+religion = daedra_meridia
 
 # History

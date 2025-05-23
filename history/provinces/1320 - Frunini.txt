@@ -9,7 +9,7 @@ b_justel = temple
 b_ebtifu = castle
 
 # Misc
-culture = woodelf
+culture = culture_gondorian
 religion = ideal_masters
 terrain = forest
 

@@ -943,7 +943,7 @@ longbeard_culture_modifier = {
 	levy_reinforce_rate = -0.95
 	disease_defence = 0.9
 }
-numenorean_culture_modifier = {
+pelur_culture_modifier = {
 	knights_offensive = 2.5
 	knights_defensive = 2.5
 	heavy_infantry_offensive = 2.5

@@ -1,5 +1,19 @@
 # hair, mouth, chin, nose, eyes, cheek, ear, neck
 spriteTypes = {
+	spriteType = {
+		name = "PORTRAIT_zesterlinggfx_child_male"
+		texturefile = "gfx\\characters\\default_son.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "PORTRAIT_zesterlinggfx_child_female"
+		texturefile = "gfx\\characters\\default_daughter.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+
 
 	spriteType = {
 		name = "GFX_zesterling_male_beard"

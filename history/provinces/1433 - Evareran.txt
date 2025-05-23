@@ -9,7 +9,7 @@ b_nyode = city
 b_wadir = temple
 
 # Misc
-culture = woodelf
+culture = culture_silvan
 religion = ideal_masters
 
 # History

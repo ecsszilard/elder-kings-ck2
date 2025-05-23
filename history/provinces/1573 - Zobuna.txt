@@ -4,12 +4,11 @@ title = c_zobuna
 # Settlements
 max_settlements = 4
 
-b_kodush = castle
-b_tyileuta = temple
-b_arivena = temple
+b_tyileuta = city
+b_kodush = temple
 
 # Misc
-culture = cathayan
+culture = culture_hobbit
 religion = daedra_sanguine
 
 # History

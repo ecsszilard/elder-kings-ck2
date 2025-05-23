@@ -7,7 +7,7 @@ max_settlements = 4
 b_lahto = tribal
 
 # Misc
-culture = culture_lossoth
+culture = chimer
 religion = night_court
 
 # History

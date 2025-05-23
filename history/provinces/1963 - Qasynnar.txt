@@ -7,7 +7,7 @@ max_settlements = 3
 b_tinara_kar = tribal
 
 # Misc
-culture = orc
+culture = mummy
 religion = anuic_skaal
 
 # History

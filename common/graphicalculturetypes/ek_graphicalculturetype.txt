@@ -118,13 +118,13 @@ dovahgfx = {
 asraigfx = {
 	skin_tone = 0
 }
-asurgfx = {
+pelurgfx = {
 	skin_tone = 0
 }
 balroggfx = {
 	skin_tone = 0
 }
-beastmangfx = {
+iserohangfx = {
 	skin_tone = 0
 }
 bruedaingfx = {
@@ -167,9 +167,6 @@ kislevgfx = {
 	skin_tone = 0
 }
 mummygfx = {
-	skin_tone = 0
-}
-numenoreangfx = {
 	skin_tone = 2
 }
 nockergfx = {

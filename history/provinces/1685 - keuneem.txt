@@ -1,5 +1,13 @@
-	title = c_keuneem
-	max_settlements = 3
-	culture = zesterling
-	religion = night_court
-	b_athamzeh = tribal
+# County Title
+title = c_keuneem
+
+# Settlements
+max_settlements = 3
+
+b_athamzeh = castle
+
+# Misc
+culture = druchii
+religion = night_court
+
+# History
